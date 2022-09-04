@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wiki/Setting up Git Obsidian.md",
+            "file": "Shopping/Laptops.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/Setting up Git Obsidian.md",
+                "file": "Shopping/Laptops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,25 +80,41 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "aaee68e87e02fe67",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a2785a28fc1a029a",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "f164d023e7d59a2c",
+  "active": "545c8d491ba12f0d",
   "lastOpenFiles": [
-    "Parenting/Homeschooling.md",
-    "Parenting/I Statements.md",
-    "Parenting/Spanking.md",
     "Parenting/Typing.md",
     "Parenting/Virginity.md",
+    "Parenting/I Statements.md",
+    "Parenting/Spanking.md",
+    "Wiki/Setting up Git Obsidian.md",
+    "Parenting/Homeschooling.md",
     "Shopping/Laptops.md",
     "Shopping/Headphones.md",
     "Shopping/Keyboards.md",
-    "Shopping/Docking Stations.md",
-    "Wiki/Setting up Git Obsidian.md"
+    "Shopping/Docking Stations.md"
   ]
 }

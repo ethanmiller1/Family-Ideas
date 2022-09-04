@@ -5,4 +5,3 @@ Laptops should have the following capabilities:
 <input type="checkbox" disabled /> Bluetooth 5.0.
 <input type="checkbox" disabled /> 2 USB-A ports.
 <input type="checkbox" disabled /> 2 slots for memory (to upgrade to 32GB).
-
