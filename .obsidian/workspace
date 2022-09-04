@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Shopping/Laptops.md",
+            "file": "Apps.md",
             "mode": "source",
             "source": false
           }
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,14 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shopping/Laptops.md",
+                "file": "Apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -105,24 +104,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "42affb958ac1aee2",
+  "active": "f164d023e7d59a2c",
   "lastOpenFiles": [
+    "Shopping/Computer Mouse.md",
+    "Shopping/Docking Stations.md",
+    "Shopping/Keyboards.md",
+    "Shopping/Laptops.md",
     "Parenting/Typing.md",
     "Parenting/Virginity.md",
     "Parenting/I Statements.md",
     "Parenting/Spanking.md",
     "Wiki/Setting up Git Obsidian.md",
-    "Parenting/Homeschooling.md",
-    "Shopping/Laptops.md",
-    "Shopping/Headphones.md",
-    "Shopping/Keyboards.md",
-    "Shopping/Docking Stations.md"
+    "Parenting/Homeschooling.md"
   ]
 }

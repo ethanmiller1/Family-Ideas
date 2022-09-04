@@ -499,3 +499,5 @@
 | Zelle                                              |        |       | !         |
 | ZOOM Cloud Meetings                                |        |       | !         |
 | [Samsung] Always On Display                        |        |       |           |
+
+There are 167 apps I want to have on an iPhone
