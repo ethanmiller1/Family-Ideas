@@ -96,15 +96,23 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "42affb958ac1aee2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "545c8d491ba12f0d",
+  "active": "42affb958ac1aee2",
   "lastOpenFiles": [
     "Parenting/Typing.md",
     "Parenting/Virginity.md",
