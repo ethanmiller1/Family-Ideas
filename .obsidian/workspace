@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wiki/Setting up Git Obsidian.md",
+            "file": "Relationship/Intimacy.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/Setting up Git Obsidian.md",
+                "file": "Relationship/Intimacy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,10 +121,10 @@
   },
   "active": "f164d023e7d59a2c",
   "lastOpenFiles": [
+    "Wiki/Setting up Git Obsidian.md",
     "Parenting/I Statements.md",
     "Parenting/Spanking.md",
     "Parenting/Homeschooling.md",
-    "Wiki/Setting up Git Obsidian.md",
     "Parenting/Virginity.md",
     "Shopping/Docking Stations.md",
     "Health/Green Juice.md",
