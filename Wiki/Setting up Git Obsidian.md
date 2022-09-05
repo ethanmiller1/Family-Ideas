@@ -11,3 +11,11 @@
 ![](https://www.youtube.com/watch?v=t7vkPqUj2tk)
 
 ![](https://www.youtube.com/watch?v=jNQXAC9IVRw)
+## [Installation and clone a repo](https://github.com/Vinzent03/obsidian-git-mobile#installation-)
+1. Create new vault
+2. Change config directory in Settings -> About
+3. Install Community Plugin BRAT
+4. Install `Vinzent03/obsidian-git-isomorphic` from BRAT (Add beta plugin for testing)
+5. If cloning private repo, set password/personal access token and username in Settings -> Obsidian Git Mobile
+6. Execute clone repo command with `https://github.com/ethanimproving/Family-Ideas.git`
+7. Reload plugin

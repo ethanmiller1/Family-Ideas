@@ -103,8 +103,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "af4afd4a8362fa95",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -112,15 +121,15 @@
   },
   "active": "f164d023e7d59a2c",
   "lastOpenFiles": [
-    "Apps.md",
-    "Shopping/Laptops.md",
-    "Shopping/Keyboards.md",
-    "Parenting/Spanking.md",
     "Parenting/I Statements.md",
-    "Wiki/Setting up Git Obsidian.md",
+    "Parenting/Spanking.md",
     "Parenting/Homeschooling.md",
-    "Shopping/Computer Mouse.md",
+    "Wiki/Setting up Git Obsidian.md",
+    "Parenting/Virginity.md",
     "Shopping/Docking Stations.md",
-    "Parenting/Typing.md"
+    "Health/Green Juice.md",
+    "Parenting/Typing.md",
+    "Apps.md",
+    "Shopping/Laptops.md"
   ]
 }

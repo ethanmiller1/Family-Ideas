@@ -33,5 +33,22 @@
       ],
       "key": "H"
     }
+  ],
+  "obsidian-editor-shortcuts:transformToLowercase": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "U"
+    }
+  ],
+  "obsidian-editor-shortcuts:transformToUppercase": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "U"
+    }
   ]
 }
