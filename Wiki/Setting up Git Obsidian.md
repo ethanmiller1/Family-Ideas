@@ -8,3 +8,6 @@
 > 
   [John 1:1-3 - KJV](https://bible-api.com/John+1:1-3?translation=kjv)
 
+![](https://www.youtube.com/watch?v=t7vkPqUj2tk)
+
+![](https://www.youtube.com/watch?v=jNQXAC9IVRw)

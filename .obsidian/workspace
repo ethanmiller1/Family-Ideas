@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Apps.md",
+            "file": "Wiki/Setting up Git Obsidian.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apps.md",
+                "file": "Wiki/Setting up Git Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,20 +108,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "f164d023e7d59a2c",
   "lastOpenFiles": [
+    "Apps.md",
+    "Shopping/Laptops.md",
+    "Shopping/Keyboards.md",
+    "Parenting/Spanking.md",
+    "Parenting/I Statements.md",
+    "Wiki/Setting up Git Obsidian.md",
+    "Parenting/Homeschooling.md",
     "Shopping/Computer Mouse.md",
     "Shopping/Docking Stations.md",
-    "Shopping/Keyboards.md",
-    "Shopping/Laptops.md",
-    "Parenting/Typing.md",
-    "Parenting/Virginity.md",
-    "Parenting/I Statements.md",
-    "Parenting/Spanking.md",
-    "Wiki/Setting up Git Obsidian.md",
-    "Parenting/Homeschooling.md"
+    "Parenting/Typing.md"
   ]
 }

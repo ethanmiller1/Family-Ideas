@@ -10,5 +10,7 @@
   "table-editor-obsidian",
   "obsidian-checklist-plugin",
   "open-vscode",
-  "obsidian-editor-shortcuts"
+  "obsidian-editor-shortcuts",
+  "obsidian-version-history-diff",
+  "media-extended"
 ]
