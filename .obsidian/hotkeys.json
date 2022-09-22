@@ -17,14 +17,7 @@
     }
   ],
   "obsidian-editor-shortcuts:deleteLine": [],
-  "table-editor-obsidian:table-control-bar": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "D"
-    }
-  ],
+  "table-editor-obsidian:table-control-bar": [],
   "editor:delete-paragraph": [],
   "obsidian-version-history-diff:open-git-diff-view": [
     {
@@ -59,5 +52,6 @@
       ],
       "key": "F"
     }
-  ]
+  ],
+  "editor:insert-wikilink": []
 }
