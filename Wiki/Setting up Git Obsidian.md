@@ -21,11 +21,12 @@
 
 # Frequent Shortcuts
 
-| Action         | Shortcut         |
-| -------------- | ---------------- |
-| Commit Changes | Ctrl + K         |
-| Push Changes   | Ctrl + Shift + K |
-| Format         | Shift + Alt + F  |
+| Action                | Shortcut         |
+| --------------------- | ---------------- |
+| Commit Changes        | Ctrl + K         |
+| Push Changes          | Ctrl + Shift + K |
+| View history for file | Alt + H          |
+| Format                | Shift + Alt + F  |
 
 ## Multi-caret selection behaviors
 
