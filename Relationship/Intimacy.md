@@ -44,3 +44,8 @@ Tonight was past midnight after an almost breakup conversation in the car and sh
 
 ## Messy
 She’s on her period and she doesn’t want to have to cleanup and shower.
+
+# Period Sex
+I had sex with my woman during her period for the first time today. It was in a bathroom by a pool at Lago Vista. She let me take her tampon out and replace it with my dick. I sat on the toilet while she climbed on top and rode me. It was only a minute until she said, “I’m going to come.” And a minute longer until someone knocked on the door. “Hold up,” I shouted as we came up with an alibi. Mariana said, “We were walking and something pinched my foot. And we were just cleaning it up.” That was a better story than anything I was coming up with. When we came out, luckily nobody was there.
+
+Other than the adventure, the sex felt exactly the same. Just as pleasurable. I couldn’t see the blood until after I pulled out. It dripped down her leg and I was worried it would get on the dress she was still wearing. It was unbuttoned from earlier when I took hold of her breasts and licked them, and sucked them until we fucked. The sex was fantastic, with an added element of mischief because we were in a public bathroom. It’s something scandalous and wrong, which makes it a different kind of experience. It adds to the fun of it. And it gave me a taste to do more of it, with more danger and more scandal. I love the woman I did it with, and her sexy sense of adventure turns me on. I want to fuck here everywhere we go. And I want to feel her cold mouth on my dick, sucking it like a popsicle.
