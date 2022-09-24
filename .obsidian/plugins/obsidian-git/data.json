@@ -20,5 +20,8 @@
   "basePath": "",
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,
-  "username": ""
+  "username": "ethanimproving",
+  "showedMobileNotice": false,
+  "refreshSourceControlTimer": 7000,
+  "showBranchStatusBar": true
 }
