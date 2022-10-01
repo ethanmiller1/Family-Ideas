@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Relationship/Intimacy.md",
+            "file": "Professional Journal/Amazon Prep.md",
             "mode": "source",
             "source": false
           }
@@ -40,8 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relationship/Intimacy.md",
+                "file": "Professional Journal/Amazon Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,15 +122,15 @@
   },
   "active": "1389fa29eb57c505",
   "lastOpenFiles": [
-    "Shopping/Computer Mouse.md",
-    "Shopping/Docking Stations.md",
-    "Shopping/Headphones.md",
-    "Shopping/Keyboards.md",
-    "Shopping/Laptops.md",
-    "Relationship/Intimacy.md",
+    "Professional Journal/16 Principles of Leadership.md",
+    "Professional Journal/Amazon Prep.md",
+    "Professional Journal/Software Stories.md",
+    "Health/Green Juice.md",
     "Wiki/Setting up Git Obsidian.md",
-    "Apps.md",
-    "287553516_10220386526243325_385554012205618825_n.jpg",
-    "Relationship/Photography.md"
+    "Relationship/Intimacy.md",
+    "Relationship/Photography.md",
+    "Parenting/Homeschooling.md",
+    "Parenting/I Statements.md",
+    "Shopping/Computer Mouse.md"
   ]
 }
