@@ -102,29 +102,13 @@ For the behavioral questions, you’ll want to read through the Leadership Princ
 
 [SDE Interviewing at Amazon](https://www.amazon.jobs/en/landing_pages/software-development-topics)*****Highly Recommend at this stage**
 
-  
+[https://youtu.be/CpcxVE5JIX4](https://youtu.be/CpcxVE5JIX4)*****Highly Recommend at this stage**
 
-[https://youtu.be/CpcxVE5JIX4](https://youtu.be/CpcxVE5JIX4)
+[https://youtu.be/mjZpZ_wcYFg](https://youtu.be/mjZpZ_wcYFg)*****Highly Recommend at this stage**
 
-*****Highly Recommend at this stage**
-
-  
-
-[https://youtu.be/mjZpZ_wcYFg](https://youtu.be/mjZpZ_wcYFg)
-
-*****Highly Recommend at this stage**
-
-  
-
-[https://youtu.be/gNQ9-kgyHfo](https://youtu.be/gNQ9-kgyHfo)
-
-*****Highly Recommend at this stage**
-
-  
+[https://youtu.be/gNQ9-kgyHfo](https://youtu.be/gNQ9-kgyHfo)*****Highly Recommend at this stage**
 
 [https://www.youtube.com/watch?v=Q2YyN9qbpD8](https://www.youtube.com/watch?v=Q2YyN9qbpD8)
-
-  
 
 [https://www.youtube.com/watch?v=DERzYnthq1s&list=WL&index=26](https://www.youtube.com/watch?v=DERzYnthq1s&list=WL&index=26)
 
@@ -141,8 +125,6 @@ For the behavioral questions, you’ll want to read through the Leadership Princ
 [About Amazon](https://www.amazon.jobs/en/landing_pages/about-amazon)
 
 [Set up your free AWS account here](https://portal.aws.amazon.com/billing/signup?nc2=h_ct&src=header_signup&redirect_url=https%3A%2F%2Faws.amazon.com%2Fregistration-confirmation#/start)
-
-  
 
 [https://www.youtube.com/watch?v=RY9ERVyNsyI](https://www.youtube.com/watch?v=RY9ERVyNsyI)
 
