@@ -103,6 +103,21 @@ public void backtrack(int[] candidates, int target, List<List<Integer>> ans, Lis
 
 Check out this awesome [visualizer](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/visualize/).
 
+
+
+## Maximum Depth of Binary Tree
+
+[Neatcode](https://neetcode.io/practice) | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Github](https://github.com/ethanimproving/CodeWars/blob/master/src/main/java/com/leetcode/tree)
+
+![[Maximum Depth of Binary Tree.png]]
+
+``` java
+public int maxDepth(TreeNode root) {  
+    if (root == null) return 0;  
+    return 1 + Math.max(maxDepth(root.left), maxDepth(root.right));  
+}
+```
+
 # Iterative Depth First Search
 
 # Breadth First Search
