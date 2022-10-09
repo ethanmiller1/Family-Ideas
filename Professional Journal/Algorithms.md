@@ -142,6 +142,54 @@ private int dfs(TreeNode current) {
     return Math.max(left, right);  
 }
 ```
+
+### [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)
+[Neatcode](https://neetcode.io/practice) | [Github](https://github.com/ethanimproving/CodeWars/blob/master/src/main/java/com/leetcode/tree)
+
+![[Balanced Binary Tree.png]]
+
+``` java
+public static boolean isBalanced(TreeNode root) {  
+    return dfs(root).getValue0();  
+}  
+  
+private static SimpleEntry<Boolean, Integer> dfs(TreeNode root) {  
+    if (root == null) {  
+        return new SimpleEntry<>(true, 0);  
+    }  
+  
+    var left = dfs(root.left);  
+    var right = dfs(root.right);  
+  
+    var balanced =  
+            left.getKey() &&  
+                    right.getKey() &&  
+                    (Math.abs(left.getValue() - right.getValue()) <= 1);  
+  
+    return new SimpleEntry<>(  
+            balanced,  
+            1 + Math.max(left.getValue(), right.getValue())  
+    );  
+}
+```
+
+## [Same Tree](https://leetcode.com/problems/same-tree/)
+
+![[Same Tree.png]]
+
+``` java
+public boolean isSameTree(TreeNode p, TreeNode q) {  
+    if (p == null && q == null) return true;  
+    if (p == null || q == null) return false;  
+    if (p.val != q.val) return false;  
+  
+    boolean left = isSameTree(p.left, q.left);  
+    boolean right = isSameTree(p.right, q.right);  
+  
+    return left && right;  
+}
+```
+
 # Iterative Depth First Search
 
 # Breadth First Search
