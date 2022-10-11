@@ -5,6 +5,17 @@
 Leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers.
 ```
 
+Everything we do ultimately comes back to the goal of creating the best costumer experience we can. And on the back end of things, that's expressed in two way: (1) Making our system as **fast** as possible, and (2) making our systems as **reliable** as possible. And so when we're designing the service flow of how to fulfill a particular product, maybe they want to 10 prepaid bags, we want to look at, "How can I minimize the network waiting time?" Maybe that's finding ways to call our travel reservation system (Sabre Web Service) fewer times, or if an upstream service makes a call to get information about a reservation, can we cache that response somewhere so the downstream services don't can to repeat that call. We're always trying to optimize our SLOs so that we can provide the best possible customer experience in our portion of the product.
+
+* Caching reservation response, forceRefreshIdicator
+* Meticulous testing, full scenario coverage as opposed to code coverage
+* Reducing network waiting time with fewer calls to reservation system.
+* Rolling update deployment strategy
+* Canary Deployments
+* Verbose logs
+* Robust monitoring and alerting
+
+---
 What we do is collect SLIs through application surveys and form objectives based on customer feedback. The great thing about our product owners is they are open to having conversations about what we think customers will want, and then we confirm that with data given to us by various surveys.
 
 For example we have a product called **Extended Hold** where a customer isn't sure they want to buy the ticket, so they pay $50 to reserve it for 3 days or 7 days. We have a system that notifies the customer 1 day before the expiration. That application belonged to my team but was going to be given to another team, and the product owner decided he didn't want to spend the effort doing that. So we opened up a conversation with him to talk about why this is important for the customer, and he changed his mind. Mark Blessing was his name.

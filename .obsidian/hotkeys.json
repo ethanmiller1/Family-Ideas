@@ -53,5 +53,23 @@
       "key": "F"
     }
   ],
-  "editor:insert-wikilink": []
+  "editor:insert-wikilink": [],
+  "editor:fold-all": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "-"
+    }
+  ],
+  "editor:unfold-all": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "+"
+    }
+  ]
 }
