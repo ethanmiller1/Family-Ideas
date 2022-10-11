@@ -195,3 +195,59 @@ public boolean isSameTree(TreeNode p, TreeNode q) {
 # Breadth First Search
 
 # Two pointer Technique
+
+# Heap / Priority Queue
+
+## [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+
+![[Pasted image 20221010212804.png]]
+
+``` java
+private Queue<Integer> smallHeap = new PriorityQueue<>(Collections.reverseOrder());  
+private Queue<Integer> largeHeap = new PriorityQueue<>();  
+private boolean even = true;  
+  
+public double findMedian() { // O(1)  
+    if (even) return (smallHeap.peek() + largeHeap.peek()) / 2.0;  
+    else return smallHeap.peek();  
+}  
+  
+public void addNum(int num) { // O(log n)  
+    if (even) { // If even, add to largeHeap and poll smallest number to smallHeap  
+        largeHeap.offer(num);  
+        smallHeap.offer(largeHeap.poll());  
+    } else {  
+        smallHeap.offer(num); // Otherwise add to smallHeap and move largest number to largeHeap  
+        largeHeap.offer(smallHeap.poll());  
+    }  
+    even = !even;  
+}
+```
+
+The invariant of the algorithm is two heaps, small and large, each represent half of the current list. The length of smaller half is kept to be n / 2 at all time and the length of the larger half is either n / 2 or n / 2 + 1 depend on n's parity.
+
+This way we only need to peek the two heaps' top number to calculate median.
+
+Any time before we add a new number, there are two scenarios, (total n numbers, k = n / 2):
+
+```lisp
+(1) length of (small, large) == (k, k)
+(2) length of (small, large) == (k, k + 1)
+```
+
+After adding the number, total (n + 1) numbers, they will become:
+
+```lisp
+(1) length of (small, large) == (k, k + 1)
+(2) length of (small, large) == (k + 1, k + 1)
+```
+
+Here we take the first scenario for example, we know the large will gain one more item and small will remain the same size, but we cannot just push the item into large. What we should do is we push the new number into small and pop the maximum item from small then push it into large (all the pop and push here are heappop and heappush). By doing this kind of operations for the two scenarios we can keep our invariant.
+
+Therefore to add a number, we have 3 O(log n) heap operations. Luckily the heapq provided us a function "heappushpop" which saves some time by combine two into one. The document says:
+
+> Push item on the heap, then pop and return the smallest item from the heap. The combined action runs more efficiently than heappush() followed by a separate call to heappop().
+
+Alltogether, the add operation is O(logn), The findMedian operation is O(1).
+
+A further observation is that the two scenarios take turns when adding numbers, thus it is possible to combine the two into one. For this please see [stefan's post](https://leetcode.com/discuss/64910/very-short-o-log-n-o-1)
