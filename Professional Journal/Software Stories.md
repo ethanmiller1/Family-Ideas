@@ -5,6 +5,7 @@
 - [ ] Lalit - $1 million a month [External RES Fee - Swagger change for the AGYCHG](https://rally1.rallydev.com/#/6722473906/iterationstatus?detail=/userstory/514528916780)
 - [ ] Rancher Migration
 - [ ] Logging - MiNiFi
+- [ ] Logging - Sys Log Drain - Logstash Pods are still filling up the [var/lib/kubelet/pods](https://apm.aa.com/e/daa15b35-f63b-46fe-8465-781f95df871a/#newhosts/hostdetails;id=HOST-27834CE5A136F1AE;dd=DISK;tab=USAGE;gtf=-2h) directory and getting evicted
 - [ ] Database source in config map (recorded DERP: [YouTube](https://youtu.be/UHYieC28vFs?t=628))
 - [ ] [[Software Stories#Group Deposit Failures for More Than One Item|Group Deposit Failures for More Than One Item]]
 - [ ] Prometheus - Custom metrics
@@ -131,3 +132,27 @@ The [solution](https://github.com/quarkusio/quarkus/pull/22692) was fairly obvio
 ``` java
 Math.max(Integer.sum(pageCount,-1), 0)
 ```
+
+## x-hold - crash loopback in qa -- Cannot acquire connection from data source
+
+x-hold - crash loopback in qa  --  Cannot acquire connection from data sourcejava.sql.SQLRecoverableException
+ancillary-olay-ms  --  http://10.42.7.73:8080/health   Readiness probe failed   --   not in production
+advredesign-deadletter-ms  --  [http://10.42.7.73:8080/health](http://10.42.7.73:8080/health)   Readiness probe failed   --   not in production
+
+itkts - Invalid or corrupt jarfile /artifact.jar  --  because of powershell script that selected which jar  || SOLUTION: rebuild with task group changes
+
+airextra-sws-ms  --  GOOD
+emdmanager-ms  --  GOOD
+
+1.  Changed to actuator/health
+	-   BasePathAwareHandlerMapping - Did not find handler method for [/actuator/health]
+2.  Changed to port 8911
+	-   Readiness probe failed: Get "http://10.42.7.76:8911/health": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+3.  Increased memory / cpu
+4.  Increase delay period
+5.  Download logs
+	1.  Looking for request mappings in application context
+	2.  EndpointHandlerMapping -  Mapped "{[/mappings || /mappings.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}"
+	3.  EndpointHandlerMapping -  Mapped "{[/health || /health.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}"
+	4.  request handler methods found on class
+6.  to allow for resolving potential circular references

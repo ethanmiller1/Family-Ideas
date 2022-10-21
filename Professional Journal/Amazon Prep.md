@@ -2,6 +2,8 @@
 
 Conduct the interview as if you were the interviewer. I've conducted interviews before and I know that most interviewers aren't giving this interview as much thought as the interviewee. They can be nervous too. So break the ice, take control, and say something, "Hey Hamid, thanks for joining." Calm, cool, and high energy. You are totally relaxed. This is how I do my interviews and the technique always give me an edge over other candidates that sound nervous and awkward, or too enthusiastic and unnatural.
 
+[Polya’s Problem Solving Techniques](https://math.berkeley.edu/~gmelvin/polya.pdf)
+
 # Hamid
 
 ## Email
@@ -22,6 +24,18 @@ Conduct the interview as if you were the interviewer. I've conducted interviews 
 - [ ] **System design competency**
     
 You should have a working knowledge of a few common and useful **design patterns**, along with how to write software in an object-oriented way. You likely won’t be asked to describe the details of how specific design patterns work, but expect to apply concepts to the particular problem and defend your design choices.
+    
+1. software components
+2. distributed systems
+3. system trade-offs
+
+**Topics to review:**
+
+- Often times, software systems need software components, something to store data, something to make decisions (such as business logic) and APIs or processes.
+    
+- Knowledge of distributed systems, **SOA**, and **n-tiered software architecture** is very important in answering systems design questions. If you don’t work with these concepts regularly, be sure to review them.
+    
+- Also, be sure to practice drawing your system design by hand and be prepared to whiteboard.
 
 - [ ] **Three coding competencies**
     
@@ -156,9 +170,8 @@ After your interview the team will huddle to discuss how you did during the proc
 
 Thanks,
 
-Thanks,
-
 **Hamid Bangura**
+
 ## Call
 * Moved here from Chicago 4 years ago.
 * Lives in McKinney.
