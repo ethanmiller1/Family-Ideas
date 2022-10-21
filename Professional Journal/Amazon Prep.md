@@ -29,6 +29,47 @@ You should have a working knowledge of a few common and useful **design patterns
 2. distributed systems
 3. system trade-offs
 
+Be prepared to discuss:
+- [ ] deployment
+- [ ] scaling
+- [ ] failures
+- [ ] availability
+- [ ] performance
+- [ ] latency and concurrency
+
+#### Clarifying questions:
+-   Who are you designing the system for and why?
+-   What expectations do they have in terms of functionality?
+-   What things would a customer just assume will be in the system but they may not think about in the forefront of their minds? (e.g. it'll be fast and secure)
+-   What happens if we become hyper-popular with customers? What does 2x growth look like? Or 10x? And how would that influence the design?
+-   Things that influence the design typically include: non-functional requirements (amount of load, load distribution, security), ways of interacting with the system (user access, scheduled processes, synchronous/asynchronous communication), and data flow.
+-   Explicitly mention all the assumptions that are being made.
+-   Spend majority of time on the Critical Requirements identified and on the core functionality.
+-   Justify the design choices that are made.
+-   Design the solution for scale, i.e. would more transactions seamlessly work.
+-   Research and read through best practices in the tech stack or infrastructure you would like to use. It helps to know how code and hardware can be maintained, scaled, and be made available.
+-    What are the key business and technical metrics for the system? How will someone use that to identify problems?
+-   What are the potential bottlenecks or pain points?
+-   What failure points exist?
+-   What redundancy can we build in to reduce single points of failure?
+-   How does someone get logs and debug the system?
+-   If there are multiple ways to design a system that satisfy the requirements, describe the trade-offs of both approaches, choose one and explain why. Having a conversation with the interviewer and explaining your thought process, might help you to make a choice.
+-   We are looking for a high level understanding of how to design a system and deep knowledge into at least one area. If the interviewer asks you to dive deep into something you are unfamiliar with, tell them and suggest some other area you are familiar with and dive into that.
+-    Domain Driven Design
+-    On system design, we are talking more about different components and how those interact between each other on a high level on a product that we are building
+
+#### Things I'm strong on:
+- Nth Tier Architecture (Front-end, Middle Tier, Back-end)
+- Microservice Oriented Architecture (Payment Service, Fulfilment Service, etc)
+- Data Design (User table, Order Table, Product Table, ORM like Hybernate)
+- Centralized Logging
+- API (Integration point for Frontend/Backend)
+- Domain Modeling
+
+[Amazon System Design Preparation (SIP)](https://www.youtube.com/watch?v=gNQ9-kgyHfo)
+[System Design Video](https://duaa2xs5z3ldn.cloudfront.net/assets/ae9Gg7INmujM-3uC_transcoded-Kn4JaKQ61tn_-btu-REACTION%20VIDEO%20FINAL.mp4?v=1)
+
+
 **Topics to review:**
 
 - Often times, software systems need software components, something to store data, something to make decisions (such as business logic) and APIs or processes.
@@ -45,7 +86,17 @@ This is your chance to show off your knowledge and understanding of computer sci
 2. logical and maintainable
 3. problem-solving. 
 
-  
+## Logical and Maintainable
+
+Lay out your code with functions, classes, to break things up into logical components. And that's much more important, I think, for logical and maintainable than trying to find the most optimal or best solution.
+
+Most of the candidates, they struggle to take the interviewer as your colleague and explain their ideas.
+
+
+"Okay I'm trying to think about what you said, I'm not arriving at a lightbulb moment. Can you phrase that hint in a different way?"
+
+Logical and maintainable is really probably, maybe even the most important of the three coding competencies.
+
 ### Leadership Principles
 
 **Here are a few items about what to expect from your day:**
