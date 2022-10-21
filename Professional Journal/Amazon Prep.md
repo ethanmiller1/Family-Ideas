@@ -1,3 +1,173 @@
+# Ethan's #1 Tip: Take control
+
+Conduct the interview as if you were the interviewer. I've conducted interviews before and I know that most interviewers aren't giving this interview as much thought as the interviewee. They can be nervous too. So break the ice, take control, and say something, "Hey Hamid, thanks for joining." Calm, cool, and high energy. You are totally relaxed. This is how I do my interviews and the technique always give me an edge over other candidates that sound nervous and awkward, or too enthusiastic and unnatural.
+
+# Hamid
+
+* Moved here from Chicago 4 years ago.
+* Lives in McKinney.
+* Had unlimited PTO, employees abused it, he only got 2 weeks.
+
+Keep 4 to 6 good stories that have depth. Go for depth over quantity.
+
+STAR storytelling technique:
+1.  **Situation**: An event, project, or challenge faced.
+2.  **Task**: Your responsibilities and assignments for the situation.
+3.  **Action**: Steps or procedure taken to relieve or rectify situation.
+4.  **Result**: Results of actions taken.
+
+3 types of [compensation](https://www.levels.fyi/companies/amazon/salaries/software-engineer/levels/sde-ii?limit=50):
+* Base Salary
+* Stock Grant (/yr)
+* Signing Bonus
+
+Stock compensation:
+-   End of year one – 5% of the initial grant ($30,000)
+-   End of year two – 15% ($90,000)
+-   Six months later – 20% ($120,00)
+-   End of year three 20% ($120,000) for a total of $240,000 in year 3
+-   Six months later – 20% ($120,000)
+-   End of year four – 20% ($120,000) for a total of $240,000 in year 4
+-   Your total stock vests = $600,000
+
+25 days vacation, an extra 5 after 6 months.
+
+# Final Interview Tips from [Saji](https://www.youtube.com/watch?v=rAAmnKCU_hk&feature=youtu.be)
+
+* Laptop, camera, and headsets are recommended.
+* 4 rounds of interview (3 coding, 1 system design)
+
+### Data structures
+
+* Generic computer science fundamentals. Basic things.
+* Are you able to work through data structures and algorithms?
+* How well do you understand and apply data structures?
+* Are you considering runtimes for common operations and understand how they use memory?
+
+## Algorithms
+
+* Divide and conquer
+* When to use BFS vs. DFS.
+* Are **you** discussing runtimes, theoretical limitations, basic implementations, strategies for different classes of algorithms.
+* Before coding ask questions.
+* Voice assumptions.
+* Ask for examples.
+* Ask them to validate their ideas.
+* While coding explain decision making.
+* Describe your code.
+* Write syntactically correct code.
+* Test the code or explain it.
+
+### Problem Solving
+### Logical
+### Maintainable
+### System Design
+
+* Draw it out.
+* Tradeoffs.
+* Talk about advantages and disadvantages of your design.
+* Operational performance.
+
+#### What is the expectation for an L5?
+
+* L5 will be owning software features within the team.
+* Codes independently.
+* Receives guidance on software design.
+* Solving difficult software problems.
+
+Most common leadership questionsg:
+1.  Customer Obsession
+2.  Ownership
+3.  Invent and Simplify
+4.  Are Right, A Lot
+5.  Learn and Be Curious
+6.  Insist on the Highest Standards
+7.  Think Big
+8.  Bias for Action
+9.  Earn Trust
+10.  Dive Deep
+11.  Have Backbone; Disagree and Commit
+12.  Deliver Results
+
+Each round has 1 Technical Aspect and 2 Leadership Principle questions (7 minutes each).
+
+Live code link and whiteboard link will be sent 48 hours prior to the interview. **Download everything ahead of time**.
+
+* Keep a copy of your **resume** handy.
+    
+* Keep a **pen and paper** handy in case the whiteboard tool doesn't work.
+    
+* Keep a fully charged cell **phone** nearby.
+    
+* Keep a spare **headset** in case battery dies.
+    
+* Keep your **favorite drink** because you will be talking a lot.
+    
+* Stay in a **quiet place** where you won't be disturbed.
+    
+* Wear a **button down shirt**.
+    
+* Let them know if you need a bathroom break so you can be comfortable.
+
+Within 5 business days of the interview, the interview team and the recruitment team has a conversation what was there experience with you on the interview date, and that is called debrief, and that's where they come to a result. The client lead will call to inform you of the results. He will not give feedback.
+
+## Rule # 1: Ask clarifying questions.
+
+This is the most important rule Saji emphasized, that she repeated over and over again.
+
+Avoid awkward pauses and try to think out loud if possible. If you're not getting to an answer in 2 or 3 minutes, ask for help or a hint.
+
+Mix success stories with failure stories. A lesson changes a failure into a success.
+
+### You are the star
+
+Say I, not we. It's awkward to talk about ourselves, but that is the expectation.
+
+* Were you the key driver?
+* What was your biggest contribution?
+* What obstacles did you face?
+* How did you overcome them?
+* How did you influence the outcome?
+
+### Keep eye contact during the introduction
+
+### Speak clearly
+
+I know you are good, so we don't have to worry about that. [17:53](https://youtu.be/rAAmnKCU_hk?t=1073)
+
+The interviewers are listening, taking notes, and asking the follow-up questions all at the same time. They might miss certain things, so make sure things are done in a way that they don't miss anything.
+
+### Data is crucial
+
+Amazon is data-driven, so focus on quantitative or qualitative data in your stories.
+
+* Numbers
+* Money
+* Process improved
+* Time saved
+* Tradeoffs
+* What were the lessons?
+* What would you do differently next time around?
+
+## Problem Solving
+
+* Ability to make a high level coding technical questions.
+* How are you thinking through this?
+* Identifying alternatives.
+* Weighing different options.
+* See potential roadblocks and challenges with your solutions.
+* Run your initial thoughts.
+* Gather requirements.
+* Determine what is the most important piece of the problem.
+* Are you able to translate them into clean code?
+* Find edge cases.
+
+They may give you a vague problem and see how you're approaching it. 
+
+# First Interview with [Poojah](https://www.youtube.com/watch?v=Tu5o8My1ahY)
+
+# Email Prep
+
 Come prepared with questions that you would like to explore in more detail (e.g. initiatives/projects, team culture, scope of role).
 
 [Amazon Chime Guide](https://www.amazon.jobs/en/landing_pages/amazon-chime-instructions)
@@ -67,7 +237,7 @@ The next step will be a Technical Phone Screen. Please find some information bel
 - [ ]   graphs/graph traversal
     
 - [ ]   Big O notation
-    
+
 
 **Some tools you might find useful to study up for the coding portion include:**
 
