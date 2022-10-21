@@ -1,0 +1,5 @@
+- [ ] The work you would do in the role.
+- [ ] Future vision of the product/team. 
+- [ ] Noteworthy accomplishments the team has achieved (if not confidential).
+- [ ] What it takes to be a successful SDE at Amazon and learn more about how they manage their teams.
+- [ ] What trait would make a candidate attractive?

@@ -20,12 +20,26 @@
             }
           },
           {
-            "id": "4ce3f6f00669c43e",
+            "id": "889e942d7e31f91a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Professional Journal/Ethan Miller Resume 2022.pdf"
+                "file": "Professional Journal/Questions For Them.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ec2814f06e6307a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relationship/How many kids to have.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -51,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Professional Journal/Amazon Prep.md",
+                "file": "Relationship/How many kids to have.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,17 +178,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "26724ff97ebf8be5",
+  "active": "7ec2814f06e6307a",
   "lastOpenFiles": [
-    "Professional Journal/Algorithms.md",
-    "Professional Journal/Amazon Prep.md",
     "Professional Journal/Ethan Miller Resume 2022.pdf",
+    "Professional Journal/Amazon Prep.md",
+    "Relationship/How many kids to have.md",
+    "Professional Journal/Questions For Them.md",
     "Professional Journal/Software Stories.md",
+    "Professional Journal/Algorithms.md",
     "Professional Journal/16 Principles of Leadership.md",
     "Professional Journal/Neatcode Blind 75 Notes.md",
     "Parenting/Masculinity.md",
-    "Parenting/Career.md",
-    "Wiki/Setting up Git Obsidian.md",
-    "Attachments/Diameter of Binary Tree.jpg"
+    "Parenting/Career.md"
   ]
 }

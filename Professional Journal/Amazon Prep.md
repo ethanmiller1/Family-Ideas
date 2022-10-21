@@ -4,6 +4,162 @@ Conduct the interview as if you were the interviewer. I've conducted interviews 
 
 # Hamid
 
+## Email
+
+[Interview prep for Software Development Engineer (SDE)](https://www.amazon.jobs/en/software-development-interview-prep?cmpid=ECOTOT700005B#/)
+
+1. **Interview journey.** In this section, you'll learn what the interview process looks like from start to finish and who you’ll meet along the way. Estimated time: 10 minutes.
+    
+2. **Technical interview competencies.** This is divided into **system design** and **coding competencies**. These sections will dive deeper into the competencies, including examples of questions asked and how to best showcase your skills. Estimated time: 65 minutes for course content, _Additional enhanced content_ (podcast and video): 40 minutes play-time
+    
+3. **Leadership Principles.** In this section, you'll review Amazon's Leadership Principles and discover how to best answer questions based on the STAR method. Estimated time: 35 minutes.
+
+
+## **Interview competencies**
+
+### Technical Competencies
+
+- [ ] **System design competency**
+    
+You should have a working knowledge of a few common and useful **design patterns**, along with how to write software in an object-oriented way. You likely won’t be asked to describe the details of how specific design patterns work, but expect to apply concepts to the particular problem and defend your design choices.
+
+- [ ] **Three coding competencies**
+    
+This is your chance to show off your knowledge and understanding of computer science fundamentals (e.g., hash maps, arrays, binary trees, algorithms). Your evaluation will include three areas of coding:
+    
+1. data structures and algorithms
+2. logical and maintainable
+3. problem-solving. 
+
+  
+### Leadership Principles
+
+**Here are a few items about what to expect from your day:**
+
+  
+·      **Your technical/functional experience** within the job function. Attached is prep doc for **Software Development Engineer** at Amazon.  
+·      **Your leadership potential:** We evaluate each of our candidates against a set of Amazon Leadership Principles so we’ll be asking you lot of “tell me about a time when” time questions.  We want to make sure that you can be successful at Amazon. Please visit this link to review our [Leadership Principles](https://www.amazon.jobs/principles) and check out this [video](https://youtu.be/CpcxVE5JIX4) on our LPs, too!    
+  
+**FOCUS on these Leadership Principles for your interview**: **1) Insist on the Highest Standards 2) Ownership 3) Earn Trust 4) Have Backbone; Disagree and Commit 5) Customer Obsession 6) Bias for Action 7) Are Right, A Lot 8) Deliver Results 9) Think Big 10) Invent and Simplify**   
+      ·      **Hint**: I highly recommend printing out our Leadership Principles, and jotting down a few examples of stories you can speak to that relate to each! This will greatly help you in the "Tell me about a time when..." questions you'll get onsite.   
+      ·      **Hint**: We ask a lot of follow-up questions! Don't be afraid to reflect and think about 'Looking back', 'What would you do differently?', 'Knowing what you know now...'         
+·      **Whiteboarding:** During your onsite you will be asked to discuss how you would approach a problem and you will need to write code (no pseudo code). You can use AWSboard at [https://awwapp.com/#](https://awwapp.com/)).The link to the whiteboard app will be included in your confirmation email.   
+  
+**STAR**  
+·      You will meet with several interviewers (One on One for 1 hour). Each interviewer will cover a specific topic with you – remember to employ the **STAR** Methodology (**S**ituation, **T**ask, **A**ction, **R**esult) when responding to your interview questions!   
+      ·      **Hint**: We are a metrics-driven company - the more data-driven impacts/**results** you have - the better! (See attached STAR Method & Amazon’s Leadership Principles pdf doc).
+
+**TIPS**
+
+-   **Ask Clarifying Questions** - During your interview, remember to: ask clarifying questions, process out loud, and be vocally self-critical (Amazon takes risks, fails fast, and iterates quickly – we genuinely want to hear about situations where you’ve taken ownership and the lessons you’ve learned from “failures”)
+-   **Prepare Questions for your Interviewers -** Come with a few questions of your own! We’re curious to hear what excites you about AWS
+-   **“I” versus “We”** - We obviously want you to give credit where credit is due when explaining previous team efforts you’ve lead/been a part of, but please remember this is YOUR time to speak about your individual contributions and successes. Be aware of how you’re describing examples and lean toward using examples where you use “I” more than “we”. This will ensure you’re giving your main personal examples and the best data points for the team to draw from.
+-   **Leadership Principles -** You’ll want to look at the leadership principles and think of specific examples to talk about through the conversation. Our [Amazon Leadership Principles](https://l.shatrk.com/sh-trk-112p68p/r/e/8VxJKHAoW13heK3Z?r=https://www.amazon.jobs/principles) are the fabric that make up Amazon’s culture.  They are also heavily relied upon in the interview process, so definitely take a moment to think of a couple anecdotes from your career for each one!  The more specificity you can give in your answers, around how and why you did what you did will serve you well. They want to see that you had a full view of the work you were doing.
+
+**Coding**
+
+You want to make sure your code is logical, without too many dependencies, and can be easily worked on by someone coming in behind you. The core fundamentals around algorithms and data structures still matter at this level. Be sure to think about edge cases, “Big O” Notation and worst-case scenarios, as all things at AWS will eventually scale to a large degree.  
+
+-   **Clarify:** There will be live coding, so be prepared for that. You can ask clarifying questions, and even find out if the interviewer wants an optimal solution or just something that works.  Because time is limited, they may just want you to brute force something if you have to.
+-   Code or script in the language you are most comfortable using. 
+-   I’ve attached a document for coding and design tips to be aware of and to help you prep.
+
+**Technical Direction and Ownership**
+
+-   Be sure to call out the things that you have OWNED and where you set the technical direction for things like: the technology used on the team, the system design and architecture, how the team would be structured, etc. 
+-   They will want to see this ownership as a constant theme in your experience. Highlight areas where you may have disagreed with ideas of others, but were able to find common ground and a path forward. 
+-   Talk about your scope of influence, both inside and outside your team, as they will want to see how you influence decisions that affect not only your group, but others as well.
+-   Details on the service/platform/teams you’ve led (questions around availability, complexity of service, interesting problems they dealt with, monitoring the service, etc.) **Highlight scope and scale of the work and systems you’ve had the chance to work in.**
+
+**Mentoring and Developing Others**
+
+-   Whether through code reviews or other mechanisms, talk about how you have been able to shape the growth and development of others on your teams.
+-   Highlight specific examples as much as you can, where you have had a direct influence on the development of others.
+
+**CODING (cont’d)**
+
+Coding questions outside of system design will focus on **problem solving**, **logical and maintainable code**, and **data structures and algorithms.**
+
+-   **Problem Solving:** We look at your ability to take a high level coding/technical question/problems, thinking through problems, identify alternatives, and weigh different options; you should be able to see potential roadblocks and challenges with your solutions.
+    -   Consider these questions: 
+        -   _How do you engage and approach a vague problem?_ 
+        -   _What do you do when you’re solving a problem and get stuck?_ 
+        -   _Run through your initial thoughts, gather requirements, determine and voice the most important piece of the problem, translate it to clean written code, find edge cases, etc_.
+-   **Data Structures & Algorithms:** Focusing on your general CS fundamentals and ability to work effectively through data structures and algorithms. Sometimes starting with intentionally vague scenarios designed to observe your ability to work through a problem.
+    -   Consider these questions: 
+        -   _How well do you understand and apply data structures?_ 
+        -   _Consider runtimes for common operations and understand how they use memory._ 
+        -   _Understand data structures you would encounter in core libraries ie Trees, Hash Maps, Lists, Arrays, Queues, etc._
+        -   _Understand common algorithms (i.e. traversal first, recursion)_
+        -   _Discuss runtimes, theoretical limitations and algorithms_ 
+-   **Logical & Maintainable:** While assessment of technical skills will happen throughout the entire interview process, this part is focused on making sure we receive a large enough chunk of code to assess that you can do the following: write code this is syntactically correct and does what it is intended to do; build maintainable and readable code; write idiomatic code
+    -   Consider these questions: 
+        -   _The code you write during your interview should be scalable, robust and well-tested_
+        -   _We expect you to produce enough code for us to evaluate how your solution addresses the problem_
+        -   _While your coding ask yourself, “If someone looked at this code in the future, would they be able to understand it without explanation, comments or documentation?”_
+
+**Write _Production Quality_ Code!**
+
+-   Write code as it would sit inside production.
+-   Write REAL code, NOT pseudo-code. Write code that would be able to be compiled.
+-   Write elegant code, NOT brute force code. (Is it simple? Is it effective? Is it efficient?)
+-   Use clean coding syntax (Is it readable? Is it understandable?)
+-   Use quality naming conventions (Does it make sense? Is it easy and obvious for someone to follow along or is it difficult to interpret?
+
+**Coding/Algorithms/Data Structures – Practice Resources**
+
+I wanted to include a few of these, as they tend to help with sharpening skills as they relate to coding practice, and algorithms & data structures. If it’s been a while, this would be a good set of resources to explore and practice with. 
+
+**LeetCode** - [https://leetcode.com/](https://leetcode.com/)
+
+**HackerRank** - [https://www.hackerrank.com/](https://www.hackerrank.com/)
+
+**AlgoExpert** - [https://www.algoexpert.io/product](https://www.algoexpert.io/product)
+
+   
+**Additional Resources:**
+
+Virtual Interviewing at Amazon: [https://www.amazon.jobs/en/landing_pages/virtual-interview-prep](https://www.amazon.jobs/en/landing_pages/virtual-interview-prep)
+
+SDE Interviewing at Amazon: [https://www.amazon.jobs/en/landing_pages/software-development-topics](https://www.amazon.jobs/en/landing_pages/software-development-topics)
+
+-   Video Amazon Leadership Principles: [https://youtu.be/CpcxVE5JIX4](https://youtu.be/CpcxVE5JIX4)
+-   VIDEO Amazon Coding Sample: [https://youtu.be/mjZpZ_wcYFg](https://youtu.be/mjZpZ_wcYFg)
+-   VIDEO Amazon System Design: [https://www.youtube.com/watch?v=gNQ9-kgyHfo](https://www.youtube.com/watch?v=gNQ9-kgyHfo)
+-   VIDEO Onsite Interview Prep: [https://youtu.be/Vh20A2TMVKE](https://youtu.be/Vh20A2TMVKE)
+-   VIDEO Leadership Principles: [https://youtu.be/CpcxVE5JIX4](https://youtu.be/CpcxVE5JIX4)
+
+Here's a link to our [Benefits](https://www.amazon.jobs/en/landing_pages/benefitsoverview-us-copay)  
+      ·      [Here](https://www.amazon.jobs/en/landing_pages/benefitsoverview-us) are benefits for states excluding CT/NC/UT and WI)  
+      ·      Also, a review of our [Vacation/PTO](https://www.amazon.jobs/en/landing_pages/pto-overview-us) policies 
+
+ I’ve had a number of candidates coming through that have found this to be useful. This is a former AWS Recruiter who runs a YouTube channel to help prepare people for their virtual onsite interview with AWS.
+
+[https://www.youtube.com/c/AmazonInterviewWhizz/videos](https://www.youtube.com/c/AmazonInterviewWhizz/videos)
+
+ **Amazon Articles (Optional Reading):**
+
+-   [Amazon Earnings Numbers Show AWS Success](http://t.sidekickopen01.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XZs3LPXXdW5vfR-61pNx_CW2B89Qs56dPDKf7V5Qh202?t=http%3A%2F%2Fsearchaws.techtarget.com%2Fopinion%2FAmazon-earnings-numbers-show-AWS-success-IaaS-growth&si=5624094474633216&pi=e1e14e21-f6ee-4084-9945-85d8ae08a882)
+-   [Jeff Bezos’ Top Ten Leadership Lessons](http://t.sidekickopen01.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XZs3LPXXdW5vfR-61pNx_CW2B89Qs56dPDKf7V5Qh202?t=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fgeorgeanders%2F2012%2F04%2F04%2Fbezos-tips%2F&si=5624094474633216&pi=e1e14e21-f6ee-4084-9945-85d8ae08a882) 
+-   [#11 on Forbes “Most Innovative Global Companies”](http://www.forbes.com/innovative-companies/list/#tab:rank)
+-   [World's Most Admired Companies](http://t.sidekickopen01.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XZs3LPXXdW5vfR-61pNx_CW2B89Qs56dPDKf7V5Qh202?t=http%3A%2F%2Fmoney.cnn.com%2Fmagazines%2Ffortune%2Fmost-admired%2F&si=5624094474633216&pi=e1e14e21-f6ee-4084-9945-85d8ae08a882)
+-   [http://aws.amazon.com/blogs/aws/](http://t.sidekickopen01.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XZs3LPXXdW5vfR-61pNx_CW2B89Qs56dPDKf7V5Qh202?t=http%3A%2F%2Faws.amazon.com%2Fblogs%2Faws%2F&si=5624094474633216&pi=e1e14e21-f6ee-4084-9945-85d8ae08a882)
+-   [This chart shows why Amazon's cloud will be hard for Microsoft, Google, and everyone else to beat](http://www.businessinsider.com/aws-cloud-innovation-in-one-chart-2015-7)
+-   [Amazon Web Services CEO Andy Jassy ‘optimistic’ AWS will become a $100B business, but no spinoff plans](http://www.geekwire.com/2016/amazon-web-service-ceo-andy-jassy-optimistic-aws-will-become-100b-business-no-spinoff-plans/)
+
+   
+**As a reminder:**  the attire here at Amazon is very casual. I recommend to not wear a suit. Feel free to dress in business casual attire if you desire.   
+   
+When you have a moment, please complete the candidate survey that will be sent to you following the onsite interview if you have time (Recruiter How’s My Driving).  Hiring is one of the most important things we do at Amazon to grow and scale our business and your feedback is valuable as we strive to improve the experience candidates have during the interview process.   
+  
+After your interview the team will huddle to discuss how you did during the process. I’ll be in touch within 5 business days either by phone or email to let you know the next step, which is typically a hire or no hire decision.  Good luck!
+
+Thanks,
+
+Thanks,
+
+**Hamid Bangura**
+## Call
 * Moved here from Chicago 4 years ago.
 * Lives in McKinney.
 * Had unlimited PTO, employees abused it, he only got 2 weeks.
