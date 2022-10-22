@@ -106,6 +106,7 @@
 - [ ] I notice the things she does for me
 - [ ] I don't laugh at what she doesn't know
 - [ ] I notice and verbally praise the sacrifices she makes for God
+- [ ] I don’t get mad at anything that I don’t have a verse in mind for
 
 # I am fully devoted to the Lord
 
