@@ -41,8 +41,8 @@
 # I am being sanctified
 
 - [ ] NoFap
-- [ ] I meditation of my heart is acceptable in thy sight
-- [ ] I take captive every thought that exalted itself against the knowledge of God
+- [ ] The meditation of my heart is acceptable in thy sight
+- [ ] I take captive every thought that exalteth itself against the knowledge of God
 - [ ] I resist the lie that sin is good
 
 # I am disciplined
@@ -90,7 +90,7 @@
 # I am a good boyfriend
 
 - [ ] I am not overly dramatic
-- [ ] I listen to her, consider her, and know that she is just as me in the decisions we make
+- [ ] I listen to her, consider her, and know that she is just as important as me in the decisions we make
 - [ ] I talk about a variety of things with her
 - [ ] I make time to message her throughout the day
 - [ ] I will not get mad at a confessed sin
@@ -105,6 +105,7 @@
 - [ ] If you see it, say it
 - [ ] I notice the things she does for me
 - [ ] I don't laugh at what she doesn't know
+- [ ] I notice and verbally praise the sacrifices she makes for God
 
 # I am fully devoted to the Lord
 
