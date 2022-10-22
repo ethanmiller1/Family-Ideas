@@ -1,16 +1,16 @@
 # I am filled with the Holy Spirit
 
-- [ ] Bible
-- [ ] Pray
-- [ ] Scripture Typer
-- [ ] Sing psalms, hymns, and spiritual songs
+- [ ] [[Ethan's Commitment Notes#Bible|1)]] Bible
+- [ ] [[Ethan's Commitment Notes#Pray|2)]] Pray
+- [ ] [[Ethan's Commitment Notes#Scripture Typer|3)]] Scripture Typer
+- [ ] [[Ethan's Commitment Notes#Sing psalms, hymns, and spiritual songs|4)]] Sing psalms, hymns, and spiritual songs
 
-# I am wise and pleasent
+# I am wise and pleasant
 
-- [ ] Don't be so sarcastic
-- [ ] Use kind rhetoric
-- [ ] Smile
-- [ ] I appreciate compliments
+- [ ] [[Ethan's Commitment Notes#Don't be so sarcastic|1)]] Don't be so sarcastic
+- [ ] [[Ethan's Commitment Notes#Use kind rhetoric|2)]] Use kind rhetoric
+- [ ] [[Ethan's Commitment Notes#Smile|3)]] Smile
+- [ ] [[Ethan's Commitment Notes#I appreciate compliments|4)]] I appreciate compliments
 
 # I am learning
 
@@ -134,4 +134,3 @@
 - [ ] I'm good at remembering names
 - [ ] I am down to earth
 - [ ] I am high energy
-
