@@ -58,7 +58,6 @@ Be prepared to discuss:
 -    Domain Driven Design
 -    On system design, we are talking more about different components and how those interact between each other on a high level on a product that we are building
 
-#### Things I'm strong on:
 - Nth Tier Architecture (Front-end, Middle Tier, Back-end)
 - Microservice Oriented Architecture (Payment Service, Fulfilment Service, etc)
 - Data Design (User table, Order Table, Product Table, ORM like Hybernate)
@@ -96,6 +95,18 @@ Most of the candidates, they struggle to take the interviewer as your colleague 
 "Okay I'm trying to think about what you said, I'm not arriving at a lightbulb moment. Can you phrase that hint in a different way?"
 
 Logical and maintainable is really probably, maybe even the most important of the three coding competencies.
+
+## Data structures and algorithms
+
+Some of the most widely used techniques and methods which can be used in order to customize and improve the design of a system are:
+1. redundancy
+2. partitioning
+3. caching
+4. indexing
+5. load balancing
+6. queues
+
+Ask the interviewer if they agree with them as you go.
 
 ### Leadership Principles
 

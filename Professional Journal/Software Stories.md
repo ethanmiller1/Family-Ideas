@@ -30,6 +30,9 @@
 - [ ] Credit Card Encryption
 - [ ] Second index for data partitions
 - [ ] Caching Apigee access token
+- [ ] Logging PCI information (CC data)
+- [ ] Feedback: doing all the work for Jenifer, mentoring, make too many jokes, team believes everything I say
+- [ ] Deliver results: New Kiosk work, negotiating contracts, 
 
 ## Brent Garrison: PostConstruct Max Connections
 We had an issue during **load testing** where we got severe **response time degradation** without any of our JVM metrics being impacted. My first thought was, "I've seen this before, probably the **capacity** on our **virtual services** are set too low and it's adding each request to a waiting queue." We logged into DevTest, opened up the virtualization, and nope. The capacity was set higher than the volume we were getting. We were pulling our hair out looking through Dynatrace, Kubernetes events, K9s for CPU and memory metrics, nothing. Finally after a whole morning of searching, we realized that we had MAX_CONNECTIONS set in our `application.yaml` file, but we weren't actually injecting it into the system properties, so we added a `@PostConstruct`  that increased the max connections to 50, and boom, problem solved.
@@ -98,7 +101,7 @@ Using `@RepositoryRestResource` throws an exception when the table is empty.
 Call to `/tasks` should return an empty list of tasks, similar to this response with an empty list of countries.
 
 [![image](https://user-images.githubusercontent.com/55400451/134951841-f1f840c1-1ef3-43a8-93da-2848c2d44b0b.png)](https://user-images.githubusercontent.com/55400451/134951841-f1f840c1-1ef3-43a8-93da-2848c2d44b0b.png)
-**Actual behavior**  
+**Actual behavior**
 Call to `/tasks` triggers a `RestDataPanacheException` caused by: `java.lang.IllegalArgumentException: Page index must be >= 0 : -1`.
 
 ``` warn
@@ -156,3 +159,7 @@ emdmanager-ms  --  GOOD
 	3.  EndpointHandlerMapping -  Mapped "{[/health || /health.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}"
 	4.  request handler methods found on class
 6.  to allow for resolving potential circular references
+
+## Mentorship
+
+At my first consulting job with a company called improving, my boss called me into his room one time for a 1-1, and the first words he said was, "Stop doing everything for Jennifer. You are like someone standing over her while she's bench pressing, holding all of the weight, robbing her of actually growing through the resistance of the weight." So he said that, and it really made sense to me, so going forward whenever I mentor people, I still explain a lot of thing, I still give a generous amount of help, but I'm always careful to make sure I give enough space for the people I'm mentoring to work everything out in their own mind. I ask them questions, and I wait for them to arrive a the right question to ask me before I answer it. And after making that change, fast forward to my next company at American Airlines, my squad is known for fast tracking young developers to the next level, mostly because of me, and my manager told me that they always send the adepts to our squad because we're for being really good at teaching. 
