@@ -1,0 +1,204 @@
+Index: .obsidian/workspace.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.obsidian/workspace.json b/.obsidian/workspace.json
+deleted file mode 100644
+--- a/.obsidian/workspace.json	(revision 2e5b30e46430d2b06ba2391a38c42fe437cfee1d)
++++ /dev/null	(revision 2e5b30e46430d2b06ba2391a38c42fe437cfee1d)
+@@ -1,193 +0,0 @@
+-{
+-  "main": {
+-    "id": "bbde01db3148f8a1",
+-    "type": "split",
+-    "children": [
+-      {
+-        "id": "c8714872be4934d2",
+-        "type": "tabs",
+-        "children": [
+-          {
+-            "id": "26724ff97ebf8be5",
+-            "type": "leaf",
+-            "state": {
+-              "type": "markdown",
+-              "state": {
+-                "file": "Professional Journal/Amazon Prep.md",
+-                "mode": "source",
+-                "source": false
+-              }
+-            }
+-          },
+-          {
+-            "id": "889e942d7e31f91a",
+-            "type": "leaf",
+-            "state": {
+-              "type": "markdown",
+-              "state": {
+-                "file": "Professional Journal/Software Stories.md",
+-                "mode": "source",
+-                "source": false
+-              }
+-            }
+-          },
+-          {
+-            "id": "be09a174f8345f4a",
+-            "type": "leaf",
+-            "state": {
+-              "type": "markdown",
+-              "state": {
+-                "file": "Professional Journal/Software Pep Talk (Cover Letter Stuff).md",
+-                "mode": "source",
+-                "source": false
+-              }
+-            }
+-          },
+-          {
+-            "id": "57e57e4e11b83b32",
+-            "type": "leaf",
+-            "state": {
+-              "type": "markdown",
+-              "state": {
+-                "file": "Professional Journal/Algorithms.md",
+-                "mode": "source",
+-                "source": false
+-              }
+-            }
+-          },
+-          {
+-            "id": "bd2430de533028cf",
+-            "type": "leaf",
+-            "state": {
+-              "type": "release-notes",
+-              "state": {
+-                "currentVersion": "1.0.0"
+-              }
+-            }
+-          }
+-        ]
+-      }
+-    ],
+-    "direction": "vertical"
+-  },
+-  "left": {
+-    "id": "637c1af10d6f191d",
+-    "type": "split",
+-    "children": [
+-      {
+-        "id": "98d496f72e373433",
+-        "type": "tabs",
+-        "children": [
+-          {
+-            "id": "6d0c9d68020797b0",
+-            "type": "leaf",
+-            "state": {
+-              "type": "file-explorer",
+-              "state": {
+-                "sortOrder": "alphabetical"
+-              }
+-            }
+-          },
+-          {
+-            "id": "545c8d491ba12f0d",
+-            "type": "leaf",
+-            "state": {
+-              "type": "search",
+-              "state": {
+-                "query": "",
+-                "matchingCase": true,
+-                "explainSearch": false,
+-                "collapseAll": false,
+-                "extraContext": false,
+-                "sortOrder": "alphabetical"
+-              }
+-            }
+-          }
+-        ]
+-      }
+-    ],
+-    "direction": "horizontal",
+-    "width": 300
+-  },
+-  "right": {
+-    "id": "6a1f3949dcf232b9",
+-    "type": "split",
+-    "children": [
+-      {
+-        "id": "5c67fd7af26b576e",
+-        "type": "tabs",
+-        "children": [
+-          {
+-            "id": "5ac8b55c780616b1",
+-            "type": "leaf",
+-            "state": {
+-              "type": "backlink",
+-              "state": {
+-                "file": "Professional Journal/Amazon Prep.md",
+-                "collapseAll": false,
+-                "extraContext": false,
+-                "sortOrder": "alphabetical",
+-                "showSearch": false,
+-                "searchQuery": "",
+-                "backlinkCollapsed": false,
+-                "unlinkedCollapsed": false
+-              }
+-            }
+-          },
+-          {
+-            "id": "aaee68e87e02fe67",
+-            "type": "leaf",
+-            "state": {
+-              "type": "calendar",
+-              "state": {}
+-            }
+-          },
+-          {
+-            "id": "a2785a28fc1a029a",
+-            "type": "leaf",
+-            "state": {
+-              "type": "todo",
+-              "state": {}
+-            }
+-          },
+-          {
+-            "id": "42affb958ac1aee2",
+-            "type": "leaf",
+-            "state": {
+-              "type": "advanced-tables-toolbar",
+-              "state": {}
+-            }
+-          },
+-          {
+-            "id": "af4afd4a8362fa95",
+-            "type": "leaf",
+-            "state": {
+-              "type": "git-view",
+-              "state": {}
+-            }
+-          }
+-        ],
+-        "currentTab": 3
+-      }
+-    ],
+-    "direction": "horizontal",
+-    "width": 300,
+-    "collapsed": true
+-  },
+-  "ribbon": {
+-    "mostRecentAction": ""
+-  },
+-  "active": "26724ff97ebf8be5",
+-  "lastOpenFiles": [
+-    "Professional Journal/Software Stories.md",
+-    "Professional Journal/Vocabulary.md",
+-    "Professional Journal/Questions For Them.md",
+-    "Professional Journal/Software Pep Talk (Cover Letter Stuff).md",
+-    "Relationship/How many kids to have.md",
+-    "Professional Journal/Ethan Miller Resume 2022.pdf",
+-    "Professional Journal/Amazon Prep.md",
+-    "Professional Journal/Algorithms.md",
+-    "Professional Journal/16 Principles of Leadership.md",
+-    "Professional Journal/Neatcode Blind 75 Notes.md"
+-  ]
+-}
+\ No newline at end of file

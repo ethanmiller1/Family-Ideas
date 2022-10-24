@@ -5,6 +5,7 @@
 - [ ] Memory watcher
 - [ ] Caching Apigee access token
 - [ ] Logging PCI information (CC data)
+- [ ] Decupling Unit Tests, using Wiremock to move tests up to the API level
 
 # Problem Stories
 - [ ] Logging - Sys Log Drain - Logstash Pods are still filling up the [var/lib/kubelet/pods](https://apm.aa.com/e/daa15b35-f63b-46fe-8465-781f95df871a/#newhosts/hostdetails;id=HOST-27834CE5A136F1AE;dd=DISK;tab=USAGE;gtf=-2h) directory and getting evicted
@@ -315,7 +316,7 @@ output
 
 We were having an issue where a few times a week we kept getting these Dynatrace alerts about our Instant Ticketing app having long garbage collection.
 
-First we enabled verbose logs in the JAVA_OPTIONS and uploaded the log file to [gceasy.io](https://gceasy.io/). And we say the Old Gen kept increasing steadily, we didn't see the nice shark tooth pattern that we wanted to see, so then we did some performance testing, did a thread dump, and analyzed the JVM memory breakdown with [YourKit Java Profiler](https://www.yourkit.com/java/profiler/features/) and [jvisualvm](https://visualvm.github.io/).
+First we enabled verbose logs in the JAVA_OPTIONS and uploaded the log file to [gceasy.io](https://gceasy.io/). And we saw the Old Gen kept increasing steadily, we didn't see the nice shark tooth pattern that we wanted to see, so then we did some performance testing, did a thread dump, and analyzed the JVM memory breakdown with [YourKit Java Profiler](https://www.yourkit.com/java/profiler/features/) and [jvisualvm](https://visualvm.github.io/).
 
 Ultimately we decided since iTKTS was a legacy app, and it was some third party dependency we couldn't identify, we implemented a workaround, a [memory watcher](https://dev.azure.com/AmericanAirlines/TicketingAndReceipts/_git/iTKTSCloud?path=/src/main/java/com/aa/etds/itkts/monitors/memory/MemoryCheck.java). 
 
@@ -395,3 +396,100 @@ public void checkOldGenerationHeap()
 ```
 
 We did have an issue where the app was shutting down before Kuberenetes stopped sending traffic to the pod, so we set the grace period for 30 seconds to allow all the busy threads to finish before the app actually shut down.
+
+## Incorrect Casing for Service Discovery
+-   orderGroupResponse was invalid - this is a fake orderItemResponse 422
+-   [DETTBP](https://dataexplorer.azure.com/clusters/private-orionadxp.eastus/databases/p-ticket-tktrcpts-applogs-adxdb?query=H4sIAAAAAAAAA12NPQvCMBCG9/6Ko1MKhYJ7HUQ3FdHu4ZocMdo24S4ogj/eIFXB9Xnejx71EJxofxUdOdiiaeAJ9zMxgU5+JEk4RlgCuqAWtiq+kskEtttgMAWGtoVyvem61aHMkSyIoX9ACpLYT07piCxkj+9SBSgmx/LhhUyCnMkr6vdXQwmgyho0xrjHkTKoZmJwGMieiG/e0J9jkhgmoc5/8LyxIxF0VL0ApT4lfO8AAAA=)
+-   SessionManager.designatePrinter: HttpClientErrorException$NotFound: 404
+-   applicationn.yaml: sessionManager: `http://sessionManager-ms/api/v1`
+![[Pasted image 20221024161400.png]]
+-   IKS: `sessionmanager-ms`
+![[Pasted image 20221024161512.png]]
+-   Every single call to session manager in AOL is failing.
+-   Solution: use lowercase in service discover.
+
+## JsonSubTypes
+
+We have an `OrderFulfillmentRequest.java` that contains a list of OrderItems, and depending on the product, it may contain 1 of 20 or so subtypes that inherit from OrderItem. The problem is that the way we were generating the Client Stubs from our YAML contract, we had a List of POJOs, so our ObjectMappers didn't know how to serialize it.
+
+![[Pasted image 20221024161849.png]]
+
+
+Because of that, we had to turn the JSON into a HashMap, get the ItemType from that map, and then maintain a functional map that looks at the ItemType and maps it to the corresponding OrderItem. Now that was a bad design because it violates the open/close principle. Any new products we introduce, now we have to modify the functional map.
+``` java
+public Map< ItemTypeEnum, Function< LinkedHashMap< String, String >, AncillaryOrderItem > >  
+       getMappingFunctionMap()  
+{  
+   var funMap = new EnumMap<>( ItemTypeEnum.class );  
+  
+   funMap.put( ItemTypeEnum.GROUP_DEPOSIT,  
+               oim -> mapper.convertValue( oim, GroupDepositOrderItem.class ) );  
+   funMap.put( ItemTypeEnum.PREFERRED_SEAT,  
+               oim -> mapper.convertValue( oim, SeatOrderItem.class ) );  
+   funMap.put( ItemTypeEnum.PAID_SEAT,  
+               oim -> mapper.convertValue( oim, SeatOrderItem.class ) );   
+   funMap.put( ItemTypeEnum.MISC_SVCS_FEE,  
+               oim -> mapper.convertValue( oim, FeeOrderItem.class ) );  
+   funMap.put( ItemTypeEnum.MILEAGE_REINSTATEMENT_FEE,  
+               oim -> mapper.convertValue( oim, AncillaryOrderItem.class ) );  
+   funMap.put( ItemTypeEnum.ADHOC_TRIPCREDIT,  
+               oim -> mapper.convertValue( oim, AncillaryOrderItem.class ) );  
+   funMap.put( ItemTypeEnum.MILEAGE_MULTIPLIER,  
+               oim -> mapper.convertValue( oim, MileageMultiplierOrderItem.class ) );  
+   funMap.put( ItemTypeEnum.INSTANT_UPSELL,  
+               oim -> mapper.convertValue( oim, InstantUpsellOrderItem.class ) );  
+   funMap.put( ItemTypeEnum.PREPAID_BAGS,  
+               oim -> mapper.convertValue( oim, PrepaidBagsOrderItem.class ) );  
+   ...
+  
+   return funMap;  
+}
+
+private AncillaryOrderItem getAncillaryOrderItemFromObject( Object orderItemObj )  
+{  
+   var orderItemMap = mapper.convertValue( orderItemObj, LinkedHashMap.class );  
+   var currentItemType = ItemTypeEnum.valueOf( orderItemMap.get( "itemType" ) );  
+   var fun = orderItemMapper.get( currentItemType );  
+   if( fun == null ) throw new BadDataException();  
+       
+   return fun.apply( orderItemMap ); ;  
+}
+```
+
+Rather than doing it that way, there's an annotation that exists called `@JsonSubTypes` that will automatically do that mapping during serialization. 
+
+![[Pasted image 20221024161817.png]]
+
+The way to get the `openapi-generator-maven-plugin` to automatically generate those annotations is by providing a discriminator with a list of mappings, and [add the `jersey2` library to the configuration](https://stackoverflow.com/questions/59087711/swagger-generate-subtypes-based-on-enum-value).
+
+``` yaml
+discriminator:  
+  propertyName: itemType  
+  mapping:  
+    PREFERRED_SEAT: "#/components/schemas/seatOrderItem"  
+    REGULAR_SEAT: "#/components/schemas/seatOrderItem"  
+    AUTOASSIGN_SEAT: "#/components/schemas/seatOrderItem"  
+    MAIN_CABIN_EXTRA: "#/components/schemas/seatOrderItem"  
+    PAID_SEAT: "#/components/schemas/seatOrderItem"  
+    TICKET: "#/components/schemas/ticketIssuanceOrderItem"  
+    EXCHANGE_TICKET: "#/components/schemas/exchangeTicketOrderItem"  
+    REISSUE: "#/components/schemas/ticketReIssuanceOrderItem"  
+    REVAL: "#/components/schemas/ticketReIssuanceOrderItem"  
+    MILEAGE_REINSTATEMENT_FEE: "#/components/schemas/ancillaryOrderItem"  
+    ADHOC_TRIPCREDIT: "#/components/schemas/ancillaryOrderItem"  
+    GROUP_DEPOSIT: "#/components/schemas/groupDepositOrderItem"  
+    E500: "#/components/schemas/unaffiliatedUpgradeOrderItem"  
+    MISC_SVCS_FEE: "#/components/schemas/feeOrderItem"  
+    PAYONLY_BOOKED: "#/components/schemas/payOnlyBookedOrderItem"  
+    MILEAGE_MULTIPLIER: '#/components/schemas/mileageMultiplierOrderItem'  
+    INSTANT_UPSELL: '#/components/schemas/instantUpsellOrderItem'  
+    PREPAID_BAGS: '#/components/schemas/prepaidBagsOrderItem'  
+    SAME_DAY_FLIGHT_CHANGE: '#/components/schemas/sameDayFlightChangeOrderItem'  
+    LOAD_FACTOR_BASED_UPGRADE: '#/components/schemas/loadFactorBasedUpgradeOrderItem'  
+    SAME_DAY_STANDBY: '#/components/schemas/standbyOrderItem'  
+    ALTERNATE_FLIGHT_STANDBY: '#/components/schemas/standbyOrderItem'  
+    PRIORITY_PRODUCT: '#/components/schemas/priorityProductOrderItem'  
+    AIRPORT_BAGS_MSR: '#/components/schemas/bagCheckinOrderItem'
+```
+
+Once we did that, there was no more need for the functional map, our code was more SOLID, and everything was better.
