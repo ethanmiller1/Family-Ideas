@@ -18,4 +18,5 @@
 - [ ] If I sleep in, and traffic is bad, are you going to be understanding, "Hey, no problem, I'll just work a little late tonight," or is it going to go up a chain of managers and get me in trouble?
 - [ ] We don't have **time sheets**. We have key product indicators. We have dash metrics that show our deployment frequencies, how long a user story is open until it's closed.
 - [ ] I'm interested in the underworkings of how everything is setup and configured. It's more my intellectual curiosity that bringing something to the table. I want to know how I can do this at my next company.
+- [ ] How much time do you spend per week in meetings?
 

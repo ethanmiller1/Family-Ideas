@@ -106,9 +106,7 @@ Some of the most widely used techniques and methods which can be used in order t
 5. load balancing
 6. queues
 
-Ask the interviewer if they agree with them as you go.
-
-### Leadership Principles
+Ask the interviewer if they agree with them as you go. 
 
 **Here are a few items about what to expect from your day:**
 

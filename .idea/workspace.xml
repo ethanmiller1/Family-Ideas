@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="742dccc9-1ec8-416a-afc9-9fc64d5cd2e9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/obsidian-dictionary-plugin/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-dictionary-plugin/data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Goals/Ethan's Commitment Notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Ethan's Commitment Notes.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Goals/Ethan's Commitments.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Ethan's Commitments.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Professional Journal/16 Principles of Leadership.md" beforeDir="false" afterPath="$PROJECT_DIR$/Professional Journal/16 Principles of Leadership.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Professional Journal/Algorithms.md" beforeDir="false" afterPath="$PROJECT_DIR$/Professional Journal/Algorithms.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Professional Journal/Amazon Prep.md" beforeDir="false" afterPath="$PROJECT_DIR$/Professional Journal/Amazon Prep.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Professional Journal/Software Stories.md" beforeDir="false" afterPath="$PROJECT_DIR$/Professional Journal/Software Stories.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666395435972</updated>
       <workItem from="1666395438012" duration="116000" />
-      <workItem from="1666469030054" duration="714000" />
+      <workItem from="1666469030054" duration="793000" />
     </task>
     <servers />
   </component>

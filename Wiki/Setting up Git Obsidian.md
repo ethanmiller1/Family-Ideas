@@ -27,7 +27,7 @@
 | View history for file | Alt + H          |
 | Format                | Shift + Alt + F  |
 
-## Multi-caret selection behaviors
+## Multi-caret selection / line manipulation
 
 | Action                                    | Shortcut           |
 | ----------------------------------------- | ------------------ |
@@ -35,3 +35,5 @@
 | Add additional carrot                     | Alt + click        |
 | Add the next matching text as a selection | Ctrl + D           |
 | Add all matching text as selections       | Ctrl + Shift + L   |
+| Copy Line Down                            | Ctrl + Alt + Down  |
+| Move Line Down                            | Alt + Down         |
