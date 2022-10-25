@@ -1,8 +1,8 @@
-* Earn trust: Tell me about a time when you uncovered a significant problem in your team. How did you **communicate it to your manager**? | [[Software Stories#Logging PCI information (CC data)|PCI Data]]
-* Earn trust: Give me an example of a tough or critical piece of **feedback** you received. | [[Software Stories#Mentorship|Mentorship]]
-* Deliver results: Tell me about a time when you delivered an important project under a **tight deadline**. | [[Software Stories#System Log Drain|System Log Drain eCaas to Logstash]]
-* Deliver results: Tell me about a time when you had significant, **unanticipated obstacles** to overcome in achieving a key goal. | [[Software Stories#Memory watcher|Memory Watcher]]
-* Have backbone; disagree and commit: Describe a time when **you felt strongly** about something on a project, but **the team decided to go in a different direction**.
+* Earn trust: Tell me about a time when you uncovered a significant problem in your team. How did you **communicate it to your manager**? [[Software Stories#Logging PCI information (CC data)|PCI Data]]
+* Earn trust: Give me an example of a tough or critical piece of **feedback** you received. [[Software Stories#Mentorship|Mentorship]]
+* Deliver results: Tell me about a time when you delivered an important project under a **tight deadline**. [[Software Stories#System Log Drain|System Log Drain eCaas to Logstash]]
+* Deliver results: Tell me about a time when you had significant, **unanticipated obstacles** to overcome in achieving a key goal. [[Software Stories#Memory watcher|Memory Watcher]]
+* Have backbone; disagree and commit: Describe a time when **you felt strongly** about something on a project, but **the team decided to go in a different direction**.  [[Software Stories#Performance Testing|Performance Testing]] | [[Software Stories#Cucumber|Cucumber]]
 * Ownership: Tell me about a time when you took on something significant **outside your area of responsibility**. | [[Software Stories#JsonSubTypes|JsonSubTypes]]
 * Learn and be curious: What was the coolest thing you learned on your own that has helped you better perform your job?
 * Insist on the highest standards:  Tell me about a time when you have been **unsatisfied with the status quo**. What did you do to change it?
