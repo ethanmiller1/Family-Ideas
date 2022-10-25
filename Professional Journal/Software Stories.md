@@ -7,6 +7,8 @@
 - [ ] Logging PCI information (CC data)
 - [ ] Decupling Unit Tests, using Wiremock to move tests up to the API level
 - [ ] Dynamic Routing Slip
+- [ ] Performance Testing - fine tuning container memory / cores, find thresholds for auto-scaling
+- [ ] Cucumber - Regression testing was a mess, long runtime, not versioned, passing around
 
 # Problem Stories
 - [ ] Logging - Sys Log Drain - Logstash Pods are still filling up the [var/lib/kubelet/pods](https://apm.aa.com/e/daa15b35-f63b-46fe-8465-781f95df871a/#newhosts/hostdetails;id=HOST-27834CE5A136F1AE;dd=DISK;tab=USAGE;gtf=-2h) directory and getting evicted
