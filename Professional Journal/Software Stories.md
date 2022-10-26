@@ -9,6 +9,7 @@
 - [ ] Dynamic Routing Slip
 - [ ] Performance Testing - fine tuning container memory / cores, find thresholds for auto-scaling
 - [ ] Cucumber - Regression testing was a mess, long runtime, not versioned, passing around
+- [ ] Move testing up to API level.
 
 # Problem Stories
 - [ ] Logging - Sys Log Drain - Logstash Pods are still filling up the [var/lib/kubelet/pods](https://apm.aa.com/e/daa15b35-f63b-46fe-8465-781f95df871a/#newhosts/hostdetails;id=HOST-27834CE5A136F1AE;dd=DISK;tab=USAGE;gtf=-2h) directory and getting evicted
@@ -775,3 +776,209 @@ Benefits of Cucumber:
 [T&R Bootcamp - Cucumber](https://spteam.aa.com/sites/Ticketing_Devs/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTicketing%5FDevs%2FShared%20Documents%2Fbootcamp&viewid=df54c38c%2D6768%2D4020%2Da610%2D99bddf554683)
 
 We created a POC a evaluate the pros and cons of moving from ReadyAPI to this Java Framework, and eventually the whole team transitioned.
+
+## Dynamic Routing Slip
+
+* 20 products
+* Different sequence of Microservices
+* Multiple products in the same request
+* Dynamically determine the routing slip
+
+We have about 20 products that we provision as Ancillaries in Ticketing and Receipts, and so depending on the product that the customer is purchasing, we have a different sequence of Microservices that we call. If it's a paid seat, we create the Air Extra, Collect the Payment.
+
+The complexity came in when our Product Owner said, "Hey, we want to allow our cannels to send multiple products in the same request." Well to that, we have to dynamically determine the routing slip based on the combinations of products. And we want to avoid redundancy. Seats and Miliage Multiplier both collect money. Let's only call our payment service once. So we're not merely taking the routing slips and appending them together. What we want to do is compare the routing slips for each product and smartly and dynamically create the optimal routing slip. And order matters, so we need to look through the DNA strand as it were, and see if there are any genome sequences that we can use. We check the route, and the neighor of that route. If `populateAESequenceNumber` needs to come before `createMSDRoute` in one slip, it needs to come before it in the final aggregate slip.
+
+![[Pasted image 20221026150409.png]]
+
+A neighbor is a route that already exists in the accumulated routing slip, and next to the route in question. A neighbor serves as the reference for where an unmatched route should be injected.
+
+We would look at each route individually, and see if it exists in the previous routing slip. If yes, we would determine the nearest neighbor. What needs to come before it? What needs to come after it?
+
+We take the index of the nearest neighbor, and use that as the reference for the injection index. We increment it by one.
+
+`populateAESequenceNumber` is the neighbor of `createAERoute`. So it needs to be injected after that.
+
+
+``` yaml
+PAID_SEAT
+PREPAID_BAGS
+MILEAGE_MULTIPLIER
+SAME_DAY_FLIGHT_CHANGE
+INSTANT_UPSELL
+EXTENDED_HOLD
+AIRPORT_BAGS_MSR
+GROUP_DEPOSIT
+PREFERRED_SEAT
+MAIN_CABIN_EXTRA
+AUTOASSIGN_SEAT
+REGULAR_SEAT
+MISC_SVCS_FEE
+MILEAGE_REINSTATEMENT_FEE
+ADHOC_TRIPCREDIT
+LOAD_FACTOR_BASED_UPGRADE
+SAME_DAY_STANDBY
+ALTERNATE_FLIGHT_STANDBY
+PRIORITY_PRODUCT
+ALTERNATE_FLIGHT_CHANGE
+```
+
+``` java
+//Routing slip for Paid Seats Transaction. No need to load PNR into the session as AEMS is also loading PNR  
+routingSlipMap.put( AOLConstants.PAID_SEATS,  
+"{{createAERoute}},{{populateAESequenceNumbers}},{{createMSDRoute}},{{endTransactionRoute}},{{populateDocumentNumbers}},{{assignSeatRoute}},{{addSSRRoute}}" );
+
+routingSlipMap.put( ItemTypeEnum.MILEAGE_MULTIPLIER.getValue(),  
+"{{createAERoute}},{{populateAESequenceNumbers}},{{createMSDRoute}},{{retrieveResRoute}},{{populateDocumentNumbers}},{{updateAERoute}},{{endTransactionRoute}},{{ventanaRoute}}" );
+
+routingSlipMap.put( ItemTypeEnum.AIRPORT_BAGS_MSR.getValue(),  
+"{{createBagCheckinRoute}}" );
+
+
+```
+
+``` java
+Input: MILEAGE_REINSTATEMENT_FEE, MAIN_CABIN_EXTRA
+
+Stream.of( ItemTypeEnum.GROUP_DEPOSIT,  
+ItemTypeEnum.MILEAGE_REINSTATEMENT_FEE,  
+ItemTypeEnum.ADHOC_TRIPCREDIT,  
+ItemTypeEnum.PREPAID_BAGS )  
+.forEach( itemType -> routingSlipMap.put( itemType.getValue(),  
+"{{retrieveResRoute}},{{createAERoute}},{{createMSDRoute}}" ) );
+
+routingSlipMap.put( ItemTypeEnum.MILEAGE_MULTIPLIER.getValue(),  
+"{{createAERoute}},{{populateAESequenceNumbers}},{{createMSDRoute}},{{retrieveResRoute}},{{populateDocumentNumbers}},{{updateAERoute}},{{endTransactionRoute}},{{ventanaRoute}}" );
+
+Output: "{{retrieveResRoute}},{{createAERoute}},{{populateAESequenceNumbers}},{{createMSDRoute}},{{endTransactionRoute}},{{populateDocumentNumbers}},{{assignSeatRoute}},{{addSSRRoute}},{{nextGroupRoute}}"
+```
+
+``` java
+/**
+ * Combines any routes from the current itemSlip to the accumulated slip that don't already exist
+ * in the accumulated slip.
+ *
+ * @param itemSlip the routing slip for an orderItem based on its itemType.
+ * @see <a href="https://www.baeldung.com/java-stream-reduce">Guide to Stream.reduce()</a>
+ */
+public void accumulateRoute( String itemSlip )
+{
+   LinkedList< String > orderItemRoutes = new LinkedList<>( Arrays.asList( itemSlip.split( "," ) ) );
+   LinkedHashMap< String, Boolean > matchedRoutes = matchRoutes( orderItemRoutes );
+
+   for( int i = 0; i < orderItemRoutes.size(); i++ )
+   {
+      // If current route does not exist in accumulated slip ...
+      if( !matchedRoutes.get( orderItemRoutes.get( i ) ) )
+      {
+         // Add route to accumulated slip
+         int nearestNeighbor = findNearestNeighbor( i,
+                                                    orderItemRoutes,
+                                                    matchedRoutes );
+
+         int injectionIndex = findInjectionIndex( i,
+                                                  nearestNeighbor,
+                                                  orderItemRoutes );
+
+         this.slip.add( injectionIndex,
+                        orderItemRoutes.get( i ) );
+         matchedRoutes.put( orderItemRoutes.get( i ),
+                            true );
+      }
+
+   }
+}
+
+/**
+ * Determines if the route in question should be injected before or after its nearest neighbor in
+ * the accumulated routing slip.
+ *
+ * @param currentIndex the index of the route being evaluated in the current routing slip.
+ * @param nearestNeighbor the index of the nearest neighbor in the current routing slip.
+ * @param currentRoutingSlip a collection of routes ready to be added to an existing slip.
+ * @return the index where the current route should be injected in the accumulated routing slip.
+ */
+private int findInjectionIndex( int currentIndex,
+                                int nearestNeighbor,
+                                LinkedList< String > currentRoutingSlip )
+{
+   int index = 0;
+
+   if( nearestNeighbor == -1 )
+   {
+      index = this.slip.size();
+   }
+   else
+   {
+      int injectionIndex = this.slip.indexOf( currentRoutingSlip.get( nearestNeighbor ) );
+
+      // nearestNeighborIndex < currentIndex => inject after
+      index = nearestNeighbor < currentIndex ? ++injectionIndex : injectionIndex;
+   }
+
+   return index;
+}
+
+/**
+ * A neighbor is a route that already exists in the accumulated routing slip, and next to the
+ * route in question. A neighbor serves as the reference for where an unmatched route should be
+ * injected.
+ *
+ * @param currentIndex the index of the route being evaluated in the current routing slip.
+ * @param currentRoutingSlip a collection of routes ready to be added to an existing slip.
+ * @param matchedRoutes a collection of routes ready to be added to an existing slip, each with a
+ *           boolean indicating if the route in question already exists in the accumulated
+ *           routing slip.
+ * @return the index of the nearest neighbor in the current routing slip.
+ */
+private int findNearestNeighbor( int currentIndex,
+                                 LinkedList< String > currentRoutingSlip,
+                                 LinkedHashMap< String, Boolean > matchedRoutes )
+{
+   int neighborDistance = 0;
+   int nearestNeighbor = -1;
+   while( currentRoutingSlip.size() != ++neighborDistance && nearestNeighbor < 0 )
+   {
+
+      // Look before
+      if( currentIndex - neighborDistance >= 0 &&
+          matchedRoutes.get( currentRoutingSlip.get( currentIndex - neighborDistance ) ) )
+      {
+         nearestNeighbor = currentIndex - neighborDistance;
+      }
+      // Look after
+      else if( currentIndex + neighborDistance < currentRoutingSlip.size() &&
+               matchedRoutes.get( currentRoutingSlip.get( currentIndex + neighborDistance ) ) )
+      {
+         nearestNeighbor = currentIndex + neighborDistance;
+      }
+   }
+
+   return nearestNeighbor;
+}
+```
+
+## Rancher Migration
+
+[Rancher Wiki](https://wiki.aa.com/bin/view/Edge/Rancher/)
+
+-   [Atrifactory Container Registry](https://wiki.aa.com/bin/view/Edge/Rancher/#HAtrifactoryContainerRegistry)
+-   [CI/CD Pipelines](https://wiki.aa.com/bin/view/Edge/Rancher/#HCI2FCDPipelines)
+-   [FARs](https://wiki.aa.com/bin/view/Edge/Rancher/#HFARs)
+-   [GitOps](https://wiki.aa.com/bin/view/Edge/Rancher/#HGitOps)
+-   [Logs: MiNiFi, LTU, ADX](https://wiki.aa.com/bin/view/Edge/Rancher/#HCheckLogsinLTU)
+
+### TnT Support Tickets Raised For ePaaS Migration:
+| Issue                                                                                                                        | Solution |
+| ---------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [ProdDB connectivity Issue](https://github.com/AAInternal/tnt-support/issues/6090)                                           |          |
+| [404 issue](https://github.com/AAInternal/tnt-support/issues/3605)                                                           |          |
+| [eSOA traffic switch](https://github.com/AAInternal/tnt-support/issues/5641)                                                 |          |
+| [Missing ePaaS logs](https://github.com/AAInternal/tnt-support/issues/6243)                                                  |          |
+| [ingress issues.](https://github.com/AAInternal/tnt-support/issues/6288)                                                     |          |
+| [Rancher webgateway](https://github.com/AAInternal/tnt-support/issues/6291)                                                  |          |
+| [GTM setup](https://github.com/AAInternal/tnt-support/issues/6374)                                                           |          |
+| [Duplicate logs in ADX](https://github.com/AAInternal/tnt-support/issues/6531)                                               |          |
+| [POC for BX-AWARD DB & MQ](https://github.com/AAInternal/tnt-support/issues/6566)                                            |          |
+| [https for service discovery](https://github.com/AAInternal/tnt-support/issues/6659)                                         |          |
+| [Access to ePaas lower environment with QCorp credentials](https://github.com/AAInternal/tnt-support/issues/3991)            |          |
+| [UnknownHostException with Sabre (sws-crt-as.cert.havail.sabre.com)](https://github.com/AAInternal/tnt-support/issues/13581) |          |
