@@ -20,3 +20,6 @@
 - [ ] I'm interested in the underworkings of how everything is setup and configured. It's more my intellectual curiosity that bringing something to the table. I want to know how I can do this at my next company.
 - [ ] How much time do you spend per week in meetings?
 
+- [ ] Hours of operation
+- [ ] Expected travel
+- [ ] On-call/rotation

@@ -92,21 +92,38 @@ Ask the interviewer if they agree with them as you go.
 ·      **Your technical/functional experience** within the job function. Attached is prep doc for **Software Development Engineer** at Amazon.  
 ·      **Your leadership potential:** We evaluate each of our candidates against a set of Amazon Leadership Principles so we’ll be asking you lot of “tell me about a time when” time questions.  We want to make sure that you can be successful at Amazon. Please visit this link to review our [Leadership Principles](https://www.amazon.jobs/principles) and check out this [video](https://youtu.be/CpcxVE5JIX4) on our LPs, too!    
   
-**FOCUS on these Leadership Principles for your interview**: **1) Insist on the Highest Standards 2) Ownership 3) Earn Trust 4) Have Backbone; Disagree and Commit 5) Customer Obsession 6) Bias for Action 7) Are Right, A Lot 8) Deliver Results 9) Think Big 10) Invent and Simplify**   
-      ·      **Hint**: I highly recommend printing out our Leadership Principles, and jotting down a few examples of stories you can speak to that relate to each! This will greatly help you in the "Tell me about a time when..." questions you'll get onsite.   
-      ·      **Hint**: We ask a lot of follow-up questions! Don't be afraid to reflect and think about 'Looking back', 'What would you do differently?', 'Knowing what you know now...'         
-·      **Whiteboarding:** During your onsite you will be asked to discuss how you would approach a problem and you will need to write code (no pseudo code). You can use AWSboard at [https://awwapp.com/#](https://awwapp.com/)).The link to the whiteboard app will be included in your confirmation email.   
+**FOCUS on these Leadership Principles for your interview**:
+1) Insist on the Highest Standards
+2) Ownership
+3) Earn Trust
+4) Have Backbone; Disagree and Commit
+5) Customer Obsession
+6) Bias for Action
+7) Are Right, A Lot
+8) Deliver Results
+9) Think Big
+10) Invent and Simplify
+
+·  **Hint**: I highly recommend printing out our Leadership Principles, and jotting down a few examples of stories you can speak to that relate to each! This will greatly help you in the "Tell me about a time when..." questions you'll get onsite.   
+      
+· **Hint**: We ask a lot of follow-up questions! Don't be afraid to reflect and think about 'Looking back', '**What would you do differently**?', 'Knowing what you know now...'         
+
+· **Whiteboarding:** During your onsite you will be asked to discuss how you would approach a problem and you will need to write code (no pseudo code). You can use AWSboard at [https://awwapp.com/#](https://awwapp.com/)). The link to the whiteboard app will be included in your confirmation email.   
   
 **STAR**  
-·      You will meet with several interviewers (One on One for 1 hour). Each interviewer will cover a specific topic with you – remember to employ the **STAR** Methodology (**S**ituation, **T**ask, **A**ction, **R**esult) when responding to your interview questions!   
-      ·      **Hint**: We are a metrics-driven company - the more data-driven impacts/**results** you have - the better! (See attached STAR Method & Amazon’s Leadership Principles pdf doc).
+· You will meet with several interviewers (One on One for 1 hour). Each interviewer will cover a specific topic with you – remember to employ the **STAR** Methodology (**S**ituation, **T**ask, **A**ction, **R**esult) when responding to your interview questions!
+
+· **Hint**: We are a metrics-driven company - the more data-driven impacts/**results** you have - the better! (See attached STAR Method & Amazon’s Leadership Principles pdf doc).
 
 **TIPS**
-
 -   **Ask Clarifying Questions** - During your interview, remember to: ask clarifying questions, process out loud, and be vocally self-critical (Amazon takes risks, fails fast, and iterates quickly – we genuinely want to hear about situations where you’ve taken ownership and the lessons you’ve learned from “failures”)
+	
 -   **Prepare Questions for your Interviewers -** Come with a few questions of your own! We’re curious to hear what excites you about AWS
+	
 -   **“I” versus “We”** - We obviously want you to give credit where credit is due when explaining previous team efforts you’ve lead/been a part of, but please remember this is YOUR time to speak about your individual contributions and successes. Be aware of how you’re describing examples and lean toward using examples where you use “I” more than “we”. This will ensure you’re giving your main personal examples and the best data points for the team to draw from.
+	
 -   **Leadership Principles -** You’ll want to look at the leadership principles and think of specific examples to talk about through the conversation. Our [Amazon Leadership Principles](https://l.shatrk.com/sh-trk-112p68p/r/e/8VxJKHAoW13heK3Z?r=https://www.amazon.jobs/principles) are the fabric that make up Amazon’s culture.  They are also heavily relied upon in the interview process, so definitely take a moment to think of a couple anecdotes from your career for each one!  The more specificity you can give in your answers, around how and why you did what you did will serve you well. They want to see that you had a full view of the work you were doing.
+	
 
 **Coding**
 

@@ -192,9 +192,160 @@ public boolean isSameTree(TreeNode p, TreeNode q) {
 
 # Iterative Depth First Search
 
+Stack-based. Children are visited before the siblings.
+
+### [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+
+![[Pasted image 20221026191525.png]]
+
+``` java
+public int iterativeDfs(TreeNode root) {  
+    if (root == null) {  
+        return 0;  
+    }  
+  
+    Stack<TreeNode> stack = new Stack<>();  
+    Stack<Integer> depth = new Stack<>();  
+    stack.push(root);  
+    depth.push(1);  
+    int max = 0;  
+    while (!stack.isEmpty()) {  
+        TreeNode node = stack.pop();  
+        int currentDepth = depth.pop();  
+        max = Math.max(currentDepth, max);  
+        if (node.left != null) {  
+            stack.push(node.left);  
+            depth.push(currentDepth + 1);  
+        }  
+        if (node.right != null) {  
+            stack.push(node.right);  
+            depth.push(currentDepth + 1);  
+        }  
+    }  
+    return max;  
+}
+```
+
 # Breadth First Search
 
+### [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+
+Queue-based, level by level. Siblings are visited before the children.
+
+![[Pasted image 20221026190308.png]]
+
+``` java
+public int iterativeBfs(TreeNode root) {  
+    int depth = 0;  
+    if (root == null) return depth;  
+    Queue<TreeNode> queue = new LinkedList<TreeNode>();  
+    queue.add(root);  
+    while (!queue.isEmpty()) {  
+        int parents = queue.size();  
+        depth++;  
+        while (parents > 0) {  
+            TreeNode temp = queue.poll();  
+            if (temp.left != null)  
+                queue.add(temp.left);  
+            if (temp.right != null)  
+                queue.add(temp.right);  
+            parents--;  
+        }  
+    }  
+    return depth;  
+}
+```
+
 # Two pointer Technique
+
+## [Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+
+![[Pasted image 20221026194615.png]]
+
+``` java
+public int[] twoSum(int[] numbers, int target) {
+    int leftPointer = 0;
+    int rightPointer = numbers.length - 1;
+    int leftValue, rightValue;
+
+    while (leftPointer < rightPointer) {
+        leftValue = numbers[leftPointer];
+        rightValue = numbers[rightPointer];
+
+        if (leftValue + rightValue == target) break;
+
+        if (leftValue + rightValue < target) {
+            leftPointer++;
+            continue;
+        }
+
+        rightPointer--;
+    }
+
+    return new int[]{leftPointer + 1, rightPointer + 1};
+}
+```
+
+# Sliding Window
+
+## [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+![[Pasted image 20221026200111.png]]
+``` java
+public int lengthOfLongestSubstring(String input) {  
+    HashSet<Character> set = new HashSet<>();  
+    int left = 0;  
+    int ans = 0;  
+    for (int right = 0; right < input.length(); right++) {  
+        while (set.contains(input.charAt(right))) {  
+            set.remove(input.charAt(left));  
+            left++;  
+        }  
+        set.add(input.charAt(right));  
+        ans = Math.max(ans, right - left + 1);  
+    }  
+    return ans;  
+}
+```
+
+## [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+
+![[Pasted image 20221026214609.png]]
+
+``` java
+public String minWindow(String s, String t) {
+        HashMap<Character, Integer> map = new HashMap<>();
+
+        for (char x : t.toCharArray()) {
+            map.put(x, map.getOrDefault(x, 0) + 1);
+        }
+
+        int matched = 0;
+        int start = 0;
+        int minLen = s.length() + 1;
+        int subStr = 0;
+        for (int endWindow = 0; endWindow < s.length(); endWindow++) {
+            char right = s.charAt(endWindow);
+            if (map.containsKey(right)) {
+                map.put(right, map.get(right) - 1);
+                if (map.get(right) == 0) matched++;
+            }
+
+            while (matched == map.size()) {
+                if (minLen > endWindow - start + 1) {
+                    minLen = endWindow - start + 1;
+                    subStr = start;
+                }
+                char deleted = s.charAt(start++);
+                if (map.containsKey(deleted)) {
+                    if (map.get(deleted) == 0) matched--;
+                    map.put(deleted, map.get(deleted) + 1);
+                }
+            }
+        }
+        return minLen > s.length() ? "" : s.substring(subStr, subStr + minLen);
+    }
+```
 
 # Heap / Priority Queue
 

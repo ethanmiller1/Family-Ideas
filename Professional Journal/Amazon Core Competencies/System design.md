@@ -43,6 +43,8 @@ GRASP stands for General Responsibility Assignment Software Principles.
 
 # Interview Video
 
+![[Pasted image 20221026213338.png]]
+
 [Amazon System Design Preparation (SIP)](https://www.youtube.com/watch?v=gNQ9-kgyHfo)
 
 ## Database
@@ -91,6 +93,7 @@ GRASP stands for General Responsibility Assignment Software Principles.
 
 # Data Design
 
+![](https://raw.githubusercontent.com/ethanmiller1/Node.js-and-Express-App/b543f75eff6b578af12aac39099e28731ffc149e/public/images/application/data-design.svg)
 * User table
 * Order Table
 * Product Table

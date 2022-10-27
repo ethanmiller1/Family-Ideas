@@ -7,6 +7,18 @@
 * Learn and be curious: What was the coolest thing you learned on your own that has helped you better perform your job? [[Log Interceptor]] [[Software Stories#JsonSubTypes|JsonSubTypes]] | [[Sabre]] | [[Faceted String Builder]]
 * Insist on the highest standards:  Tell me about a time when you have been **unsatisfied with the status quo**. What did you do to change it? [[Code Review]] | [[Canary Deployment]]
 
+**FOCUS on these Leadership Principles for your interview**:
+1) Insist on the Highest Standards
+2) Ownership
+3) Earn Trust
+4) Have Backbone; Disagree and Commit
+5) Customer Obsession
+6) Bias for Action
+7) Are Right, A Lot
+8) Deliver Results
+9) Think Big
+10) Invent and Simplify
+
 [16 Leadership Principles](https://www.aboutamazon.com/about-us/leadership-principles)
 
 ## Customer Obsession
