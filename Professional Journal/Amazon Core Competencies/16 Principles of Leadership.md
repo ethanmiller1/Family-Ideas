@@ -4,8 +4,8 @@
 * Deliver results: Tell me about a time when you had significant, **unanticipated obstacles** to overcome in achieving a key goal. [[Software Stories#Memory watcher|Memory Watcher]]
 * Have backbone; disagree and commit: Describe a time when **you felt strongly** about something on a project, but **the team decided to go in a different direction**.  [[Software Stories#Performance Testing|Performance Testing]] | [[Software Stories#Cucumber|Cucumber]]
 * Ownership: Tell me about a time when you took on something significant **outside your area of responsibility**. [[Software Stories#JsonSubTypes|JsonSubTypes]]
-* Learn and be curious: What was the coolest thing you learned on your own that has helped you better perform your job? [[Log Interceptor]] [[Software Stories#JsonSubTypes|JsonSubTypes]] | [[Sabre]] | [[Faceted String Builder]]
-* Insist on the highest standards:  Tell me about a time when you have been **unsatisfied with the status quo**. What did you do to change it? [[Code Review]] | [[Canary Deployment]]
+* Learn and be curious: What was the coolest thing you learned on your own that has helped you better perform your job? [[Log Interceptor]] | [[Software Stories#JsonSubTypes|JsonSubTypes]] | [[Sabre]] | [[Faceted String Builder]]
+* Insist on the highest standards:  Tell me about a time when you have been **unsatisfied with the status quo**. What did you do to change it? [[Software Stories#GitOps|GitOps]] | [[Code Review]] | [[Canary Deployment]]
 
 **FOCUS on these Leadership Principles for your interview**:
 1) Insist on the Highest Standards

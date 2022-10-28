@@ -256,6 +256,255 @@ public int iterativeBfs(TreeNode root) {
 }
 ```
 
+## [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
+
+``` java
+public int orangesRotting(int[][] grid) {
+	int m = grid.length, n = grid[0].length;
+	Queue<int[]> queue = new LinkedList<>();
+	int fresh = 0;
+
+	for (int i = 0; i < m; i += 1) {
+		for (int j = 0; j < n; j += 1) {
+			if (grid[i][j] == 2) queue.offer(new int[] { i, j }); else if (
+				grid[i][j] == 1
+			) fresh += 1;
+		}
+	}
+
+	int count = 0;
+	int[][] dirs = { { 1, 0 }, { -1, 0 }, { 0, 1 }, { 0, -1 } };
+	while (!queue.isEmpty() && fresh != 0) {
+		count += 1;
+		int sz = queue.size();
+		for (int i = 0; i < sz; i += 1) {
+			int[] rotten = queue.poll();
+			int r = rotten[0], c = rotten[1];
+			for (int[] dir : dirs) {
+				int x = r + dir[0], y = c + dir[1];
+				if (0 <= x && x < m && 0 <= y && y < n && grid[x][y] == 1) {
+					grid[x][y] = 2;
+					queue.offer(new int[] { x, y });
+					fresh -= 1;
+				}
+			}
+		}
+	}
+	return fresh == 0 ? count : -1;
+}
+```
+
+## [Word Ladder](https://leetcode.com/problems/word-ladder/)
+
+``` java
+public int ladderLength(
+	String beginWord,
+	String endWord,
+	List<String> wordList
+) {
+	Map<String, List<String>> adjlist = new HashMap<>();
+	wordList.add(beginWord);
+	for (String word : wordList) {
+		StringBuilder string = null;
+		for (int i = 0; i < word.length(); i++) {
+			string = new StringBuilder(word);
+			string.setCharAt(i, '*');
+			List<String> wordlist = adjlist.getOrDefault(
+				string.toString(),
+				new ArrayList<String>()
+			);
+			wordlist.add(word);
+			adjlist.put(string.toString(), wordlist);
+		}
+	}
+
+	Queue<String> queue = new LinkedList<>();
+	queue.offer(beginWord);
+	Set<String> visited = new HashSet<>();
+	visited.add(beginWord);
+	int step = 1;
+	StringBuilder string = null;
+	while (!queue.isEmpty()) {
+		step++;
+		int size = queue.size();
+		for (int j = 0; j < size; j++) {
+			String str = queue.poll();
+
+			for (int i = 0; i < str.length(); i++) {
+				string = new StringBuilder(str);
+				string.setCharAt(i, '*');
+				for (String pat : adjlist.get(string.toString())) {
+					if (pat.equals(endWord)) {
+						return step;
+					}
+					if (visited.contains(pat)) {
+						continue;
+					}
+					queue.offer(pat);
+					visited.add(pat);
+				}
+			}
+		}
+		// step++;
+	}
+	return 0;
+}
+```
+
+## [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+
+``` java
+public int[] findOrder(int numCourses, int[][] prerequisites) {
+	Map<Integer, List<Integer>> adjList = new HashMap<Integer, List<Integer>>();
+	int[] indegree = new int[numCourses];
+	int[] topologicalOrder = new int[numCourses];
+
+	//creating the adjlist
+	for (int i = 0; i < prerequisites.length; i++) {
+		int post = prerequisites[i][0];
+		int pre = prerequisites[i][1];
+		List<Integer> lst = adjList.getOrDefault(
+			pre,
+			new ArrayList<Integer>()
+		);
+		lst.add(post);
+		adjList.put(pre, lst);
+
+		indegree[post] += 1;
+	}
+
+	Queue<Integer> q = new LinkedList<Integer>();
+	for (int i = 0; i < numCourses; i++) {
+		if (indegree[i] == 0) {
+			q.add(i);
+		}
+	}
+
+	int i = 0;
+	while (!q.isEmpty()) {
+		int node = q.remove();
+		topologicalOrder[i++] = node;
+
+		if (adjList.containsKey(node)) {
+			for (Integer neighbor : adjList.get(node)) {
+				indegree[neighbor]--;
+
+				if (indegree[neighbor] == 0) {
+					q.add(neighbor);
+				}
+			}
+		}
+	}
+
+	if (i == numCourses) {
+		return topologicalOrder;
+	}
+
+	return new int[0];
+}
+```
+
+## [Amazon Warehouse Problem](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)
+
+Given M x N grid
+- k delivery guys are placed at any (x, y) positions
+- We have an amazon warehouse W at (p, q)
+- There are s stones placed at different locations on the grid, and the cell having stone cannot be visited
+
+All of these delivery guys want to reach the warehouse; Assuming they take the best possible path; Find out who reaches the warehouse first.
+
+```
+S S S S S
+D * * * *
+* * * * W
+* * * D *
+```
+
+
+Here the answer is : (3,0)
+
+``` java
+int[][] dirs = new int[][]{{0,1},{0,-1},{1,0},{-1,0}};
+public int shortestPath(int[][] grid, int k) {
+	int n = grid.length;
+	int m = grid[0].length;
+	Queue<int[]> q = new LinkedList();
+	boolean[][][] visited = new boolean[n][m][k+1];
+	visited[0][0][0] = true;
+	q.offer(new int[]{0,0,0});
+	int res = 0;
+	while(!q.isEmpty()){
+		int size = q.size();
+		for(int i=0; i<size; i++){
+			int[] info = q.poll();
+			int r = info[0], c = info[1], curK = info[2];
+			if(r==n-1 && c==m-1){
+				return res;
+			}
+			for(int[] dir : dirs){
+				int nextR = dir[0] + r;
+				int nextC = dir[1] + c;
+				int nextK = curK;
+				if(nextR>=0 && nextR<n && nextC>=0 && nextC<m){
+					if(grid[nextR][nextC]==1){
+						nextK++;
+					}
+					if(nextK<=k && !visited[nextR][nextC][nextK]){
+						visited[nextR][nextC][nextK] = true;
+						q.offer(new int[]{nextR, nextC, nextK});
+					}
+				}
+			}                
+		}
+		res++;
+	}
+	return -1;
+}
+```
+
+``` java
+public int[] findnearestDeliveryGuy( char[][] grid )
+{
+    var nearestDeliveryGuy = char[2];
+    var warehouse = findWarehouse(grid);
+    return bfs(grid, warehouse, warehouse);
+}
+
+private int[] findWarehouse( char[][] grid )
+{
+    for( var row : grid )
+    {
+        for( var coordinate : row )
+        {
+            if( coordinate == 'W' ) return coordinate;
+        }
+    }
+}
+
+private int[] bfs( char[][] grid, int[] coordinate )
+{
+    Queue<int[]> queue = new Deque<int[]>;
+    queue
+    
+    
+// while loop queue is not empty
+// look up
+// look down left right, etc
+// if base case, remove from queue
+// if 'D' return that coordinate
+// 
+    
+    
+    if( if x < 0 || y < 0 || y >= grid.length || x >= grid[0].length || grid[x][y] == 'S' ) return null;
+    bfs( grid, x, y - 1); // down
+    bfs( grid, x, y + 1); // up
+    bfs( grid, x, y - 1); // left
+    bfs( grid, x, y + 1); // right
+    
+    
+}
+```
+
 # Two pointer Technique
 
 ## [Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
@@ -286,6 +535,32 @@ public int[] twoSum(int[] numbers, int target) {
 }
 ```
 
+
+## [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+
+![[Pasted image 20221027105058.png]]
+``` java
+public int trap(int[] heights) {
+	int left[] = new int[heights.length], right[] = new int[heights.length], max =
+		heights[0], c = 0;
+
+	for (int i = 0; i < heights.length; i++) {
+		left[i] = Math.max(heights[i], max);
+		max = left[i];
+	}
+
+	max = heights[heights.length - 1];
+	for (int i = heights.length - 1; i >= 0; i--) {
+		right[i] = Math.max(heights[i], max);
+		max = right[i];
+	}
+
+	for (int i = 0; i < heights.length; i++) {
+		c = c + Math.min(left[i], right[i]) - heights[i];
+	}
+	return c;
+}
+```
 # Sliding Window
 
 ## [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
@@ -402,3 +677,114 @@ Therefore to add a number, we have 3 O(log n) heap operations. Luckily the heapq
 Alltogether, the add operation is O(logn), The findMedian operation is O(1).
 
 A further observation is that the two scenarios take turns when adding numbers, thus it is possible to combine the two into one. For this please see [stefan's post](https://leetcode.com/discuss/64910/very-short-o-log-n-o-1)
+
+
+# Math & Geometry
+
+## [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
+![[Pasted image 20221027102710.png]]
+
+``` java
+public String convert(String s, int numRows) {
+
+	if (numRows == 1) return s;
+
+	StringBuilder ret = new StringBuilder();
+	int n = s.length();
+	int cycleLen = 2 * numRows - 2;
+
+	for (int i = 0; i < numRows; i++) {
+		for (int j = 0; j + i < n; j += cycleLen) {
+			ret.append(s.charAt(j + i));
+			if (i != 0 && i != numRows - 1 && j + cycleLen - i < n)
+				ret.append(s.charAt(j + cycleLen - i));
+		}
+	}
+	return ret.toString();
+}
+```
+
+``` java
+public String convert(String s, int numRows) {
+    if (numRows == 1) return s;
+
+    List<StringBuilder> rows = new ArrayList<>();
+    for (int i = 0; i < Math.min(numRows, s.length()); i++)
+        rows.add(new StringBuilder());
+
+    int curRow = 0;
+    boolean goingDown = false;
+
+    for (char c : s.toCharArray()) {
+        rows.get(curRow).append(c);
+        if (curRow == 0 || curRow == numRows - 1) goingDown = !goingDown;
+        curRow += goingDown ? 1 : -1;
+    }
+
+    StringBuilder ret = new StringBuilder();
+    for (StringBuilder row : rows) ret.append(row);
+    return ret.toString();
+}
+```
+
+# Linked List
+
+## [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+
+Different Sizes Edge Case
+![[Pasted image 20221027103441.png]]
+
+
+Put the 1 in the result even if there aren't any input nodes.
+![[Pasted image 20221027103610.png]]
+
+``` java
+public ListNode addTwoNumbers(ListNode first, ListNode second) {
+        int q = 0;
+        int r = 0;
+        int sum = 0;
+        ListNode head = null;
+        ListNode temp = null;
+        while (first != null || second != null) {
+            sum =
+                q +
+                (
+                    ((first != null) ? first.val : 0) +
+                    ((second != null) ? second.val : 0)
+                );
+            r = sum % 10;
+            q = sum / 10;
+            ListNode newNode = new ListNode(r);
+            if (head == null) {
+                head = newNode;
+            } else {
+                temp = head;
+                while (temp.next != null) {
+                    temp = temp.next;
+                }
+                temp.next = newNode;
+                newNode.next = null;
+            }
+            if (first != null) {
+                first = first.next;
+            }
+            if (second != null) {
+                second = second.next;
+            }
+        }
+        if (q > 0) {
+            ListNode newNode = new ListNode(q);
+            temp = head;
+            while (temp.next != null) {
+                temp = temp.next;
+            }
+            temp.next = newNode;
+            newNode.next = null;
+        }
+        return head;
+    }
+```
+# Binary Search
+
+## [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+

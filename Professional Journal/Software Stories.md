@@ -2,23 +2,23 @@
 - [ ] Rancher Migration
 - [ ] Cucumber POC / Reflective Framework
 - [ ] Logging - MiNiFi
-- [ ] Memory watcher
+- [x] Memory watcher
 - [ ] Caching Apigee access token
-- [ ] Logging PCI information (CC data)
+- [ ] Logging PCI information (CC data) [[Software Stories#Logging PCI information (CC data)|PCI Data]]
 - [ ] Decupling Unit Tests, using Wiremock to move tests up to the API level
 - [ ] Dynamic Routing Slip
 - [ ] Performance Testing - fine tuning container memory / cores, find thresholds for auto-scaling
 - [ ] Cucumber - Regression testing was a mess, long runtime, not versioned, passing around
-- [ ] Move testing up to API level.
+- [ ] GitOps
 
 # Problem Stories
-- [ ] Logging - Sys Log Drain - Logstash Pods are still filling up the [var/lib/kubelet/pods](https://apm.aa.com/e/daa15b35-f63b-46fe-8465-781f95df871a/#newhosts/hostdetails;id=HOST-27834CE5A136F1AE;dd=DISK;tab=USAGE;gtf=-2h) directory and getting evicted
+- [x] Logging - Sys Log Drain - Logstash Pods are still filling up the [var/lib/kubelet/pods](https://apm.aa.com/e/daa15b35-f63b-46fe-8465-781f95df871a/#newhosts/hostdetails;id=HOST-27834CE5A136F1AE;dd=DISK;tab=USAGE;gtf=-2h) directory and getting evicted
+- [ ] Auto-scaling - ephemeral scaling, solved with Prometheus - Custom metrics
 - [ ] Round Robin to a Bad DNS server
 - [ ] Database source in config map (recorded DERP: [YouTube](https://youtu.be/UHYieC28vFs?t=628))
 - [ ] MAX_READ_TIMEOUT after migration in our CCauth service - configurations didn't get carried over.
-- [ ] Auto-scaling - ephemeral scaling, solved with Prometheus - Custom metrics
 - [ ] [[Software Stories#Group Deposit Failures for More Than One Item|Group Deposit Failures for More Than One Item]]
-- [ ] Memory leak - memory dump - new logger for each log.
+- [x] Memory leak - memory dump - new logger for each log.
 - [ ] Quarkus bug with [[Software Stories#Quarkus Bug Calling Pagination with a negative index in JaxRs Repository implementation|Spring Data JAX-RS]]
 
 ## Secondary Problem stories
@@ -982,3 +982,16 @@ private int findNearestNeighbor( int currentIndex,
 | [https for service discovery](https://github.com/AAInternal/tnt-support/issues/6659)                                         |          |
 | [Access to ePaas lower environment with QCorp credentials](https://github.com/AAInternal/tnt-support/issues/3991)            |          |
 | [UnknownHostException with Sabre (sws-crt-as.cert.havail.sabre.com)](https://github.com/AAInternal/tnt-support/issues/13581) |          |
+
+## GitOps
+
+We recently had a deadline to move all of our Repos, Pipelines, Builds over from ADOS to ADOC, and the way we had our Kubernetes resources configured, we have this KubeTemplates repo with tokens that can be replaced by pipeline variables. So every single release pipeline had like 80 variables. A bunch of them are in variable groups, but it's a mess to carry those over.
+
+Brandon Benham has created a [Task Group](https://azuredevops.aa.com/USAIT/eTDS/_taskgroup/36b73192-633f-4bb6-b7f2-0b3da716a886) in ADO  to include in your [Release Pipeline](https://azuredevops.aa.com/USAIT/eTDS/_releaseDefinition?definitionId=295&_a=definition-tasks&environmentId=1950) that scans your repository for [Kubernetes yamls](https://azuredevops.aa.com/USAIT/eTDS/_git/appriss-processor?path=%2Fsrc%2Fmain%2Fresources%2Fdeployment.yml) and applies them if they're present. There is also a [Task Group](https://azuredevops.aa.com/USAIT/eTDS/_taskgroup/22e2f418-b745-48bc-8a66-21bea724d592) that pushed your Docker Images to packages.aa.com in your [Build Pipeline](https://azuredevops.aa.com/USAIT/eTDS/_apps/hub/ms.vss-ciworkflow.build-ci-hub?_a=edit-build-definition&id=13636). We are wanting to stick our toes in the water and see if we like this approach, and maybe show it as a vision for the future. These are the advantages we are excited to try out:
+
+1.  Your Runtime settings are versioned together with the code base.
+2.  The Runtime variables are not scattered out everywhere "point and click" in ADO.
+3.  In ADO today, every app gets an Ingress, a Service, and everything in the Templates whether the app needs it or not. Most of the apps don't need an Ingress. We're creating all these things that we don't need because we're using the templates. Here if you don't need it, you just don't add it.
+4.  Also all your files are here together, which allows you to run mini-kube locally, or K3s etc. Here you can test within your own ecosystem. 
+5.  The Deployment yamls aren't hidden from the developers, and you can see for yourself the final product of what you're applying in Kubernetes. It makes more sense when you see the values rather than variable placeholders making it complex.
+6.  [KubeTemplates](https://azuredevops.aa.com/USAIT/eTDS/_git/KubeDeploy?path=%2Fdeployment-templates-v3) are heavy-weight on the ADO side. We want to bring these configurations as close to our applications as possible.

@@ -390,6 +390,8 @@ They may give you a vague problem and see how you're approaching it.
 
 # First Interview with [Poojah](https://www.youtube.com/watch?v=Tu5o8My1ahY)
 
+Naku Telegu Radhu
+
 # Email Prep
 
 Come prepared with questions that you would like to explore in more detail (e.g. initiatives/projects, team culture, scope of role).
