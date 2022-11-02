@@ -1,5 +1,8 @@
 {
   "baseFontSize": 16,
   "cssTheme": "",
-  "accentColor": ""
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "slack"
+  ]
 }
