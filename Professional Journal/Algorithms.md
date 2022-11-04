@@ -192,6 +192,7 @@ public boolean isSameTree(TreeNode p, TreeNode q) {
 
 # Iterative Depth First Search
 
+
 Stack-based. Children are visited before the siblings.
 
 ### [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)

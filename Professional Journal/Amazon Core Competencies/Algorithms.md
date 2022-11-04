@@ -110,7 +110,7 @@ Computer networks
 - the additional sources beyond Blind 75 are popular, tried, and trusted; this obviously means more breadth, which can only help  
 - Mediums are most common in interviews  
 - doing company-tagged problems has varying degrees of usefulness  
-- OOD problems are a silent killer, do not neglect them
+- OOD problems are a silent killer, do not negpulect them
 
 ## POPULAR COLLECTIONS / SOURCE:
 
@@ -118,7 +118,7 @@ Computer networks
 - [ ] [LC Top Intervew Questions](https://leetcode.com/explore/featured/card/top-interview-questions-easy/)
 - [ ] [LC Patterns ("sean prashad"](https://seanprashad.com/leetcode-patterns/))
 - [ ] [NeetCode YouTube](https://www.youtube.com/c/NeetCode/playlists)
-- [ ] (https://neetcode.io/)[Neetcode.io](https://neetcode.io/)
+- [ ] [Neetcode.io](https://neetcode.io/)
 - [ ] ["Blind 50"](https://www.techinterviewhandbook.org/best-practice-questions/)
 - [ ] [Grind 75](https://www.grind75.com/)
 - [ ] [LC Company-Tagged  
