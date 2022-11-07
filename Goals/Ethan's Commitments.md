@@ -107,6 +107,7 @@
 - [ ] I don't laugh at what she doesn't know
 - [ ] I notice and verbally praise the sacrifices she makes for God
 - [ ] I don’t get mad at anything that I don’t have a verse in mind for
+- [ ] When she is trying to tell me something, I spend more energy trying to understand it than answering it
 
 # I am fully devoted to the Lord
 

@@ -1,4 +1,4 @@
-* Earn trust: Tell me about a time when you uncovered a significant problem in your team. How did you **communicate it to your manager**? [[Software Stories#Logging PCI information (CC data)|PCI Data]]
+* Earn trust: Tell me about a time when you uncovered a significant problem in your team. How did you **communicate it to your manager**? [[Software Stories#Logging PCI information (CC data)|PCI Data]] [[Professional Journal/Amazon Core Competencies/Algorithms#Time Complexity|Bookmark]]
 * Earn trust: Give me an example of a tough or critical piece of **feedback** you received. [[Software Stories#Mentorship|Mentorship]] | [[Cyclical Dependency]]
 * Deliver results: Tell me about a time when you delivered an important project under a **tight deadline**. [[Software Stories#System Log Drain|System Log Drain eCaas to Logstash]]
 * Deliver results: Tell me about a time when you had significant, **unanticipated obstacles** to overcome in achieving a key goal. [[Software Stories#Memory watcher|Memory Watcher]]
