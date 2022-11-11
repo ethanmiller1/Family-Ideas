@@ -1,7 +1,8 @@
-Emmanuel's Notes: [Kirb 300]([https://docs.google.com/spreadsheets/d/15bOx-eVFRA5BgruH-DGESjcQZdG2sehwfLvErBIxZJU/edit?usp=sharing](https://docs.google.com/spreadsheets/d/15bOx-eVFRA5BgruH-DGESjcQZdG2sehwfLvErBIxZJU/edit?usp=sharing)
+Emmanuel's Notes: [Kirb 300](https://docs.google.com/spreadsheets/d/15bOx-eVFRA5BgruH-DGESjcQZdG2sehwfLvErBIxZJU/edit?usp=sharing](https://docs.google.com/spreadsheets/d/15bOx-eVFRA5BgruH-DGESjcQZdG2sehwfLvErBIxZJU/edit?usp=sharing)
 Neatcode Notes: [Blind 75](https://docs.google.com/spreadsheets/u/0/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/htmlview)
 Top Amazon Questions: [Leetcode](https://leetcode.com/problem-list/top-amazon-questions/)
 Types of algorithms: [Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+Clement Mihailescu: [AlgoExpert](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g)
 
 
 # Time Complexity
@@ -73,7 +74,7 @@ BFS - shortest path, unweighted graph (V + E)
 [Topological Sort](https://www.geeksforgeeks.org/topological-sorting/) - find ordering of nodes, verifies if graph is DAG (V + E)
 
 ### **Less Common**
-Union Find - find/count disjoint sets, adding path compression is one line but improves runtime massively
+Union Find - find/count disjoint sets, addig path compression is one line but improves runtime massively
 Dijkstra - shortest path, works for weighted, no negative weights allowed (E log V)
 Longest Path - brute force exhaustive will work everytime; but if acyclic, there is also a solution involving topo sort/DP
 Cycle Detection - for directed graph, use topo sort; for undirected, can use DFS or union find
