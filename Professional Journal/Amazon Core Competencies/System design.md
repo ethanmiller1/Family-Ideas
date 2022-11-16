@@ -28,6 +28,10 @@ GRASP stands for General Responsibility Assignment Software Principles.
 ### Factory
 ### Builder
 ### Prototype
+
+https://refactoring.guru/design-patterns/prototype
+[Deep copy through serialization](https://americanairlines.udemy.com/course/design-patterns-java/learn/lecture/8556138#overview).
+
 ### Singleton
 
 ## Structural
