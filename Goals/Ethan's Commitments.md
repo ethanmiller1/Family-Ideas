@@ -163,10 +163,10 @@
 - [ ] I am James Stewart in drollness
 - [ ] I am Ben Shapiro in politics
 - [ ] I am Milo Yiannopoulos in offensive yet lighthearted debating skills
-- [ ] I am Christian Berdahl in young and greasy apparel
+- [ ] I am Christian Berdahl in young and fresh apparel
 - [ ] I am Ken Graves in militancy
 - [ ] I am Rob Bell in compellingness
-- [ ] I am Blanchard jacobus in peace
+- [ ] I am Blanchard Jacobus in peace
 - [ ] I am Dell Lewis in humility
 - [ ] I am Bill in encouragement
 - [ ] I am Sylvia Grosh in ideas and leadership
