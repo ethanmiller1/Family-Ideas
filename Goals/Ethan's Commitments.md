@@ -137,3 +137,37 @@
 - [ ] I'm good at remembering names
 - [ ] I am down to earth
 - [ ] I am high energy
+
+# I Follow The Example of Great Men
+
+- [ ] I am a Solomon in wisdom
+- [ ] I am David in praise
+- [ ] I am Abraham in faith
+- [ ] I am Joshua in war
+- [ ] I am Joseph in discipline
+- [ ] I am Phillip Forester in prayer
+- [ ] I am Kent Hovind in wit, simplicity, and humor
+- [ ] I am Russel Pearson in challenging and edifying others
+- [ ] I am Steven Anderson in biblical discernment and work ethic
+- [ ] I am John Piper in seriousness and heart
+- [ ] I am Todd White in joy
+- [ ] I am Todd White in wise elocution
+- [ ] I am Sean McDowell in balance between compassion and knowledge
+- [ ] I am Francis Chan in rhetorical style
+- [ ] I am Jordan Peterson in vocabulary
+- [ ] I am William Lane Craig in study and education
+- [ ] I am Mark Gorman in my command of respect
+- [ ] I am Trey Gowdy in command to expectation and standards
+- [ ] I am Aaron Marino in fashion
+- [ ] I am Ravi Zacharias in ernest appeal
+- [ ] I am James Stewart in drollness
+- [ ] I am Ben Shapiro in politics
+- [ ] I am Milo Yiannopoulos in offensive yet lighthearted debating skills
+- [ ] I am Christian Berdahl in young and greasy apparel
+- [ ] I am Ken Graves in militancy
+- [ ] I am Rob Bell in compellingness
+- [ ] I am Blanchard jacobus in peace
+- [ ] I am Dell Lewis in humility
+- [ ] I am Bill in encouragement
+- [ ] I am Sylvia Grosh in ideas and leadership
+

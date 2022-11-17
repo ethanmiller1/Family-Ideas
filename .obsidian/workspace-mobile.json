@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Professional Journal/Amazon Core Competencies/16 Principles of Leadership.md",
-                "mode": "source",
+                "file": "Goals/Ethan's Commitments.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Professional Journal/Amazon Core Competencies/16 Principles of Leadership.md",
+            "file": "Goals/Ethan's Commitments.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -137,20 +137,17 @@
     ],
     "currentTab": 0
   },
-  "ribbon": {
-    "mostRecentAction": "Open quick switcher"
-  },
   "active": "850d9abd6a90e464",
   "lastOpenFiles": [
-    "Professional Journal/Software Stories.md",
-    "Goals/Ethan's Commitments.md",
-    "Professional Journal/Amazon Core Competencies/16 Principles of Leadership.md",
-    "Professional Journal/Amazon Core Competencies/System design.md",
-    "Professional Journal/Amazon Core Competencies/Logical and Maintainable.md",
-    "Professional Journal/Amazon Core Competencies/Data structures and algorithms.md",
+    "Health/World Nutrition Source/Collagen.md",
+    "Health/World Nutrition Source/Cooking, food combining, potatoes, chewing.md",
     "Goals/Ethan's Commitment Notes.md",
-    "Relationship/Intimacy.md",
-    "Professional Journal/Software Pep Talk (Cover Letter Stuff).md",
-    "Professional Journal/Algorithms.md"
+    "Goals/Ethan's Commitments.md",
+    "Professional Journal/Algorithms.md",
+    "Professional Journal/Software Stories.md",
+    "Professional Journal/Amazon Core Competencies/16 Principles of Leadership.md",
+    "Untitled.md",
+    "Professional Journal/Amazon Prep.md",
+    "Professional Journal/Amazon Core Competencies/Algorithms.md"
   ]
 }
