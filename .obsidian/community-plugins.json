@@ -17,5 +17,8 @@
   "obsidian-citation-plugin",
   "obsidian-icon-shortcodes",
   "obsidian-dynamic-toc",
-  "url-into-selection"
+  "url-into-selection",
+  "markdown-table-editor",
+  "obsidian-excel-to-markdown-table",
+  "highlightr-plugin"
 ]
