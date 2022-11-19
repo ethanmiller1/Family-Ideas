@@ -18,8 +18,41 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e13a64b70b1a0bf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Health/Green Juice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "115a36c022072fb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goals/Ethan's Commitment Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a97f8cb58e130312",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +118,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Goals/Ethan's Commitments.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,9 +145,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Goals/Ethan's Commitments.md"
-          }
+          "state": {}
         }
       },
       {
@@ -137,17 +167,17 @@
     ],
     "currentTab": 0
   },
-  "active": "850d9abd6a90e464",
+  "active": "a97f8cb58e130312",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Goals/Ethan's Commitment Notes.md",
+    "Health/Green Juice.md",
     "Goals/Ethan's Commitments.md",
     "Relationship/Intimacy.md",
     "Health/World Nutrition Source/Collagen.md",
     "Health/World Nutrition Source/Cooking, food combining, potatoes, chewing.md",
     "Professional Journal/Algorithms.md",
     "Professional Journal/Software Stories.md",
-    "Professional Journal/Amazon Core Competencies/16 Principles of Leadership.md",
-    "Untitled.md",
-    "Professional Journal/Amazon Prep.md"
+    "Professional Journal/Amazon Core Competencies/16 Principles of Leadership.md"
   ]
 }
