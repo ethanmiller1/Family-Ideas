@@ -47,8 +47,12 @@
             "id": "a97f8cb58e130312",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Shopping/Docking Stations.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -118,6 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Shopping/Docking Stations.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,7 +150,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Shopping/Docking Stations.md"
+          }
         }
       },
       {
@@ -167,8 +174,10 @@
     ],
     "currentTab": 0
   },
-  "active": "a97f8cb58e130312",
+  "active": "4eb8f143bd0a9aaa",
   "lastOpenFiles": [
+    "Attachments/748A43B1-402F-44AE-AF3D-621D085EF578.jpeg",
+    "Apps.md",
     "conflict-files-obsidian-git.md",
     "Goals/Ethan's Commitment Notes.md",
     "Health/Green Juice.md",
@@ -176,8 +185,6 @@
     "Relationship/Intimacy.md",
     "Health/World Nutrition Source/Collagen.md",
     "Health/World Nutrition Source/Cooking, food combining, potatoes, chewing.md",
-    "Professional Journal/Algorithms.md",
-    "Professional Journal/Software Stories.md",
-    "Professional Journal/Amazon Core Competencies/16 Principles of Leadership.md"
+    "Professional Journal/Algorithms.md"
   ]
 }
