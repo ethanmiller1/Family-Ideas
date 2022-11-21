@@ -25,10 +25,17 @@ Research:
 
 # Surround Sound
 
-* [Polk 5.1 Channel Wireless Surround Sound System](https://www.amazon.com/Polk-Surround-Surrounds-Subwoofer-Bluetooth/dp/B09K4LG7GD/ref=sr_1_3)
-* [Polk Audio MagniFi Max SR Home Theater Surround Sound Bar](https://www.amazon.com/Polk-Audio-Surround-Performance-Subwoofer/dp/B0753ZLK2H/ref=sr_1_7)
+| Brand   | Model                 | Price  | List Price | Channels |
+|---------|-----------------------|--------|------------|----------|
+| JBL     | [JBL Bar 5.1](https://www.jbl.com/bar-series/JBLBAR51BLKAM.htm)         | 399.99 | 699.95     | 5.1      |
+| LG      | [Dolby Atmos and DTS](https://www.bestbuy.com/site/lg-5-1-2-channel-soundbar-with-wireless-subwoofer-dolby-atmos-and-dtsx-black/6498853.p?skuId=6498853) | 349.99 | 699.99     | 5.1.2    |
+| Samsung | [HW-Q750B](https://www.bestbuy.com/site/samsung-hw-q750b-za-5-1-2ch-soundbar-with-wireless-dolby-atmos-dtsx-black/6505885.p?skuId=6505885)            | <mark class="hltr-yellow">479.99</mark> | 799.99     | 5.1.2    |
+| Polk    | [MagniFi Max SR](https://www.amazon.com/Polk-Audio-Surround-Performance-Subwoofer/dp/B0753ZLK2H/ref=sr_1_7?th=1)      | 399    | 599        | 5.1      |
 
-![](https://m.media-amazon.com/images/I/413C4SBov5L._AC_SL1400_.jpg)
+Research.
+The [Samsung Q750B is better than the JBL Bar 5.1](https://www.rtings.com/soundbar/tools/compare/jbl-bar-5-1-surround-vs-samsung-hw-q700a/4522/23516?usage=8767&threshold=0.10). Upgrading from 5.1 to 5.1.2 [makes everything sound better](https://www.reddit.com/r/hometheater/comments/4bcz8x/thoughts_on_atmos_512_is_it_worth_it_vs_just_51/). [Samsung HW-Q700B Soundbar Honest Review](https://www.youtube.com/watch?v=3KVuWP3BGaA).
+
+![](https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6505/6505885cv11d.jpg)
 
 # Office Chair
 
@@ -37,16 +44,20 @@ Research:
 * [Generation Chair by Knoll](https://www.madisonseating.com/generation-chair-by-knoll.html)
 
 ## Humanscale Liberty Chair Platinum Frame
-* [$499.00 - seatingmind.com](https://seatingmind.com/humanscale-liberty-chair-fully-adjustable-model/)
-* [$399.00 - officechairatwork.com](https://backcomfortstore.com/humanscale-liberty-chair-drafting-stool)
-* [$499.00 - seatingmind.com](https://seatingmind.com/humanscale-liberty-chair-platinum-frame/?gclid=Cj0KCQiA99ybBhD9ARIsALvZavVGgFQ1XXRjM5yzskVza_Ylod_GPdAhiZY24_JEmV7JS_Rr9xeI5S4aAhOoEALw_wcB)
-* [$499.00 - officechairatwork.com](https://officechairatwork.com/product/humanscale-liberty-chair-adjustable-seat-depth-gray-light-gray/)
-* [$1,272.45 - 2modern.com](https://www.2modern.com/products/liberty-task-chair?variant=34585208422445)
-* [$1342.00 - humanscale.com](https://www.humanscale.com/products/liberty-task-chair-configurator.cfm?configuration=L111VC12FT12-------)
-* [$1342.00 - amazon.com](https://www.amazon.com/Humanscale-Liberty-Adjustable-Fourtis-Standard/dp/B09SVQXL6G?th=1)
-* [$499.00 - backcomfortstore.com](https://backcomfortstore.com/liberty-chair-by-humanscale-platinum-frame)
-* [$1342.00 - wayfair.com](https://www.wayfair.com/Humanscale--Liberty%C2%AE-Ergonomic-Mesh-Task-Chair-L111-L10-K~W003256695.html?piid=183643380%2C183643343%2C183643338)
-* [$399.11 -madisonseating.com](https://www.madisonseating.com/liberty-office-task-chair-by-humanscale.html)
+
+| Chair                             | Arms                  | Seat Textile |
+| --------------------------------- | --------------------- | ------------ |
+| [$499.00 - seatingmind.com](https://seatingmind.com/humanscale-liberty-chair-fully-adjustable-model/)       | Fixed Duran Arms      | Lotus        |
+| [$399.00 - backcomfortstore.com](https://backcomfortstore.com/humanscale-liberty-chair-drafting-stool)  | Fixed Duran Arms      | Lotus        |
+| [$499.00 - seatingmind.com](https://seatingmind.com/humanscale-liberty-chair-platinum-frame/?gclid=Cj0KCQiA99ybBhD9ARIsALvZavVGgFQ1XXRjM5yzskVza_Ylod_GPdAhiZY24_JEmV7JS_Rr9xeI5S4aAhOoEALw_wcB)       | Adjustable Duran Arms | [Old Lotus](https://cdn11.bigcommerce.com/s-rb8ue6qv0m/images/stencil/960w/products/1935/13635/20210318_133836__44798.1616089635.jpg)  |
+| [$499.00 - officechairatwork.com](https://officechairatwork.com/product/humanscale-liberty-chair-adjustable-seat-depth-gray-light-gray/) | <mark class="hltr-yellow">Adjustable Duran Arms</mark> | Lotus        |
+| [$399.11 -madisonseating.com](https://www.madisonseating.com/liberty-office-task-chair-by-humanscale.html)     | Fixed Duran Arms      | Lotus        |
+| [$499.00 - backcomfortstore.com](https://backcomfortstore.com/liberty-chair-by-humanscale-platinum-frame)  | Adjustable Duran Arms | [Old Lotus](https://cdn11.bigcommerce.com/s-rb8ue6qv0m/images/stencil/960w/products/1935/13635/20210318_133836__44798.1616089635.jpg)  |
+| [$1,272.45 - 2modern.com](https://www.2modern.com/products/liberty-task-chair?variant=34585208422445)         |                       |              |
+| [$1342.00 - humanscale.com](https://www.humanscale.com/products/liberty-task-chair-configurator.cfm?configuration=L111VC12FT12-------)       | Adjustable Duran Arms | <mark class="hltr-yellow">Fourtis</mark>     |
+| [$1342.00 - amazon.com](https://www.amazon.com/Humanscale-Liberty-Adjustable-Fourtis-Standard/dp/B09SVQXL6G?th=1)           |                       |              |
+| [$1342.00 - wayfair.com](https://www.wayfair.com/Humanscale--Liberty%C2%AE-Ergonomic-Mesh-Task-Chair-L111-L10-K~W003256695.html?piid=183643380%2C183643343%2C183643338)          |                       |              |
+
 
 ![](https://www.humanscale.com/imagesconfig/L111VC12FT12-------_2_505.png)
 
@@ -55,6 +66,14 @@ Research:
 * Seat Textile: `Fourtis`
 * Armrest/Armpad: `1 - Adjustable Duron Arms (+167.00)`
 * Casters: `Standard Hard Casters`
+
+[Ginko](https://www.humanscale.com/products/viewLarge.cfm?configid=4&angle=0000&sku=L112VC12F556-------)![Ginko](http://machinecore.thebigpicturemachine.com/Ziing3Server/Ziing3.aspx?req=render&humanscale-liberty-l11Tv4_0030&fmt=jpg&bgc=ffffff&size=3000&layer=root-stitches-fs_stat$lt=SO$zo=2&layer=root-stitches-fs-uphl1_up00$lt=RO$zo=3$mat=f556&layer=root-stitches-fs-fram1_v$lt=SO$zo=8&layer=root-stitches-fs-bases-p-feet-c_stat$lt=SO$zo=41&layer=root-stitches-fs-bases-p-feet-c-fram2_v$lt=SO$zo=43&layer=root-stitches-fs-arms-2_stat$lt=SO$zo=122&layer=root-stitches-fs-arms-2-uphl2_up00$lt=RO$zo=123$mat=f556&layer=root-stitches-fs-arms-2-fram2_v$lt=SO$zo=128&layer=root-stitches-fs-arms-2-mesh-mesh_stat$lt=SO$zo=132&layer=root-stitches-fs-arms-2-mesh-mesh-mesh1_c12$lt=SO$zo=139)
+
+[Lotus](https://www.humanscale.com/products/viewLarge.cfm?configid=4&angle=0000&sku=L112VC12K158-------)![](http://machinecore.thebigpicturemachine.com/Ziing3Server/Ziing3.aspx?req=render&humanscale-liberty-l11Tv4_0030&fmt=jpg&bgc=ffffff&size=3000&layer=root-stitches-fs_stat$lt=SO$zo=2&layer=root-stitches-fs-uphl1_up00$lt=RO$zo=3$mat=k158&layer=root-stitches-fs-fram1_v$lt=SO$zo=8&layer=root-stitches-fs-bases-p-feet-c_stat$lt=SO$zo=41&layer=root-stitches-fs-bases-p-feet-c-fram2_v$lt=SO$zo=43&layer=root-stitches-fs-arms-2_stat$lt=SO$zo=122&layer=root-stitches-fs-arms-2-uphl2_up00$lt=RO$zo=123$mat=k158&layer=root-stitches-fs-arms-2-fram2_v$lt=SO$zo=128&layer=root-stitches-fs-arms-2-mesh-mesh_stat$lt=SO$zo=132&layer=root-stitches-fs-arms-2-mesh-mesh-mesh1_c12$lt=SO$zo=139)
+
+[Corde](https://www.humanscale.com/products/viewLarge.cfm?configid=4&angle=0000&sku=L112VC12CF12-------)![](http://machinecore.thebigpicturemachine.com/Ziing3Server/Ziing3.aspx?req=render&humanscale-liberty-l11Tv4_0030&fmt=jpg&bgc=ffffff&size=3000&layer=root-stitches-fs_stat$lt=SO$zo=2&layer=root-stitches-fs-uphl1_up00$lt=RO$zo=3$mat=cf12&layer=root-stitches-fs-fram1_v$lt=SO$zo=8&layer=root-stitches-fs-bases-p-feet-c_stat$lt=SO$zo=41&layer=root-stitches-fs-bases-p-feet-c-fram2_v$lt=SO$zo=43&layer=root-stitches-fs-arms-2_stat$lt=SO$zo=122&layer=root-stitches-fs-arms-2-uphl2_up00$lt=RO$zo=123$mat=cf12&layer=root-stitches-fs-arms-2-fram2_v$lt=SO$zo=128&layer=root-stitches-fs-arms-2-mesh-mesh_stat$lt=SO$zo=132&layer=root-stitches-fs-arms-2-mesh-mesh-mesh1_c12$lt=SO$zo=139)
+
+[Fourtis](https://www.humanscale.com/products/viewLarge.cfm?configid=4&angle=0000&sku=L112VC12FT12-------)![](http://machinecore.thebigpicturemachine.com/Ziing3Server/Ziing3.aspx?req=render&humanscale-liberty-l11Tv4_0030&fmt=jpg&bgc=ffffff&size=3000&layer=root-stitches-fs_stat$lt=SO$zo=2&layer=root-stitches-fs-uphl1_up00$lt=RO$zo=3$mat=ft12&layer=root-stitches-fs-fram1_v$lt=SO$zo=8&layer=root-stitches-fs-bases-p-feet-c_stat$lt=SO$zo=41&layer=root-stitches-fs-bases-p-feet-c-fram2_v$lt=SO$zo=43&layer=root-stitches-fs-arms-2_stat$lt=SO$zo=122&layer=root-stitches-fs-arms-2-uphl2_up00$lt=RO$zo=123$mat=ft12&layer=root-stitches-fs-arms-2-fram2_v$lt=SO$zo=128&layer=root-stitches-fs-arms-2-mesh-mesh_stat$lt=SO$zo=132&layer=root-stitches-fs-arms-2-mesh-mesh-mesh1_c12$lt=SO$zo=139)
 
 ### Emails:
 
