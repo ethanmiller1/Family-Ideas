@@ -45,19 +45,22 @@ The [Samsung Q750B is better than the JBL Bar 5.1](https://www.rtings.com/soundb
 
 ## Humanscale Liberty Chair Platinum Frame
 
-| Chair                             | Arms                  | Seat Textile |
-| --------------------------------- | --------------------- | ------------ |
-| [$499.00 - seatingmind.com](https://seatingmind.com/humanscale-liberty-chair-fully-adjustable-model/)       | Fixed Duran Arms      | Lotus        |
-| [$399.00 - backcomfortstore.com](https://backcomfortstore.com/humanscale-liberty-chair-drafting-stool)  | Fixed Duran Arms      | Lotus        |
-| [$499.00 - seatingmind.com](https://seatingmind.com/humanscale-liberty-chair-platinum-frame/?gclid=Cj0KCQiA99ybBhD9ARIsALvZavVGgFQ1XXRjM5yzskVza_Ylod_GPdAhiZY24_JEmV7JS_Rr9xeI5S4aAhOoEALw_wcB)       | Adjustable Duran Arms | [Old Lotus](https://cdn11.bigcommerce.com/s-rb8ue6qv0m/images/stencil/960w/products/1935/13635/20210318_133836__44798.1616089635.jpg)  |
+| Chair                             | Arms                   | Seat Textile |
+| --------------------------------- | ---------------------- | ------------ |
+| [$499.00 - seatingmind.com](https://seatingmind.com/humanscale-liberty-chair-fully-adjustable-model/)       | <mark class="hltr-red">Fixed Duran Arms</mark>      | Lotus        |
+| [$399.00 - backcomfortstore.com](https://backcomfortstore.com/humanscale-liberty-chair-drafting-stool)  | <mark class="hltr-red">Fixed Duran Arms</mark>      | Lotus        |
+| [$499.00 - seatingmind.com](https://seatingmind.com/humanscale-liberty-chair-platinum-frame/?gclid=Cj0KCQiA99ybBhD9ARIsALvZavVGgFQ1XXRjM5yzskVza_Ylod_GPdAhiZY24_JEmV7JS_Rr9xeI5S4aAhOoEALw_wcB)       | Adjustable Duran Arms  | [Old Lotus](https://cdn11.bigcommerce.com/s-rb8ue6qv0m/images/stencil/960w/products/1935/13635/20210318_133836__44798.1616089635.jpg)  |
 | [$499.00 - officechairatwork.com](https://officechairatwork.com/product/humanscale-liberty-chair-adjustable-seat-depth-gray-light-gray/) | <mark class="hltr-yellow">Adjustable Duran Arms</mark> | Lotus        |
-| [$399.11 -madisonseating.com](https://www.madisonseating.com/liberty-office-task-chair-by-humanscale.html)     | Fixed Duran Arms      | Lotus        |
-| [$499.00 - backcomfortstore.com](https://backcomfortstore.com/liberty-chair-by-humanscale-platinum-frame)  | Adjustable Duran Arms | [Old Lotus](https://cdn11.bigcommerce.com/s-rb8ue6qv0m/images/stencil/960w/products/1935/13635/20210318_133836__44798.1616089635.jpg)  |
-| [$1,272.45 - 2modern.com](https://www.2modern.com/products/liberty-task-chair?variant=34585208422445)         |                       |              |
-| [$1342.00 - humanscale.com](https://www.humanscale.com/products/liberty-task-chair-configurator.cfm?configuration=L111VC12FT12-------)       | Adjustable Duran Arms | <mark class="hltr-yellow">Fourtis</mark>     |
-| [$1342.00 - amazon.com](https://www.amazon.com/Humanscale-Liberty-Adjustable-Fourtis-Standard/dp/B09SVQXL6G?th=1)           |                       |              |
-| [$1342.00 - wayfair.com](https://www.wayfair.com/Humanscale--Liberty%C2%AE-Ergonomic-Mesh-Task-Chair-L111-L10-K~W003256695.html?piid=183643380%2C183643343%2C183643338)          |                       |              |
+| [$399.11 -madisonseating.com](https://www.madisonseating.com/liberty-office-task-chair-by-humanscale.html)     | Fixed Duran Arms       | Lotus        |
+| [$499.00 - backcomfortstore.com](https://backcomfortstore.com/liberty-chair-by-humanscale-platinum-frame)  | Adjustable Duran Arms  | [Old Lotus](https://cdn11.bigcommerce.com/s-rb8ue6qv0m/images/stencil/960w/products/1935/13635/20210318_133836__44798.1616089635.jpg)  |
+| [$1,272.45 - 2modern.com](https://www.2modern.com/products/liberty-task-chair?variant=34585208422445)         |                        |              |
+| [$1342.00 - humanscale.com](https://www.humanscale.com/products/liberty-task-chair-configurator.cfm?configuration=L111VC12FT12-------)       | Adjustable Duran Arms  | <mark class="hltr-yellow">Fourtis</mark>     |
+| [$1342.00 - amazon.com](https://www.amazon.com/Humanscale-Liberty-Adjustable-Fourtis-Standard/dp/B09SVQXL6G?th=1)           |                        |              |
+| [$1342.00 - wayfair.com](https://www.wayfair.com/Humanscale--Liberty%C2%AE-Ergonomic-Mesh-Task-Chair-L111-L10-K~W003256695.html?piid=183643380%2C183643343%2C183643338)          |                        |              |
 
+### Can I replace the seat textile?
+
+Yes. See page 18-19 of the [Seat Parts Guide](<https://humanscale.com/UserFiles/File/SeatingPartsGuiderev12-08(2).pdf#page=18>). The part is called `Upholstery, Seat, Foam` and it will cost $80.
 
 ![](https://www.humanscale.com/imagesconfig/L111VC12FT12-------_2_505.png)
 
