@@ -22,6 +22,20 @@
 Research:
 * [Samsung G9 Non-Sponsored Review - Linus Tech Tips](https://www.youtube.com/watch?v=oDMlKOKr9bA)
 * [CRG9 or Odyssey G9?](https://www.reddit.com/r/ultrawidemasterrace/comments/eu9oqs/crg9_or_odyssey_g9/)
+* [Limited to 3840x1080 @ 60Hz](https://www.reddit.com/r/ultrawidemasterrace/comments/nhzkz5/help_new_g9_limited_to_3840x1080_60hz_no_option/)
+
+You'll get the maximum resolution on your monitor as follows.
+* 5120 x 1440 @ 60 Hz (HDMI)
+* 5120 x 1440 @ 240 Hz (DisplayPort)
+
+## Bill Of Purchase
+
+[Best Buy](https://www.bestbuy.com/profile/ss/orders/order-details/BBY01-806704592664/view):
+Serial: `0ECHHCST900791`
+Model: `LC49G97TSSNXDC`
+SKU: `6425569`
+
+![[Pasted image 20221123131608.png]]
 
 # Surround Sound
 
@@ -37,6 +51,15 @@ The [Samsung Q750B is better than the JBL Bar 5.1](https://www.rtings.com/soundb
 
 ![](https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6505/6505885cv11d.jpg)
 
+## Bill Of Purchase
+
+[Best Buy](https://www.bestbuy.com/profile/ss/orders/order-details/BBY01-806705040053/view):
+Serial: -
+Model: `HW-Q750B/ZA`
+SKU: `6505885`
+
+![[Pasted image 20221123131917.png]]
+
 # Office Chair
 
 * [Liberty Office Task Chair by Humanscale](https://www.madisonseating.com/liberty-office-task-chair-by-humanscale.html)
@@ -47,6 +70,8 @@ The [Samsung Q750B is better than the JBL Bar 5.1](https://www.rtings.com/soundb
 
 | Chair                             | Arms                   | Seat Textile |
 | --------------------------------- | ---------------------- | ------------ |
+| [$225.00 - rework-furniture.com](https://rework-furniture.com/furniture/seating/humanscale-liberty-task-chair-grey-preowned)  | <mark class="hltr-yellow">Adjustable Duron Arms</mark> | Lotus        |
+| [$299.00 - madisonseating.com](https://www.madisonseating.com/liberty-office-task-chair-by-humanscale-clone.html)    | <mark class="hltr-yellow">Adjustable Duron Arms</mark> | Lotus        |
 | [$499.00 - seatingmind.com](https://seatingmind.com/humanscale-liberty-chair-fully-adjustable-model/)       | <mark class="hltr-red">Fixed Duran Arms</mark>      | Lotus        |
 | [$399.00 - backcomfortstore.com](https://backcomfortstore.com/humanscale-liberty-chair-drafting-stool)  | <mark class="hltr-red">Fixed Duran Arms</mark>      | Lotus        |
 | [$499.00 - seatingmind.com](https://seatingmind.com/humanscale-liberty-chair-platinum-frame/?gclid=Cj0KCQiA99ybBhD9ARIsALvZavVGgFQ1XXRjM5yzskVza_Ylod_GPdAhiZY24_JEmV7JS_Rr9xeI5S4aAhOoEALw_wcB)       | Adjustable Duran Arms  | [Old Lotus](https://cdn11.bigcommerce.com/s-rb8ue6qv0m/images/stencil/960w/products/1935/13635/20210318_133836__44798.1616089635.jpg)  |
@@ -98,3 +123,12 @@ Yes. See page 18-19 of the [Seat Parts Guide](<https://humanscale.com/UserFiles/
 
 [Humanscale Freedom Chair Added Headrest](https://backcomfortstore.com/humanscale-freedom-chair-added-headrest-fully-adjustable-model-black-fabric)
 
+# 65+" TV
+
+# Computer Parts
+
+# Apple Watch
+
+# Computer Speakers
+
+# Docking Station
