@@ -164,3 +164,9 @@ Ethan Miller
 | [Edifier Studio](https://www.nfm.com/edifier-studio-series-2-0-active-book-shelf-speaker-system-each/48714075.htm) | Series 2.0 Active Book Shelf Speaker | 119.99 | 119.00     |
 
 # Docking Station
+
+# Standing Desk
+
+| Brand    | Model   | Dimensions | [WobbleMeter Score](https://www.btod.com/blog/most-stable-standing-desks/) | Desktop                 | Price | List Price |
+|----------|---------|------------|---------------------|-------------------------|-------|------------|
+| [UPLIFT](https://www.upliftdesk.com/uplift-v2-laminate-standing-desk/) | V2 Desk | 48" x 30"  | 132                 | Maple Laminate 1" Thick | 679   | 679        |
