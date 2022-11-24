@@ -51,6 +51,9 @@
 
 ![[Pasted image 20221123171719.png]]
 
+[What’s the Difference Between Thunderbolt 3, Thunderbolt 4, and USB4](https://plugable.com/blogs/news/what-s-the-difference-between-thunderbolt-3-thunderbolt-4-and-usb4)
+![[timeline-usb-tbt-max.webp]]
+
 # Power Delivery
 
 The USB [Power Delivery 3.0](https://www.androidauthority.com/usb-power-delivery-806266/) revision released in 2018 introduced the <mark class="hltr-yellow">Programmable Power Supply protocol</mark> into the standard.

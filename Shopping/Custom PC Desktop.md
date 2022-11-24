@@ -12,6 +12,7 @@
 
 - [ ] 2 x DisplayPort 2 (1.4 or above is sufficient)
 - [ ] 2 x HDMI 2.0
+- [ ] Support quad 4k Monitors
 
 # Memory
 
