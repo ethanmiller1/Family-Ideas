@@ -6,3 +6,30 @@ Laptops should have the following capabilities:
 - [ ] 2 USB-A ports.
 - [ ] 2 slots for memory (to upgrade to 32GB).
 
+
+# HP EliteBook x360 1040 G6
+
+## [Specs](https://support.hp.com/au-en/document/c06400841#AbT4)
+
+### Ports/slots
+
+| Specification                                                             | Features              |
+|---------------------------------------------------------------------------|-----------------------|
+| (2) USB 3.1 Type-C with Thunderbolt support (supports Power Delivery 3.0) | 40 Gbps, `45 - 100 W` |
+| (2) USB 3.1 Gen 1 (1 charging)                                            | 10 Gbps               |
+| (1) HDMI 1.4                                                              | 10.2Gbps              |
+| (1) AC power                                                              |                       |
+| (1) Headphone/microphone combo jack                                       |                       |
+
+### Graphics
+
+| Specification | Description            |
+|---------------|------------------------|
+| Integrated    | Intel UHD Graphics 620 |
+| Supports      | HD decode              |
+|               | Direct X12 (DX12)      |
+|               | HDMI 1.4b              |
+
+According to [Intel specification](https://ark.intel.com/content/www/us/en/ark/products/124967/intel-core-i5-8250u-processor-6m-cache-up-to-3-40-ghz.html "ark.intel.com"), you can connect up to <mark class="hltr-yellow">three monitors</mark> maximal with up to 4K resolutions (limited to 24 fps if using HDMI). Please note however that the number of connected display possible also depends on the physical slot available from the manufacturer.
+
+![[Pasted image 20221123194317.png]]

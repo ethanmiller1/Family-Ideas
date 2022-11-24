@@ -37,3 +37,5 @@
 | Add all matching text as selections       | Ctrl + Shift + L   |
 | Copy Line Down                            | Ctrl + Alt + Down  |
 | Move Line Down                            | Alt + Down         |
+| [Add cursor below](https://github.com/ethanmiller1/PowerShell/blob/master/Program%20Data/Visual%20Studio%20Community/Shortcuts.md)                        |                    |
+| [Column selection mode](https://forum.obsidian.md/t/column-selection-and-editing-mode/32191)                   |                    |
