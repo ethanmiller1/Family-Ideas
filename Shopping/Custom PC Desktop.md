@@ -25,7 +25,7 @@
 | DDR3    | 400 to 1066 MHz  | 2007          | JEDEC         | 1.5 to 1.35 Volt |               | 800 to 2133 MT/s | SDRAM |
 | DDR4    | 800 to 1600 MHz  | 2014          | JEDEC         | 1.2 Volt         |               |                  | SDRAM |
 | DDR5    | 1600 to 3200 MHz | 2020          | JEDEC         | 1.1 Volt         |               |                  | SDRAM |
-* [What is DDR RAM | Types of DDR RAM, Full Form, Advantages, History](https://quicklearncomputer.com/what-is-ddr-ram-types-of-ddr-ram/)
+* [What is DDR RAM? Types of DDR RAM, Full Form, Advantages, History](https://quicklearncomputer.com/what-is-ddr-ram-types-of-ddr-ram/)
 
 # Cooling (Fan/Liquid)
 # Power Supply
