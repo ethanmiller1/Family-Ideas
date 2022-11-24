@@ -2,7 +2,7 @@ Headphones should be:
 * Comfortable (ear cup design).
 * Good quality.
 * Bluetooth 5 or above.
-* Connect to multiple devices simultaniously.
+* Connect to multiple devices simultaneously.
 * Wireless.
 * Work with Teams.
 
