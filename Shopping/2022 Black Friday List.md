@@ -105,30 +105,62 @@ Yes. See page 18-19 of the [Seat Parts Guide](<https://humanscale.com/UserFiles/
 
 ### Emails:
 
->Hi, I was looking at the Humanscale Liberty Chair, Platinum, Adjustable Arms (https://officechairatwork.com/product/humanscale-liberty-chair-adjustable-seat-depth-gray-light-gray/) and the pictures are of a fixed arm chair, but the description says it has Adjustable Arms. Can you answer 2 questions:
->
->1.	Are the arms adjustable?
->2.	What is the material of the seat (seat textile)?
+```
+Hi, I was looking at the Humanscale Liberty Chair, Platinum, Adjustable Arms (https://officechairatwork.com/product/humanscale-liberty-chair-adjustable-seat-depth-gray-light-gray/) and the pictures are of a fixed arm chair, but the description says it has Adjustable Arms. Can you answer 2 questions:
 
->Hello,
->
- I had some questions about the [Humanscale Liberty Chair Drafting Stool](https://backcomfortstore.com/humanscale-liberty-chair-drafting-stool). The picture shows adjustable arms but the description says fixed arms. Can you tell me:
->
->1.  Are the arms adjustable?
->2.  What is the material of the seat (seat textile)?
->
->Thanks,
-   Ethan Miller
+1.	Are the arms adjustable?
+2.	What is the material of the seat (seat textile)?
+```
+
+```
+Hello,
+
+I had some questions about the [Humanscale Liberty Chair Drafting Stool](https://backcomfortstore.com/humanscale-liberty-chair-drafting-stool). The picture shows adjustable arms but the description says fixed arms. Can you tell me:
+
+1.  Are the arms adjustable?
+2.  What is the material of the seat (seat textile)?
+
+Thanks,
+Ethan Miller
+```
 
 
 [Humanscale Freedom Chair Added Headrest](https://backcomfortstore.com/humanscale-freedom-chair-added-headrest-fully-adjustable-model-black-fabric)
 
 # 65+" TV
 
+| Brand       | Series                      | Size | Resolution | Price    | List Price | Panel | Refresh Rate |
+|-------------|-----------------------------|------|------------|----------|------------|-------|--------------|
+| Amazon Fire | 4-Series                    | 50"  | 4K         | 249.99   |            |       |              |
+| [TCL](https://www.bestbuy.com/site/tcl-65-class-4-series-4k-uhd-hdr-smart-roku-tv/6500473.p?skuId=6500473)       | Class 4-Series              | 65"  | 4K         | 399.99   | 429.99     | OLED  | 60Hz         |
+| [SAMSUNG](https://www.bestbuy.com/site/samsung-60-class-tu690t-series-led-4k-uhd-smart-tizen-tv/6517113.p?skuId=6517113)   | Class TU690T Series         | 60"  | 4K         | 399.99   | 549.99     | QLED  | 60Hz         |
+| LG          | 80 Series                   | 43”  | 4K         | 399.99   |            |       | 60Hz         |
+| [LG](https://www.bestbuy.com/site/lg-65-class-uq75-series-led-4k-uhd-smart-webos-tv/6501938.p?skuId=6501938)        | Class UQ75 Series           | 65"  | 4K         | 449.99   | 519.99     | OLED  | 60Hz         |
+| [VIZIO](https://www.bestbuy.com/site/vizio-65-class-v-series-led-4k-uhd-smart-tv/6459563.p?skuId=6459563)     | Class V-Series              | 65"  | 4K         | 449.99   | 499.99     | OLED  | 60Hz         |
+| [LG](https://www.bestbuy.com/site/lg-65-class-un9000-series-led-4k-uhd-smart-webos-tv/6517579.p?skuId=6517579)        | Class UN9000 Series         | 65"  | 4K         | 499.99   | 699.99     | OLED  | 120Hz        |
+| [TCL](https://www.bestbuy.com/site/tcl-75-class-4-series-4k-uhd-hdr-smart-roku-tv/6514542.p?skuId=6514542)       | Class 4-Series              | 75"  | 4K         | <mark class="hltr-yellow">529.99</mark>  | 799.99     | OLED   | 60Hz         |
+| SAMSUNG     | Class Crystal               | 65"  | 4K         | 547.99   |            |       | 60Hz         |
+| [LG](https://www.bestbuy.com/site/lg-70-class-up7070-series-led-4k-uhd-smart-webos-tv/6452990.p?skuId=6452990)        | Class UP7070 Series         | 70"  | 4K         | 549.99   | 649.99     | OLED  | 60Hz         |
+| [LG](https://www.bestbuy.com/site/lg-48-class-a2-series-oled-4k-uhd-smart-webos-tv/6501902.p?skuId=6501902)        | Class A2 Series             | 48"  | 4K         | 569.99   | 1,299.99   | OLED  | 60Hz         |
+| [SAMSUNG](https://www.bestbuy.com/site/samsung-75-class-tu690t-series-led-4k-uhd-smart-tizen-tv/6514052.p?skuId=6514052)   | Class TU690T Series         | 75"  | 4K         | <mark class="hltr-yellow">579.99</mark>  | 849.99     | OLED  | 60Hz         |
+| [Samsung](https://www.bestbuy.com/site/samsung-75-class-tu690t-series-led-4k-uhd-smart-tizen-tv/6514052.p?skuId=6514052)   | Class TU690T Series         | 75"  | 4K         | 579.99   | 849.99     | OLED  | 60Hz         |
+| [Sony](https://www.bestbuy.com/site/sony-65-class-x75k-4k-hdr-led-google-tv/6505136.p?skuId=6505136)      | Class X75K                  | 65”  | 4K         | 579.99   | 699.99     | LED   | 60Hz         |
+| [LG](https://www.bestbuy.com/site/lg-75-class-uq75-series-led-4k-uhd-smart-webos-tv/6501934.p?skuId=6501934)        | Class UQ75 Series           | 75"  | 4K         | 629.99   | 799.99     | OLED  | 60Hz         |
+| LG          | Class NanoCell 75UQA Series | 65"  | 4K         | 649.99   | 749.99     | OLED  | 60Hz         |
+| [SAMSUNG](https://www.bestbuy.com/site/samsung-55-class-q60b-qled-4k-smart-tizen-tv/6502243.p?skuId=6502243)   | Class Q60B                  | 55”  | 4K         | 697.99   | 749.99     | QLED  | 60Hz         |
+| [SAMSUNG](https://www.bestbuy.com/site/samsung-75-class-q80b-qled-4k-smart-tizen-tv/6503079.p?skuId=6503079)   | Class Q80B                  | 75”  | 4K         | 1,599.99 | 1,799.99   | QLED  | 120Hz        |
+| [SAMSUNG](https://www.bestbuy.com/site/samsung-75-class-qn85b-neo-qled-4k-smart-tizen-tv/6500302.p?skuId=6500302)   | Class QN85B Neo             | 75”  | 4K         | 1,999.99 | 2,399.99   | QLED  | 120Hz        |
+
 # Computer Parts
 
 # Apple Watch
 
 # Computer Speakers
+
+| Brand          | Series                  | Price  | List Price |
+|----------------|-------------------------|--------| ---------- |
+| [Bose](https://www.bose.com/en_us/products/speakers/computer_speakers/companion-2-series-iii-multimedia-speaker-system.html)         | Companion® 2 Series III | 149.99 | 149.99     |
+| [Polk](https://www.nfm.com/polk-bookshelf-speaker-in-black-pair/61401139.html)         | Bookshelf Speaker     | 139.99 | 199.00     |
+| [Edifier Studio](https://www.nfm.com/edifier-studio-series-2-0-active-book-shelf-speaker-system-each/48714075.htm) | Series 2.0 Active Book Shelf Speaker | 119.99 | 119.00     |
 
 # Docking Station
