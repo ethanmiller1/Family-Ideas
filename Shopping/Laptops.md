@@ -9,11 +9,9 @@ Laptops should have the following capabilities:
 
 # HP EliteBook x360 1040 G6
 
-## [Specs](https://support.hp.com/au-en/document/c06400841#AbT4)
+## Ports/slots
 
-### Ports/slots
-
-| Specification                                                             | Features              |
+| [Specification](https://support.hp.com/au-en/document/c06400841#AbT4)                                                           | Features              |
 |---------------------------------------------------------------------------|-----------------------|
 | (2) USB 3.1 Type-C with Thunderbolt support (supports Power Delivery 3.0) | 40 Gbps, `45 - 100 W` |
 | (2) USB 3.1 Gen 1 (1 charging)                                            | 10 Gbps               |
@@ -21,24 +19,20 @@ Laptops should have the following capabilities:
 | (1) AC power                                                              |                       |
 | (1) Headphone/microphone combo jack                                       |                       |
 
-### Graphics
+## Graphics
 
-| Specification | Description            |
-|---------------|------------------------|
-| Integrated    | Intel UHD Graphics 620 |
-| Supports      | HD decode              |
-|               | Direct X12 (DX12)      |
-|               | HDMI 1.4b              |
+| Processor Graphics                           | [Intel UHD Graphics 620](https://ark.intel.com/content/www/us/en/ark/products/124967/intel-core-i58250u-processor-6m-cache-up-to-3-40-ghz.html) |
+|----------------------------------------------|--------------------------|
+| Max Resolution (HDMI)                        | 4096x2304@24Hz           |
+| Max Resolution (DP)                          | 4096x2304@60Hz           |
+| Max Resolution (eDP - Integrated Flat Panel) | 4096x2304@60Hz           |
+| # of Displays Supported                      | 3                        |
 
 According to [Intel specification](https://ark.intel.com/content/www/us/en/ark/products/124967/intel-core-i5-8250u-processor-6m-cache-up-to-3-40-ghz.html "ark.intel.com"), you can connect up to <mark class="hltr-yellow">three monitors</mark> maximal with up to 4K resolutions (limited to 24 fps if using HDMI). Please note however that the number of connected display possible also depends on the physical slot available from the manufacturer.
 
-![[Pasted image 20221123194317.png]]
-
 # HP EliteBook 840 G3
 
-## [Specs](https://support.hp.com/us-en/document/c05259054)
-
-### Graphics
+## Graphics
 
 | Processor Graphics                           | [Intel® HD Graphics 520](https://ark.intel.com/content/www/us/en/ark/products/88190/intel-core-i56300u-processor-3m-cache-up-to-3-00-ghz.html) |
 |----------------------------------------------|------------------------|
@@ -47,9 +41,9 @@ According to [Intel specification](https://ark.intel.com/content/www/us/en/ark/
 | Max Resolution (eDP - Integrated Flat Panel) | 4096x2304@60Hz         |
 | # of Displays Supported                      | 3                      |
 
-### Ports/slots
+## Ports/slots
 
-| Specification                                     | Features        |
+| [Specification](https://support.hp.com/us-en/document/c05259054)                                   | Features        |
 |---------------------------------------------------|-----------------|
 | (1) USB 3.1 Gen 1 charging                        |                 |
 | (1) USB 3.1 Gen 1                                 | 10 Gbps         |
@@ -65,7 +59,7 @@ According to [Intel specification](https://ark.intel.com/content/www/us/en/ark/
 
 The Basic USB-C port does [not support Alt mode](https://h30434.www3.hp.com/t5/Notebook-Hardware-and-Upgrade-Questions/usb-type-c-in-hp-elitebook-745-g3-support-hp-convert-usb-c/td-p/7319384) for video out, [nor Power Delivery](https://h30434.www3.hp.com/t5/Notebook-Hardware-and-Upgrade-Questions/can-someone-charge-a-hp-EliteBook-840-g3-with-a-type-C/td-p/8280903) for charging your machine. It cannot be used with a Type-C docking station.
 
-#### What is alt mode?
+### What is alt mode?
 
 Alt Mode is <mark class="hltr-yellow">a functional extension of USB-C which enables the USB connection to carry non-USB signals</mark>. Alt Mode(s) are optional capabilities that are unique to the USB-C connector or port that allow technologies, like DisplayPort and Thunderbolt 3, to be transmitted. If a port says that it is a **Basic** USB, that means it only supports USB signals.
 
