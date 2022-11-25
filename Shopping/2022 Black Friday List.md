@@ -1,6 +1,7 @@
 # Bed
 
 [Monroe II Upholstered Queen Bed, Created for Macy's](https://www.macys.com/shop/product/monroe-ii-upholstered-queen-bed-created-for-macys?ID=5343213)
+[Lacey Gray Uph Platform Bed](https://www.cityfurniture.com/product/9716527/lacey-gray-uph-platform-bed)
 
 ![](https://slimages.macysassets.com/is/image/MCY/products/8/optimized/9098078_fpx.tif?op_sharpen=1&wid=700&hei=855&fit=fit,1&fmt=webp)
 
@@ -103,6 +104,8 @@ Yes. See page 18-19 of the [Seat Parts Guide](<https://humanscale.com/UserFiles/
 
 [Fourtis](https://www.humanscale.com/products/viewLarge.cfm?configid=4&angle=0000&sku=L112VC12FT12-------)![](http://machinecore.thebigpicturemachine.com/Ziing3Server/Ziing3.aspx?req=render&humanscale-liberty-l11Tv4_0030&fmt=jpg&bgc=ffffff&size=3000&layer=root-stitches-fs_stat$lt=SO$zo=2&layer=root-stitches-fs-uphl1_up00$lt=RO$zo=3$mat=ft12&layer=root-stitches-fs-fram1_v$lt=SO$zo=8&layer=root-stitches-fs-bases-p-feet-c_stat$lt=SO$zo=41&layer=root-stitches-fs-bases-p-feet-c-fram2_v$lt=SO$zo=43&layer=root-stitches-fs-arms-2_stat$lt=SO$zo=122&layer=root-stitches-fs-arms-2-uphl2_up00$lt=RO$zo=123$mat=ft12&layer=root-stitches-fs-arms-2-fram2_v$lt=SO$zo=128&layer=root-stitches-fs-arms-2-mesh-mesh_stat$lt=SO$zo=132&layer=root-stitches-fs-arms-2-mesh-mesh-mesh1_c12$lt=SO$zo=139)
 
+
+
 ### Emails:
 
 ```
@@ -170,3 +173,36 @@ Ethan Miller
 | Brand    | Model   | Dimensions | [WobbleMeter Score](https://www.btod.com/blog/most-stable-standing-desks/) | Desktop                 | Price | List Price |
 |----------|---------|------------|---------------------|-------------------------|-------|------------|
 | [UPLIFT](https://www.upliftdesk.com/uplift-v2-laminate-standing-desk/) | V2 Desk | 48" x 30"  | 132                 | Maple Laminate 1" Thick | 679   | 679        |
+
+# Dresser
+
+[Mcinerney 6 - Drawer Dresser](https://www.wayfair.com/furniture/pdp/wade-logan-mcinerney-6-drawer-55-w-dresser-with-mirror-w004143959.html?piid=2035537607)
+List Price: $1,882.50
+Usual Price: $1,500
+Sale: $1,299.99
+
+![[Mcinerney+6+-+Drawer+Dresser.webp]]
+
+
+# Nightstand
+
+[Mcinerney Solid + Manufactured Wood Nightstand](https://www.wayfair.com/furniture/pdp/wade-logan-mcinerney-2-drawer-nightstand-w004143357.html)
+List Price: $527.50
+Sale: $399.99
+
+![[Mcinerney+Solid+++Manufactured+Wood+Nightstand.webp]]
+
+[Manningtree Manufactured Wood Nightstand](https://www.wayfair.com/furniture/pdp/wade-logan-manningtree-2-drawer-nightstand-w000404703.html)
+List Price: $210.00
+Sale: $139.99
+
+![[Manningtree+Manufactured+Wood+Nightstand.webp]]
+
+# Gym Shoes
+
+| Shoe            | Price   |
+|-----------------|---------|
+| [Nike Metcon 7](https://www.nike.com/t/metcon-7-x-training-shoes-0l6Psg) | $130    |
+| [On Cloudswift](https://www.on-running.com/en-us/products/cloudswift/mens/all-white) | $149.99 |
+
+Google Photo Storage
