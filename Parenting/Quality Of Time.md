@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=upyZEh124X4&list=LL&index=93
+
+A father doesn't have to be around. My job is not to be mother #2. A mother keeps the child alive. As a father it's your job to be impactful. You need to guide, you need to be a role model, you need to be a superhuman. Everyone should look at their father like a superhero. That's what you should genuinely view him as. It's hard to be a superhero if you're home every day arguing with your wife and changing diapers. That's not what a man should do. A man should rock up, teach lessons, be impactful, and it's more about quality as opposed to quantity of time.
