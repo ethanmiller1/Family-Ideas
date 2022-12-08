@@ -64,6 +64,8 @@ Don't be fooled. As you will see in a moment, this is a bait-and switch.
 
 ![[IMG_3545.jpg]]
 
+Notice there is no consent box to check that indicates you have Read and Agree to the terms of service. Why is there no consent box? Because they don't want you to know what you're signing up for. They are intentionally trying to hide from the customer that detail. That checkbox is required by the UCC. You simply go straight from "Add to Cart" to payment without any "Agree to Terms" pop up.
+
 # Drafting And Filing Your Petition
 
 **Since the petition is a formal court document, you need to draft it in a specific format and include the following:**
