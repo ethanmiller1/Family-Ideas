@@ -64,7 +64,33 @@ Don't be fooled. As you will see in a moment, this is a bait-and switch.
 
 ![[IMG_3545.jpg]]
 
+# Negative options
+
 Notice there is no consent box to check that indicates you have Read and Agree to the terms of service. Why is there no consent box? Because they don't want you to know what you're signing up for. They are intentionally trying to hide from the customer that detail. That checkbox is required by the UCC. You simply go straight from "Add to Cart" to payment without any "Agree to Terms" pop up.
+
+>**1. Collect consent through affirmative action, not through tricking your customers/ readers into subscribing to your newsletters because they forgot to opt out of something:**DON’T: pre-ticked boxes or OPT-OUT forms:
+
+
+> Federal and state laws have long <mark class="hltr-yellow">imposed limitations on whether B2C companies may interpret a consumer’s failure to take an affirmative action (e.g., reject an offer or cancel an agreement) as consent to be charged for the goods or services</mark>.  This category of transactions is broadly referred to as “negative options” and may include continuous service subscriptions, automatic renewals, membership clubs, free-to-paid trial offers, and other promotional conversions.
+
+>At the federal level, goods and services offered under such negative option billing plans are regulated by the Federal Trade Commission (FTC) under the <mark class="hltr-yellow">Restore Online Shoppers’ Confidence Act (ROSCA)</mark>.
+
+Although ARL requirements vary by state, there are nine states <mark class="hltr-yellow">including California</mark> and New York that impose more arduous requirements than others. To comply with most state ARLs, B2C businesses offering goods or services under such negative option billing plans should provide:
+
+1. Clear and conspicuous notice of offer terms.  Before purchase of the good or service is made, the terms of the offer must be presented “clearly and conspicuously.”  The offer terms must be displayed in stark contrast to the surrounding text in the contract (e.g., contrasting type, font, color, etc.) and <mark class="hltr-yellow">in visual proximity from wherever the consumer is provided the option to accept the terms of the offer (e.g., above the “I accept” button).</mark>  The offer terms should include the following:
+
+2.  **_Affirmative consent._**  An opt-in mechanism for the consumer to affirmatively consent to the automatic renewal clause must be presented _before_ the consumer is initially charged for the services. <mark class="hltr-yellow">Consent can be obtained via checkbox, signature, or some other affirmative opt-in placed near the clear and conspicuous negative options disclaimers</mark>. For example, a checkbox next to the automatic renewal offer terms may be sufficient, provided that the checkbox is not “pre-checked,” and such consent remains separate and distinct from the consumer’s consent to any other purchase-related terms.
+
+
+[U.S. State Laws Impose New Obligations for Businesses Offering Subscription-Based Goods and Services](https://www.gunder.com/news/u-s-state-laws-impose-new-obligations-for-businesses-offering-subscription-based-goods-and-services/)
+
+## California Automatic Renewal Laws (ARLs)
+
+[California BUSINESS AND PROFESSIONS CODE, ARTICLE 9. Automatic Purchase Renewals](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=BPC&division=7.&title=&part=3.&chapter=1.&article=9)
+
+“Clear and conspicuous” or “clearly and conspicuously” means in larger type than the surrounding text, or in contrasting type, font, or color to the surrounding text of the same size, or set off from the surrounding text of the same size by symbols or other marks, in a manner that clearly calls attention to the language. In the case of an audio disclosure, “clear and conspicuous” and “clearly and conspicuously” means in a volume and cadence sufficient to be readily audible and understandable. [9 B.P.C. § 17601 (c)](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=17601.) 
+
+Fail to present the automatic renewal offer terms or continuous service offer terms in a clear and conspicuous manner before the subscription or purchasing agreement is fulfilled <mark class="hltr-yellow">and in visual proximity</mark>, or, in the case of an offer conveyed by voice, in temporal proximity, <mark class="hltr-yellow">to the request for consent to the offer</mark>. If the offer also includes a free gift or trial, the offer shall include a clear and conspicuous explanation of the price that will be charged after the trial ends or the manner in which the subscription or purchasing agreement pricing will change upon conclusion of the trial. [9 B.P.C. § 17602 (a)](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=BPC&division=7.&title=&part=3.&chapter=1.&article=9) 
 
 # Drafting And Filing Your Petition
 
@@ -79,7 +105,7 @@ At this point, you need to know in what court to file your petition. This is cal
 
 # Statement of resolution
 
-I am prepared to pay the $200 filing fee to file a petition against Smileactives to put a stop to the hundreds of people you are defrauding with these illegal business practices. I've already identified the principal of law violated and compiled screenshot evidence of the bait-and-switch shopping experience from your product page to your checkout page. The courts are sure to rule in my favor as this is a textbook example of said principal of law. I will sue for an amount of $2 million.
+I am prepared to pay the $200 filing fee to file a petition against Smileactives to put a stop to the hundreds of people you are defrauding with these illegal business practices. I've already identified the principal of law violated and compiled screenshot evidence of the bait-and-switch shopping experience from your product page to your checkout page. The courts are likely to rule in my favor as this is a textbook example of said principal of law. I will sue for an amount of $2 million.
 
 I will allow you to remediate the issue with 2 actions:
 1. I receive a full refund of the money that was fraudulently laundered from me.
@@ -87,7 +113,25 @@ I will allow you to remediate the issue with 2 actions:
 
 If I receive a refund but within 90 days the auto-subscription still remains, I will still file the petition against you with the proper court. This is not a joke to me, and it is not a joke to the hundreds of people you are ripping off. This isn't India, it's America, and I'm committed to keeping American businesses honest. And if that means taking a personal hit to shut down a dishonest business like yours, I am more than willing and able to spend the effort. But first I will offer this simple path of repentance. If you are an honest business you will have no problem listening to the 74 1-star reviews left to you by your customers on the [Better Business Bureau](https://www.bbb.org/us/ca/el-segundo/profile/dental-equipment/smileactives-1216-881921/customer-reviews). This is clearly a negative user experience. If you do not implement the features requested by your customers, I can only conclude that you are purposefully misleading them. (We'll find out what the judge concludes.) The choice is yours; choose wisely. Nobody gets away with anything in this world. You can trust me on that.
 
-If 74 out of 74 reviews state they were not aware of the hidden "opt-in" clause, that will be hard for a judge to establish as "clear communication" (the second element of a binding contract).
+If 74 out of 74 reviews state they were not aware of the hidden "opt-in" clause, it will be hard for a judge to establish that as "clear communication" (the second element of a binding contract), leastwise affirmative action.
+
+## Legalize
+
+Federal and state laws have long imposed <mark class="hltr-yellow">limitations on companies interpreting a consumer’s failure to take an affirmative action</mark> (e.g., reject an offer or cancel an agreement) as consent to be charged for the goods or services. This category of transactions is broadly referred to as “negative options.”
+
+### Federal Laws Violated
+
+At the federal level, goods and services offered under such negative option billing plans are regulated by the Federal Trade Commission (FTC) under the [Restore Online Shoppers’ Confidence Act (ROSCA)](http://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title15-chapter110&edition=prelim). 
+
+From Title 15—COMMERCE AND TRADE, companies must "<mark class="hltr-yellow">require the consumer to perform an additional affirmative action, such as clicking on a confirmation button or checking a box that indicates the consumer's consent to be charged the amount disclosed</mark>." [15 USC Ch. 110: ONLINE SHOPPER PROTECTION §8402](http://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title15-chapter110&edition=prelim)
+
+### State Laws Violated
+
+At the state level, California Automatic Renewal Laws (ARLs) state businesses offering goods or services under such negative option billing plans should provide:
+
+1. Clear and conspicuous notice of offer terms.  Before purchase of the good or service is made, the terms of the offer must be presented “clearly and conspicuously.”  The offer terms must be displayed in stark contrast to the surrounding text in the contract (e.g., contrasting type, font, color, etc.) and <mark class="hltr-yellow">in visual proximity from wherever the consumer is provided the option to accept the terms of the offer (e.g., above the “I accept” button).</mark>  The offer terms should include the following: [9 B.P.C. § 17601 (c)](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=17601.) 
+
+2.  **_Affirmative consent._**  An opt-in mechanism for the consumer to affirmatively consent to the automatic renewal clause must be presented _before_ the consumer is initially charged for the services. <mark class="hltr-yellow">Consent can be obtained via checkbox, signature, or some other affirmative opt-in placed near the clear and conspicuous negative options disclaimers</mark>. For example, a checkbox next to the automatic renewal offer terms may be sufficient, provided that the checkbox is not “pre-checked,” and such consent remains separate and distinct from the consumer’s consent to any other purchase-related terms. [9 B.P.C. § 17602 (a)](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=BPC&division=7.&title=&part=3.&chapter=1.&article=9) 
 
 ## Review Moderated
 
