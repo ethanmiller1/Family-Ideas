@@ -4,59 +4,91 @@
     "type": "split",
     "children": [
       {
-        "id": "308468d9607db93c",
-        "type": "tabs",
+        "id": "d56201255fbf8ce3",
+        "type": "split",
         "children": [
           {
-            "id": "850d9abd6a90e464",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Goals/Ethan's Commitments.md",
-                "mode": "source",
-                "source": false
+            "id": "308468d9607db93c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "850d9abd6a90e464",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Goals/Ethan's Commitments.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e13a64b70b1a0bf7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Health/Green Juice.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "115a36c022072fb9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Goals/Ethan's Commitment Notes.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "a97f8cb58e130312",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Shopping/2022 Black Friday List.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                },
+                "group": "bb44317422db184e"
               }
-            }
+            ],
+            "currentTab": 3
           },
           {
-            "id": "e13a64b70b1a0bf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Health/Green Juice.md",
-                "mode": "source",
-                "source": false
+            "id": "1bf5d014f3e2f5a5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7a3c563e546349dc",
+                "type": "leaf",
+                "state": {
+                  "type": "media-view",
+                  "state": {
+                    "info": {
+                      "host": 0,
+                      "id": "cepvXg_ASN0",
+                      "iframe": "https://www.youtube.com/embed/cepvXg_ASN0",
+                      "src": "https://www.youtube.com/watch?v=cepvXg_ASN0",
+                      "hash": ""
+                    },
+                    "currentTime": 0
+                  }
+                },
+                "group": "bb44317422db184e"
               }
-            }
-          },
-          {
-            "id": "115a36c022072fb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Goals/Ethan's Commitment Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a97f8cb58e130312",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Health/6 Principles of Fitness.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            ]
           }
         ],
-        "currentTab": 3
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -122,7 +154,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Health/6 Principles of Fitness.md",
+            "file": "Shopping/2022 Black Friday List.md",
             "collapseAll": false,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -151,7 +183,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Health/6 Principles of Fitness.md"
+            "file": "Shopping/2022 Black Friday List.md"
           }
         }
       },
@@ -174,17 +206,17 @@
     ],
     "currentTab": 2
   },
-  "active": "a97f8cb58e130312",
+  "active": "4eb8f143bd0a9aaa",
   "lastOpenFiles": [
-    "Goals/Ethan's Commitments.md",
-    "Parenting/Storytelling.md",
-    "Shopping/Wish List.md",
+    "Shopping/Chair.md",
+    "Law/Sneaky Auto-Subscription.md",
     "Shopping/2022 Black Friday List.md",
-    "Shopping/Laptops.md",
-    "Shopping/Custom PC Desktop.md",
-    "Shopping/Computer Mouse.md",
-    "Shopping/Cable Standards.md",
-    "Shopping/Docking Stations.md",
-    "Attachments/748A43B1-402F-44AE-AF3D-621D085EF578.jpeg"
+    "Travel/Packing List.md",
+    "Travel/2022 Dec 9 Vacation.md",
+    "Travel/✅ St. Maarten.md",
+    "Health/Chronic Cough.md",
+    "Pasted image 20221208104659.jpg",
+    "Relationship/Photography.md",
+    "Relationship/Letters.md"
   ]
 }

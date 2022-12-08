@@ -136,7 +136,7 @@ I'm really excited to see my new chair! We have these at my office and they are 
 
 ![[Pasted image 20221208174423.png]]
 
-
+![[3E344B3D-C3EE-45A8-9D4C-4F1AC8E73D94.jpeg]]
 
 # 65+" TV
 
