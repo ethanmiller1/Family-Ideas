@@ -180,9 +180,9 @@ At my first consulting job with a company called improving, my boss called me in
 
 ## Logging PCI information (CC data)
 
-I was looking through our production logs one time, and I noticed that while we were masking PCI info in our APIs, any downstream service calls that used Sabre Web Services were showing PCI logs plain and clear. So I pinged our architect and said, "We're going to get hammered in our next PCI Audit if we don't fix this." Next day I presented the findings in a weekly meeting we have called Dev Forum and created an action plan. We created a library called [log4j2ext](https://dev.azure.com/AmericanAirlines/TicketingAndReceipts/_git/log4j2ext) that had a PCI masker, using the [Luhn Algorithm](https://www.geeksforgeeks.org/luhn-algorithm/) to mask Credit Card data intercepted by all of our logging.
+I was looking through our production logs one time, and I noticed that while we were masking PCI info in our APIs, any downstream service calls that used Sabre Web Services were showing PCI logs plain and clear. So I pinged our architect and said, "We're going to get hammered in our next PCI Audit if we don't fix this." Next day I presented the findings in a weekly meeting we have called Dev Forum and created an action plan. We created a library called [log4j2ext](https://dummyurl.com/AmericanAirlines/TicketingAndReceipts/_git/log4j2ext) that had a PCI masker, using the [Luhn Algorithm](https://www.geeksforgeeks.org/luhn-algorithm/) to mask Credit Card data intercepted by all of our logging.
 
-The way that it works is any time we produce a log using Log4J, there's an **MDC context** (*Mapped Diagnostic Context*) per thread where we keep data about that transaction, like the TransactionId, the RecordLocator, ClientId, etc. These values are then picked up by our structured [logging pattern](https://dev.azure.com/AmericanAirlines/TicketingAndReceipts/_git/AOLMS?path=%2Fsrc%2Fmain%2Fresources%2Flog4j2.xml), the last of which is simply the log message, which simply has the logging key `%pci`.
+The way that it works is any time we produce a log using Log4J, there's an **MDC context** (*Mapped Diagnostic Context*) per thread where we keep data about that transaction, like the TransactionId, the RecordLocator, ClientId, etc. These values are then picked up by our structured [logging pattern](https://dummyurl.com/AmericanAirlines/TicketingAndReceipts/_git/AOLMS?path=%2Fsrc%2Fmain%2Fresources%2Flog4j2.xml), the last of which is simply the log message, which simply has the logging key `%pci`.
 
 ``` xml
 <properties>
@@ -323,7 +323,7 @@ We were having an issue where a few times a week we kept getting these Dynatrace
 
 First we enabled verbose logs in the JAVA_OPTIONS and uploaded the log file to [gceasy.io](https://gceasy.io/). And we saw the Old Gen kept increasing steadily, we didn't see the nice shark tooth pattern that we wanted to see, so then we did some performance testing, did a thread dump, and analyzed the JVM memory breakdown with [YourKit Java Profiler](https://www.yourkit.com/java/profiler/features/) and [jvisualvm](https://visualvm.github.io/).
 
-Ultimately we decided since iTKTS was a legacy app, and it was some third party dependency we couldn't identify, we implemented a workaround, a [memory watcher](https://dev.azure.com/AmericanAirlines/TicketingAndReceipts/_git/iTKTSCloud?path=/src/main/java/com/aa/etds/itkts/monitors/memory/MemoryCheck.java). 
+Ultimately we decided since iTKTS was a legacy app, and it was some third party dependency we couldn't identify, we implemented a workaround, a [memory watcher](https://dummyurl.com/AmericanAirlines/TicketingAndReceipts/_git/iTKTSCloud?path=/src/main/java/com/aa/etds/itkts/monitors/memory/MemoryCheck.java). 
 
 ``` java
 @Component
@@ -375,7 +375,7 @@ private void checkGCStatsAndShutdownIfNeeded()
 }
 ```
 
-[OldGenerationMonitor.java](https://dev.azure.com/AmericanAirlines/TicketingAndReceipts/_git/iTKTSCloud/commit/7dff330f67fb69081137adfbd91a9b15954cbcdd?refName=refs/heads/master&path=/src/main/java/com/aa/etds/itkts/monitors/memory/OldGenerationMonitor.java)
+[OldGenerationMonitor.java](https://dummyurl.com/AmericanAirlines/TicketingAndReceipts/_git/iTKTSCloud/commit/7dff330f67fb69081137adfbd91a9b15954cbcdd?refName=refs/heads/master&path=/src/main/java/com/aa/etds/itkts/monitors/memory/OldGenerationMonitor.java)
 ``` java
 @Component
 public class OldGenerationMonitor implements ApplicationContextAware
@@ -404,7 +404,7 @@ We did have an issue where the app was shutting down before Kuberenetes stopped 
 
 ## Incorrect Casing for Service Discovery
 -   orderGroupResponse was invalid - this is a fake orderItemResponse 422
--   [DETTBP](https://dataexplorer.azure.com/clusters/private-orionadxp.eastus/databases/p-ticket-tktrcpts-applogs-adxdb?query=H4sIAAAAAAAAA12NPQvCMBCG9/6Ko1MKhYJ7HUQ3FdHu4ZocMdo24S4ogj/eIFXB9Xnejx71EJxofxUdOdiiaeAJ9zMxgU5+JEk4RlgCuqAWtiq+kskEtttgMAWGtoVyvem61aHMkSyIoX9ACpLYT07piCxkj+9SBSgmx/LhhUyCnMkr6vdXQwmgyho0xrjHkTKoZmJwGMieiG/e0J9jkhgmoc5/8LyxIxF0VL0ApT4lfO8AAAA=)
+-   [DETTBP](https://dummydataexplorer.azure.com/clusters/private-orionadxp.eastus/databases/p-ticket-tktrcpts-applogs-adxdb?query=H4sIAAAAAAAAA12NPQvCMBCG9/6Ko1MKhYJ7HUQ3FdHu4ZocMdo24S4ogj/eIFXB9Xnejx71EJxofxUdOdiiaeAJ9zMxgU5+JEk4RlgCuqAWtiq+kskEtttgMAWGtoVyvem61aHMkSyIoX9ACpLYT07piCxkj+9SBSgmx/LhhUyCnMkr6vdXQwmgyho0xrjHkTKoZmJwGMieiG/e0J9jkhgmoc5/8LyxIxF0VL0ApT4lfO8AAAA=)
 -   SessionManager.designatePrinter: HttpClientErrorException$NotFound: 404
 -   applicationn.yaml: sessionManager: `http://sessionManager-ms/api/v1`
 ![[Pasted image 20221024161400.png]]
@@ -987,14 +987,14 @@ private int findNearestNeighbor( int currentIndex,
 
 We recently had a deadline to move all of our Repos, Pipelines, Builds over from ADOS to ADOC, and the way we had our Kubernetes resources configured, we have this KubeTemplates repo with tokens that can be replaced by pipeline variables. So every single release pipeline had like 80 variables. A bunch of them are in variable groups, but it's a mess to carry those over.
 
-Brandon Benham has created a [Task Group](https://azuredevops.aa.com/USAIT/eTDS/_taskgroup/36b73192-633f-4bb6-b7f2-0b3da716a886) in ADO  to include in your [Release Pipeline](https://azuredevops.aa.com/USAIT/eTDS/_releaseDefinition?definitionId=295&_a=definition-tasks&environmentId=1950) that scans your repository for [Kubernetes yamls](https://azuredevops.aa.com/USAIT/eTDS/_git/appriss-processor?path=%2Fsrc%2Fmain%2Fresources%2Fdeployment.yml) and applies them if they're present. There is also a [Task Group](https://azuredevops.aa.com/USAIT/eTDS/_taskgroup/22e2f418-b745-48bc-8a66-21bea724d592) that pushed your Docker Images to packages.aa.com in your [Build Pipeline](https://azuredevops.aa.com/USAIT/eTDS/_apps/hub/ms.vss-ciworkflow.build-ci-hub?_a=edit-build-definition&id=13636). We are wanting to stick our toes in the water and see if we like this approach, and maybe show it as a vision for the future. These are the advantages we are excited to try out:
+Brandon Benham has created a [Task Group](https://dummyurl.com/AmericanAirlines/TicketingAndReceipts/_taskgroup/36b73192-633f-4bb6-b7f2-0b3da716a886) in ADO  to include in your [Release Pipeline](https://dummyurl.com/AmericanAirlines/TicketingAndReceipts/_releaseDefinition?definitionId=295&_a=definition-tasks&environmentId=1950) that scans your repository for [Kubernetes yamls](https://dummyurl.com/AmericanAirlines/TicketingAndReceipts/_git/appriss-processor?path=%2Fsrc%2Fmain%2Fresources%2Fdeployment.yml) and applies them if they're present. There is also a [Task Group](https://dummyurl.com/AmericanAirlines/TicketingAndReceipts/_taskgroup/22e2f418-b745-48bc-8a66-21bea724d592) that pushed your Docker Images to packages.aa.com in your [Build Pipeline](https://dummyurl.com/AmericanAirlines/TicketingAndReceipts/_apps/hub/ms.vss-ciworkflow.build-ci-hub?_a=edit-build-definition&id=13636). We are wanting to stick our toes in the water and see if we like this approach, and maybe show it as a vision for the future. These are the advantages we are excited to try out:
 
 1.  Your Runtime settings are versioned together with the code base.
 2.  The Runtime variables are not scattered out everywhere "point and click" in ADO.
 3.  In ADO today, every app gets an Ingress, a Service, and everything in the Templates whether the app needs it or not. Most of the apps don't need an Ingress. We're creating all these things that we don't need because we're using the templates. Here if you don't need it, you just don't add it.
 4.  Also all your files are here together, which allows you to run mini-kube locally, or K3s etc. Here you can test within your own ecosystem. 
 5.  The Deployment yamls aren't hidden from the developers, and you can see for yourself the final product of what you're applying in Kubernetes. It makes more sense when you see the values rather than variable placeholders making it complex.
-6.  [KubeTemplates](https://azuredevops.aa.com/USAIT/eTDS/_git/KubeDeploy?path=%2Fdeployment-templates-v3) are heavy-weight on the ADO side. We want to bring these configurations as close to our applications as possible.
+6.  [KubeTemplates](https://dummyurl.com/AmericanAirlines/TicketingAndReceipts/_git/KubeDeploy?path=%2Fdeployment-templates-v3) are heavy-weight on the ADO side. We want to bring these configurations as close to our applications as possible.
 
 ## RIPA Remark After ER Timeout
 

@@ -1,12 +1,12 @@
 # Default
 
 ## Toiletries
-- [ ] Toothpaste
-- [ ] Hair putty
-- [ ] Toothbrush
-- [ ] Body Wash / Shampoo
-- [ ] Deodorant
-- [ ] Ball powder
+- [x] Toothpaste
+- [x] Hair putty
+- [x] Toothbrush
+- [x] Body Wash / Shampoo
+- [x] Deodorant
+- [x] Ball powder
 
 ## Clothes
 - [ ] Swim Suit
@@ -27,28 +27,28 @@
 - [ ] Roysten Pillow
 
 ## Electronics
-- [ ] Skyroam
-- [ ] Powerbank
+- [x] Skyroam
+- [x] Powerbank
+- [x] Phone charger
 - [ ] Laptop
 - [ ] Laptop Charger
-- [ ] Phone charger
 - [ ] Bose Headphones
 
 ## Stuff
-- [ ] Stubble buddy
-- [ ] Sunglasses
-- [ ] Comb
+- [x] Stubble buddy
+- [x] Sunglasses
+- [x] Comb
+- [x] Pencil and pen
+- [x] Ear Plugs
+- [x] Wallet with ID
 - [ ] Cash
-- [ ] Wallet with ID
 - [ ] Listerine Ready Tablets
-- [ ] Ear Plugs
-- [ ] Pencil and pen
 - [ ] Snacks
 
 ## Soul-winning Gear
+- [x] Bible highlighters
+- [x] Colored Tabs
 - [ ] KJV/RVG Bible
-- [ ] Bible highlighters
-- [ ] Colored Tabs
 - [ ] YouTube Cards
 
 
