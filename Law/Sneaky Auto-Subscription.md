@@ -84,3 +84,11 @@ I will allow you to remediate the issue with 2 actions:
 2. You will have 90 days to remove the auto-subscription from your website.
 
 If I receive a refund but within 90 days the auto-subscription still remains, I will still file the petition against you with the proper court. This is not a joke to me, and it is not a joke to the hundreds of people you are ripping off. This isn't India, it's America, and I'm committed to keeping American businesses honest. And if that means taking a personal hit to shut down a dishonest business like yours, I am more than willing and able to spend the effort. But first I will offer this simple path of repentance. If you are an honest business you will have no problem listening to the 74 1-star reviews left to you by your customers on the [Better Business Bureau](https://www.bbb.org/us/ca/el-segundo/profile/dental-equipment/smileactives-1216-881921/customer-reviews). This is clearly a negative user experience. If you do not implement the features requested by your customers, I can only conclude that you are purposefully misleading them. (We'll find out what the judge concludes.) The choice is yours; choose wisely. Nobody gets away with anything in this world. You can trust me on that.
+
+If 74 out of 74 reviews state they were not aware of the hidden "opt-in" clause, that will be hard for a judge to establish as "clear communication" (the second element of a binding contract).
+
+## Review Moderated
+
+I tried to leave a review on your site, but my review was taken out by an internal process.
+
+![[Pasted image 20221207211139.jpg]]
