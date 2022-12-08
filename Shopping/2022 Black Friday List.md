@@ -130,6 +130,14 @@ Ethan Miller
 
 [Humanscale Freedom Chair Added Headrest](https://backcomfortstore.com/humanscale-freedom-chair-added-headrest-fully-adjustable-model-black-fabric)
 
+## Bill of Purchase
+
+I'm really excited to see my new chair! We have these at my office and they are fantastic. I searched high and low to find one, and Medison Seating offered the cheapest price for open box condition. I'm a little bit nervous how the condition will be, but based on reviews on Reddit I'm optimistic. It would have been nice to have actual photos of the product instead of a product image from Humanscale. That would make me more confident in buying the chair, considering there is a 30% restocking fee for returning it.
+
+![[Pasted image 20221208174423.png]]
+
+
+
 # 65+" TV
 
 | Brand       | Series                      | Size | Resolution | Price    | List Price | Panel | Refresh Rate |
