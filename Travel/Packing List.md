@@ -8,6 +8,12 @@
 - [x] Deodorant
 - [x] Ball powder
 
+## Medicine
+- [x] Breo
+- [ ] Montelukast
+- [ ] ZPack
+- [ ] Medrol
+
 ## Clothes
 - [ ] Swim Suit
 - [ ] 1 Pair of Pants
@@ -24,11 +30,11 @@
 ## Day of
 - [ ] Water bottle
 - [ ] Shaver / trimmer
-- [ ] Roysten Pillow
+- [ ] Royston Pillow
 
 ## Electronics
 - [x] Skyroam
-- [x] Powerbank
+- [x] Power bank
 - [x] Phone charger
 - [ ] Laptop
 - [ ] Laptop Charger
@@ -51,6 +57,9 @@
 - [ ] KJV/RVG Bible
 - [ ] YouTube Cards
 
+## Winter
+- [ ] Buff
+- [ ] Gloves
 
 
 # 2020 Jan 24 Rosendall Weekend
@@ -72,7 +81,7 @@
 [[Packing List#Default|Extend Default List]]
 
 - [ ] 2 Quarts of Huel
-- [ ] Reef Safe Sunscrean
+- [ ] Reef Safe Sunscreen
 - [ ] Light jacket
 - [ ] Jeans
 - [ ] 1 Nice shirt
