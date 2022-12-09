@@ -4,5 +4,6 @@
   "promptDelete": false,
   "spellcheck": true,
   "strictLineBreaks": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Attachments"
 }

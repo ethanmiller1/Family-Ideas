@@ -66,6 +66,8 @@ SKU: `6505885`
 * [Liberty Office Task Chair by Humanscale](https://www.madisonseating.com/liberty-office-task-chair-by-humanscale.html)
 * [Liberty Office Task Chair by Humanscale](https://www.madisonseating.com/liberty-office-task-chair-by-humanscale-clone.html)
 * [Generation Chair by Knoll](https://www.madisonseating.com/generation-chair-by-knoll.html)
+* [Aeron Chair by Herman Miller](https://www.madisonseating.com/aeron-chair-by-herman-miller-basic-carbon.html)
+* [Diffrient Smart Chair by Humanscale](https://www.madisonseating.com/diffrient-smart-chair-by-humanscale.html)
 
 ## Humanscale Liberty Chair Platinum Frame
 
