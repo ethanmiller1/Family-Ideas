@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Health/Green Juice.md",
+                    "file": "Shopping/Car Floor Mats.md",
                     "mode": "source",
                     "source": false
                   }
@@ -53,15 +53,15 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Shopping/2022 Black Friday List.md",
-                    "mode": "source",
+                    "file": "Travel/Packing List.md",
+                    "mode": "preview",
                     "source": false
                   }
                 },
                 "group": "bb44317422db184e"
               }
             ],
-            "currentTab": 3
+            "currentTab": 1
           },
           {
             "id": "1bf5d014f3e2f5a5",
@@ -154,7 +154,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Shopping/2022 Black Friday List.md",
+            "file": "Shopping/Car Floor Mats.md",
             "collapseAll": false,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Shopping/2022 Black Friday List.md"
+            "file": "Shopping/Car Floor Mats.md"
           }
         }
       },
@@ -208,15 +208,15 @@
   },
   "active": "4eb8f143bd0a9aaa",
   "lastOpenFiles": [
-    "Shopping/Chair.md",
+    "Health/Sore Throat Treatment.md",
     "Law/Sneaky Auto-Subscription.md",
-    "Shopping/2022 Black Friday List.md",
+    "Shopping/Wish List.md",
+    "Health/Chronic Cough.md",
     "Travel/Packing List.md",
     "Travel/2022 Dec 9 Vacation.md",
-    "Travel/✅ St. Maarten.md",
-    "Health/Chronic Cough.md",
-    "Pasted image 20221208104659.jpg",
-    "Relationship/Photography.md",
-    "Relationship/Letters.md"
+    "Shopping/2022 Black Friday List.md",
+    "Goals/Ethan's Commitments.md",
+    "Health/Green Juice.md",
+    "Shopping/Chair.md"
   ]
 }
