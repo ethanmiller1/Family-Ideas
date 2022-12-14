@@ -6,12 +6,11 @@ Metro card is $33 for 7 days and works for 2 people.
 
 ![[B21E1B27-8891-44F0-B7FB-46884376EF4F.jpeg]]
 
-* [Club Quarters Hotel](https://maps.app.goo.gl/gUJpq5Rx7jg42u7L8?g_st=ic) - 4.3 4-star, $141
-* [EVEN Hotel New York](https://maps.app.goo.gl/AbYkizdC2eCQD7X5A?g_st=ic)- 4.3, $120
+* [Club Quarters Hotel](https://maps.app.goo.gl/gUJpq5Rx7jg42u7L8?g_st=ic) - 4.3 4-star, $270
+* [EVEN Hotel New York](https://maps.app.goo.gl/AbYkizdC2eCQD7X5A?g_st=ic)- 4.3 4-star, $216
+* [Paramount Hotel Times Square](https://maps.app.goo.gl/habUMMN6X1NuJ7AH7?g_st=ic) - 3.5 4-star, $225
 
-EVEN Hotel New York - Midtown East, an IHG Hotel
-(212) 239-0002
-
+![[D7BA0C8F-71A0-4745-A0DE-F34DAB91E0F1.png]]
 
 # What to Do
 
@@ -23,6 +22,14 @@ EVEN Hotel New York - Midtown East, an IHG Hotel
 # Where to Eat
 
 * [99 Cent Fresh Pizza](https://maps.app.goo.gl/kwKm5JXNnig8hzDu8?g_st=ic)
+
+# Itinerary
+
+## Dec 14
+
+### Airport to Hotel
+
+![[391B486A-F1A5-46F8-9F49-7E090D159B60.jpeg]]
 
 
 # Boarding Passes
