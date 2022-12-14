@@ -29,8 +29,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Shopping/Car Floor Mats.md",
-                    "mode": "source",
+                    "file": "Travel/Packing List.md",
+                    "mode": "preview",
                     "source": false
                   }
                 }
@@ -41,7 +41,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Goals/Ethan's Commitment Notes.md",
+                    "file": "Travel/2022 Dec 9 Vacation.md",
                     "mode": "source",
                     "source": false
                   }
@@ -61,7 +61,7 @@
                 "group": "bb44317422db184e"
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "1bf5d014f3e2f5a5",
@@ -154,7 +154,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Shopping/Car Floor Mats.md",
+            "file": "Travel/2022 Dec 9 Vacation.md",
             "collapseAll": false,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Shopping/Car Floor Mats.md"
+            "file": "Travel/2022 Dec 9 Vacation.md"
           }
         }
       },
@@ -206,17 +206,17 @@
     ],
     "currentTab": 2
   },
-  "active": "4eb8f143bd0a9aaa",
+  "active": "115a36c022072fb9",
   "lastOpenFiles": [
+    "Goals/Ethan's Commitment Notes.md",
+    "Travel/Packing List.md",
+    "Shopping/Cable Standards.md",
+    "Travel/2022 Dec 9 Vacation.md",
+    "Shopping/2022 Black Friday List.md",
+    "Shopping/Car Floor Mats.md",
     "Health/Sore Throat Treatment.md",
     "Law/Sneaky Auto-Subscription.md",
     "Shopping/Wish List.md",
-    "Health/Chronic Cough.md",
-    "Travel/Packing List.md",
-    "Travel/2022 Dec 9 Vacation.md",
-    "Shopping/2022 Black Friday List.md",
-    "Goals/Ethan's Commitments.md",
-    "Health/Green Juice.md",
-    "Shopping/Chair.md"
+    "Health/Chronic Cough.md"
   ]
 }

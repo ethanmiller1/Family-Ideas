@@ -10,35 +10,35 @@
 
 ## Medicine
 - [x] Breo
-- [ ] Montelukast
-- [ ] ZPack
-- [ ] Medrol
+- [x] Montelukast
+- [x] ZPack
+- [x] Medrol
 
 ## Clothes
-- [ ] Swim Suit
-- [ ] 1 Pair of Pants
-- [ ] 2 Undershirts
-- [ ] {Days Traveled + 1} Shirts
-- [ ] {Days Traveled + 1} Underwear
-- [ ] {Days Traveled + 1} Socks
+- [x] Swim Suit
+- [x] 1 Pair of Pants
+- [x] 2 Undershirts
+- [x] {Days Traveled + 1} Shirts
+- [x] {Days Traveled + 1} Underwear
+- [x] {Days Traveled + 1} Socks
 
 ## Shoes
-- [ ] Casual shoes
-- [ ] Running shoes
-- [ ] Flip flops
+- [x] Casual shoes
+- [x] Running shoes
+- [x] Flip flops
 
 ## Day of
-- [ ] Water bottle
-- [ ] Shaver / trimmer
-- [ ] Royston Pillow
+- [x] Water bottle
+- [x] Shaver / trimmer
+- [x] Royston Pillow
 
 ## Electronics
 - [x] Skyroam
 - [x] Power bank
 - [x] Phone charger
-- [ ] Laptop
-- [ ] Laptop Charger
-- [ ] Bose Headphones
+- [x] Laptop
+- [x] Laptop Charger
+- [x] Bose Headphones
 
 ## Stuff
 - [x] Stubble buddy
@@ -47,19 +47,19 @@
 - [x] Pencil and pen
 - [x] Ear Plugs
 - [x] Wallet with ID
-- [ ] Cash
-- [ ] Listerine Ready Tablets
-- [ ] Snacks
+- [x] Cash
+- [x] Listerine Ready Tablets
+- [x] Snacks
 
 ## Soul-winning Gear
 - [x] Bible highlighters
 - [x] Colored Tabs
-- [ ] KJV/RVG Bible
-- [ ] YouTube Cards
+- [x] KJV/RVG Bible
+- [x] YouTube Cards
 
 ## Winter
-- [ ] Buff
-- [ ] Gloves
+- [x] Buff
+- [x] Gloves
 
 
 # 2020 Jan 24 Rosendall Weekend
