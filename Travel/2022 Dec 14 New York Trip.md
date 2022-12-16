@@ -1,6 +1,6 @@
 # Getting Around
 
-Metro card is $33 for 7 days and works for 2 people.
+Metro card is $33 for 7 days and works for 2 people. You can load your card into [OMNY](https://omny.info). 
 
 # Where to Stay
 
@@ -17,11 +17,14 @@ Metro card is $33 for 7 days and works for 2 people.
 * [Rockefeller Plaza](https://maps.app.goo.gl/eyVJiSH35T4RYrz69?g_st=ic) - Ice skating at big tree. 
 * [Top of The Roc](https://maps.app.goo.gl/enPS481qMrfHa9tf9?g_st=ic) - Tall building to view city.
 * [Vessel](https://maps.app.goo.gl/NVLJMZ61wSN5K9THA?g_st=ic) - Cool structure
+* [One World Trade Center](https://maps.app.goo.gl/aNTchotPmoPHcZvz5?g_st=ic) - Memorial
+* [The High Line](https://maps.app.goo.gl/UZbxJPdnupcJBrms7?g_st=ic) - walk in park
 * Mall.
 
 # Where to Eat
 
 * [99 Cent Fresh Pizza](https://maps.app.goo.gl/kwKm5JXNnig8hzDu8?g_st=ic)
+* [Keens Steakhouse](https://maps.app.goo.gl/hNDhpxeBiLrcR1rKA?g_st=ic) - Mutton Chop
 
 # Itinerary
 
@@ -31,6 +34,39 @@ Metro card is $33 for 7 days and works for 2 people.
 
 ![[391B486A-F1A5-46F8-9F49-7E090D159B60.jpeg]]
 
+## Dec 15
+
+### Hotel to Lunch
+
+![[0E840010-AEAF-4776-8FAB-28C8334E613A.jpeg]]
+
+### Lunch to Starbucks
+
+Because it was raining
+
+### Starbucks to Macy’s
+
+For the bathroom
+
+### Macy’s to Hotel
+
+### Hotel to Big Tree
+
+### Big Tree to Starbucks 
+
+To get out of the rain
+
+### Starbucks to H&M
+
+### H&M to Dinner
+
+### Dinner to Cheesecake
+
+### Cheesecake to Hotel
+
+### Starbucks to park walk
+
+![[DC5EE692-00E7-486F-B850-B7296BD0AB95.png]]
 
 # Boarding Passes
 
@@ -39,4 +75,6 @@ Immigration Receipt:
 
 Boarding pass:
 ![[D99D3A8F-9DB2-4540-8769-2131134684F9.jpeg]]
+
+![[025A9AB2-A389-492C-ABA1-BA0CDEA42E3D.jpeg]]
 

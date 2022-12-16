@@ -41,7 +41,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Travel/2022 Dec 14 New York Trip.md",
+                    "file": "Clothes.md",
                     "mode": "source",
                     "source": false
                   }
@@ -80,7 +80,7 @@
                       "src": "https://www.youtube.com/watch?v=cepvXg_ASN0",
                       "hash": ""
                     },
-                    "currentTime": 0
+                    "currentTime": null
                   }
                 },
                 "group": "bb44317422db184e"
@@ -154,7 +154,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Travel/2022 Dec 14 New York Trip.md",
+            "file": "Clothes.md",
             "collapseAll": false,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Travel/2022 Dec 14 New York Trip.md"
+            "file": "Clothes.md"
           }
         }
       },
@@ -208,15 +208,15 @@
   },
   "active": "115a36c022072fb9",
   "lastOpenFiles": [
-    "11DA024D-F3E2-4147-B34D-FB2741CE815F.jpeg.md",
+    "Shopping/2022 Black Friday List.md",
     "Travel/2022 Dec 14 New York Trip.md",
-    "Attachments/11DA024D-F3E2-4147-B34D-FB2741CE815F.jpeg",
+    "Goals/Ethan's Commitments.md",
     "Travel/2022 Dec 9 Vacation.md",
+    "11DA024D-F3E2-4147-B34D-FB2741CE815F.jpeg.md",
+    "Attachments/11DA024D-F3E2-4147-B34D-FB2741CE815F.jpeg",
     "Goals/Ethan's Commitment Notes.md",
     "Travel/Packing List.md",
     "Shopping/Cable Standards.md",
-    "Shopping/2022 Black Friday List.md",
-    "Shopping/Car Floor Mats.md",
-    "Health/Sore Throat Treatment.md"
+    "Shopping/Car Floor Mats.md"
   ]
 }
