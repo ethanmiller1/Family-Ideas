@@ -41,7 +41,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Clothes.md",
+                    "file": "Shopping/Clothes.md",
                     "mode": "source",
                     "source": false
                   }
@@ -80,7 +80,7 @@
                       "src": "https://www.youtube.com/watch?v=cepvXg_ASN0",
                       "hash": ""
                     },
-                    "currentTime": null
+                    "currentTime": 0
                   }
                 },
                 "group": "bb44317422db184e"
@@ -154,7 +154,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Clothes.md",
+            "file": "Shopping/Clothes.md",
             "collapseAll": false,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Clothes.md"
+            "file": "Shopping/Clothes.md"
           }
         }
       },
