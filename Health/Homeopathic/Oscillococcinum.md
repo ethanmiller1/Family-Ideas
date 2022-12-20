@@ -6,12 +6,12 @@ Title: Oscillococcinum® for upper respiratory tract infections and exacerbation
 Authors: [Hichem Aouina](https://pubmed.ncbi.nlm.nih.gov/?term=Aouina%20H%5BAuthor%5D), [Anis Bamri](https://pubmed.ncbi.nlm.nih.gov/?term=Bamri%20A%5BAuthor%5D), [Aurélien Vesin](https://pubmed.ncbi.nlm.nih.gov/?term=Vesin%20A%5BAuthor%5D), [Karine Danno](https://pubmed.ncbi.nlm.nih.gov/?term=Danno%20K%5BAuthor%5D), [Eléonore Aubry](https://pubmed.ncbi.nlm.nih.gov/?term=Aubry%20E%5BAuthor%5D), [Cécile Faure](https://pubmed.ncbi.nlm.nih.gov/?term=Faure%20C%5BAuthor%5D), [Naoual Boujedaini](https://pubmed.ncbi.nlm.nih.gov/?term=Boujedaini%20N%5BAuthor%5D)
 Year: 2021
 [See in National Library of Medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8328054/)
-Tags: `Laboratoires Boiron, Messimy, France`, `Delta Consultants (CRO), Eybens, France`
+Tags: `Laboratoires Boiron, Messimy, France`, `Delta Consultants (CRO), Eybens, France`, `Upper respiratory tract infections (URTIs)`, `chronic obstructive pulmonary disease (COPD)`
 #journal/primary-source
 
 ### Results
 
-There was no significant difference in any of the demographic characteristics, baseline COPD, or clinical data between the two treatment groups (OV and V). <mark class="hltr-yellow">The URTI incidence rate was significantly higher in group V than in group OV (2.9 _versus_ 1.2 episodes/1000 treatment days</mark>, difference OV–V = −1.7; _p_=0.0312). There was a significant delay in occurrence of an URTI episode in the OV group versus the V group (mean ± standard error: 48.7 ± 3.0 _versus_ 67.0 ± 2.8 days, respectively; _p_=0.0158). <mark class="hltr-red">Limitations to this study include its small population size and the self-recording by patients of the number and duration of URTIs and exacerbations</mark>.
+There was no significant difference in any of the demographic characteristics, baseline COPD, or clinical data between the two treatment groups (OV and V). <mark class="hltr-yellow">The URTI incidence rate was significantly higher in group V than in group OV (2.9 versus 1.2 episodes/1000 treatment days</mark>, difference OV–V = −1.7; _p_=0.0312). There was a significant delay in occurrence of an URTI episode in the OV group versus the V group (mean ± standard error: 48.7 ± 3.0 _versus_ 67.0 ± 2.8 days, respectively; _p_=0.0158). <mark class="hltr-red">Limitations to this study include its small population size and the self-recording by patients of the number and duration of URTIs and exacerbations</mark>.
 
 ### Conclusion
 
