@@ -55,7 +55,7 @@ No new trials were included in this 2014 update. We included six studies: two pr
 
 ## Oscillococcinum®: Misunderstanding or biased interest?
 
-Title: # Oscillococcinum®: Misunderstanding or biased interest?
+Title: Oscillococcinum®: Misunderstanding or biased interest?
 Authors: [Salvatore Chirumbolo](https://www.ejinme.com/article/S0953-6205(13)00985-0/fulltext# "Correspondence information about the author Salvatore Chirumbolo")
 Year: 2013
 [See in European Journal of Internal Medicine](https://www.ejinme.com/article/S0953-6205(13)00985-0/fulltext)

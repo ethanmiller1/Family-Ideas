@@ -44,3 +44,24 @@ On my phone (Galaxy S6 on Lollipop 5.1.1) I moved the offending image (a photo, 
 1. To have easy access to all my photos across all my devices.
 2. To have a reliable backup of all my photos in case of hard drive failures.
 3. Because of Google Photos incredible auto-tagging / face recognition software that makes searching through thousands of photos for the one you're looking for incredibly easy.
+
+## Is it worth my time?
+
+Google Photos [Pricing](https://one.google.com/about/plans) :
+
+| Storage | Price       | Cost Over 60 years |
+| ------- | ----------- | ------------------ |
+| 15 GB   | Free        | Free               |
+| 100 GB  | $20 / year  | $1,200             |
+| 200 GB  | $30 / year  | $1,800             |
+| 2 TB    | $100 / year | $6,000             |
+
+| Estimate Description                                                          | Hours    |
+| ----------------------------------------------------------------------------- | -------- |
+| Estimated number of hours for Research and Development                        | 16       |
+| Estimated number of hours for uploading Mom's Catalogue of 24,000 photos      | 30       |
+| Estimated number of hours for uploading iCloud photos each month for 60 years | 720      |
+| Initial hourly payoff                                                         | <mark class="hltr-yellow">$130/hr</mark> | 
+| Lifetime hourly payoff                                                        | $7.83/hr |
+
+I work 2,,080 hours each year making a little over $50/hr. I could use those 46 initial hours allocated to R&D and manual work for learning algorithms to increase my hourly pay from $50/hr to $150/hr. 46 hours would be insufficient but useful. That amount of time is worth $2,300 at my current salary.
