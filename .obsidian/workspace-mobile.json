@@ -41,7 +41,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Shopping/Wish List.md",
+                    "file": "Travel/Packing List.md",
                     "mode": "source",
                     "source": false
                   }
@@ -154,7 +154,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Shopping/Wish List.md",
+            "file": "Travel/Packing List.md",
             "collapseAll": false,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Shopping/Wish List.md"
+            "file": "Travel/Packing List.md"
           }
         }
       },
@@ -208,15 +208,15 @@
   },
   "active": "115a36c022072fb9",
   "lastOpenFiles": [
+    "Shopping/Unlimited Photo Storage.md",
+    "Shopping/2022 Black Friday List.md",
+    "Goals/Ethan's Commitments.md",
+    "Shopping/Wish List.md",
     "Shopping/Laptops.md",
     "Shopping/Clothes.md",
-    "Shopping/2022 Black Friday List.md",
     "Travel/2022 Dec 14 New York Trip.md",
-    "Goals/Ethan's Commitments.md",
     "Travel/2022 Dec 9 Vacation.md",
     "11DA024D-F3E2-4147-B34D-FB2741CE815F.jpeg.md",
-    "Attachments/11DA024D-F3E2-4147-B34D-FB2741CE815F.jpeg",
-    "Goals/Ethan's Commitment Notes.md",
-    "Travel/Packing List.md"
+    "Attachments/11DA024D-F3E2-4147-B34D-FB2741CE815F.jpeg"
   ]
 }

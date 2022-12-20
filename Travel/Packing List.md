@@ -9,36 +9,36 @@
 - [x] Ball powder
 
 ## Medicine
-- [x] Breo
-- [x] Montelukast
+- [ ] Breo
+- [ ] Montelukast
 - [x] ZPack
 - [x] Medrol
 
 ## Clothes
-- [x] Swim Suit
-- [x] 1 Pair of Pants
-- [x] 2 Undershirts
-- [x] {Days Traveled + 1} Shirts
-- [x] {Days Traveled + 1} Underwear
-- [x] {Days Traveled + 1} Socks
+- [ ] Swim Suit
+- [ ] 1 Pair of Pants
+- [ ] 2 Undershirts
+- [ ] {Days Traveled + 1} Shirts
+- [ ] {Days Traveled + 1} Underwear
+- [ ] {Days Traveled + 1} Socks
 
 ## Shoes
-- [x] Casual shoes
-- [x] Running shoes
-- [x] Flip flops
+- [ ] Casual shoes
+- [ ] Running shoes
+- [ ] Flip flops
 
 ## Day of
-- [x] Water bottle
-- [x] Shaver / trimmer
-- [x] Royston Pillow
+- [ ] Water bottle
+- [ ] Shaver / trimmer
+- [ ] Royston Pillow
 
 ## Electronics
 - [x] Skyroam
 - [x] Power bank
 - [x] Phone charger
-- [x] Laptop
-- [x] Laptop Charger
-- [x] Bose Headphones
+- [ ] Laptop
+- [ ] Laptop Charger
+- [ ] Bose Headphones
 
 ## Stuff
 - [x] Stubble buddy
@@ -76,6 +76,12 @@
 - [ ] Sugar
 - [ ] Wash cloth
 
+
+# 2023 Jan MEX
+
+- [ ] Mazda Mats
+- [ ] Facial cream
+- [ ] Excel Mug
 
 # 2020 July 24 Cleburne
 [[Packing List#Default|Extend Default List]]
