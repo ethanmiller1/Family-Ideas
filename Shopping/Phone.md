@@ -6,7 +6,7 @@
 
 `$62.41/mo * 24mo = $1,497.84`. The only catch is that every time I upgrade, it locks me into another 12 months which equals **$748.92**. I get apple care included, which is $12 a month, which is **$144** a year.
 
-I assume I will upgrade every 2 years a most, and ever 3 years at least.
+I assume I will upgrade every 2 years a most, and every 3 years at least.
 
 After 6 years:
 | Buying Period | Total cost after 6 years | Cost After selling for 70% value |

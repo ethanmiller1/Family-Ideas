@@ -38,3 +38,9 @@ Work around it by manually uploading that big video file through the web interfa
 ## Move file location
 
 On my phone (Galaxy S6 on Lollipop 5.1.1) I moved the offending image (a photo, no different than all the others that sync correctly) to another folder using Samsung’s My Files app. I then cleared the cached app data and moved the photo back into the Camera folder. It worked! Google Photos synced the file immediately.
+
+## Reasons for choosing Google Photos
+
+1. To have easy access to all my photos across all my devices.
+2. To have a reliable backup of all my photos in case of hard drive failures.
+3. Because of Google Photos incredible auto-tagging / face recognition software that makes searching through thousands of photos for the one you're looking for incredibly easy.
