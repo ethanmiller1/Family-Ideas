@@ -9,6 +9,8 @@
 
 You can either [buy the phone](https://www.ebay.com/sch/i.html?_dcat=9355&_fsrp=1&_from=R40&_ftrt=901&_salic=1&_ipg=60&_in_kw=1&_dmd=1&_sargn=-1%26saslc%3D1&_stpos=75098&_nkw=Google+Pixel&_sacat=0&Storage%2520Capacity=128%2520GB%7C64%2520GB&_ex_kw=case%2C+protective%2C+protector%2C+degoogled&_ftrv=1&_udhi=70&Model=Google%2520Pixel%7CGoogle%2520Pixel%2520XL&_sop=1&rt=nc&LH_PrefLoc=1) or use an emulator.
 
+* [Wamatek](https://wamatek.com/product/google-pixel-xl/?attribute_pa_carrier=unlocked&attribute_pa_color=gray&attribute_pa_condition=good&attribute_pa_storage=32gb&gclid=EAIaIQobChMI6cih9fiK_AIVXBOtBh2nDwVWEAQYAyABEgJlEfD_BwE) | [BBB](https://www.bbb.org/us/mn/eden-prairie/profile/electronics-and-technology/wamatek-0704-1000026030)  
+
 # Emulator
 
 1. Download [Android Studio](https://developer.android.com/studio).
