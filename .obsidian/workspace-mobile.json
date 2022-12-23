@@ -41,7 +41,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Travel/China, Beijing.md",
+                    "file": "Travel/Japan, Osaka.md",
                     "mode": "source",
                     "source": false
                   }
@@ -154,7 +154,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Travel/China, Beijing.md",
+            "file": "Travel/Japan, Osaka.md",
             "collapseAll": false,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Travel/China, Beijing.md"
+            "file": "Travel/Japan, Osaka.md"
           }
         }
       },
@@ -208,6 +208,8 @@
   },
   "active": "115a36c022072fb9",
   "lastOpenFiles": [
+    "Travel/Japan, Tokyo.md",
+    "Travel/China, Beijing.md",
     "Travel/England, Lymington.md",
     "![[5BEE0DC5-420A-4B76-9536-578D07AE0811.jpeg.md",
     "Shopping/Unlimited Photo Storage.md",
@@ -215,8 +217,6 @@
     "Shopping/Chair.md",
     "Shopping/Phone.md",
     "Goals/Ethan's Commitments.md",
-    "Travel/2022 Dec 14 New York Trip.md",
-    "Travel/2022 Dec 9 Vacation.md",
-    "Travel/St. Maarten.md"
+    "Travel/2022 Dec 14 New York Trip.md"
   ]
 }
