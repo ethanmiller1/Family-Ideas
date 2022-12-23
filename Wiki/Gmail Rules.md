@@ -25,5 +25,7 @@ These emails can be useful in case I need to know when I initially became a memb
 # Money
 
 ```
-from:(capitalone@message.capitalone.com) "score went up" OR "updated credit score" OR "here's what changed" OR "new credit score" OR "milestone" 
+from:(capitalone@message.capitalone.com) "score went up" OR "updated credit score" OR "here's what changed" OR "new credit score" OR "milestone"
 ```
+
+One picture is worth 160 emails. The average email is 75kb and the average picture is 12mb. (12 megabytes) / (75 kilobytes) = 160.
