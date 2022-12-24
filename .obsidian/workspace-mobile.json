@@ -41,8 +41,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Travel/Japan, Osaka.md",
-                    "mode": "source",
+                    "file": "Health/Protein.md",
+                    "mode": "preview",
                     "source": false
                   }
                 }
@@ -154,7 +154,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Travel/Japan, Osaka.md",
+            "file": "Health/Protein.md",
             "collapseAll": false,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Travel/Japan, Osaka.md"
+            "file": "Health/Protein.md"
           }
         }
       },
@@ -208,15 +208,15 @@
   },
   "active": "115a36c022072fb9",
   "lastOpenFiles": [
+    "Law/Sneaky Auto-Subscription.md",
     "Travel/Japan, Tokyo.md",
+    "Shopping/House Ideas/House Ideas.md",
+    "Travel/Japan, Osaka.md",
     "Travel/China, Beijing.md",
     "Travel/England, Lymington.md",
     "![[5BEE0DC5-420A-4B76-9536-578D07AE0811.jpeg.md",
     "Shopping/Unlimited Photo Storage.md",
     "Shopping/2022 Black Friday List.md",
-    "Shopping/Chair.md",
-    "Shopping/Phone.md",
-    "Goals/Ethan's Commitments.md",
-    "Travel/2022 Dec 14 New York Trip.md"
+    "Shopping/Chair.md"
   ]
 }
