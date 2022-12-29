@@ -77,10 +77,34 @@ Giving the Eurotop a run for first place in this collection, the Pillowtop has a
 
 ![](https://static.tp-link.com/upload/image-line/22_EP25P4_01_1000x1000_normal_20220616184625u.png)
 
-[How to set up my TP-Link Smart Plug Switch via Kasa](https://www.tp-link.com/us/support/faq/946/)
+* [How to set up my TP-Link Smart Plug Switch via Kasa](https://www.tp-link.com/us/support/faq/946/)
+* [Use Siri to Control Smart Devices](https://www.tp-link.com/us/support/faq/2528/) (IFTTT only allows 2 free applets)
+
+The best say to control Kasa devices with Siri is by creating Shortcuts.
 
 # Smart Switch
 
 [Smart Wi-Fi Light Switch](https://www.kasasmart.com/us/products/smart-switches/kasa-smart-wifi-light-switch-motion-activated-ks200m)
 
 # Smart Light
+
+# Smart Remote Switch
+
+[Pico Smart Remotes by Lutron](https://www.casetawireless.com/us/en/products/pico-remotes)
+
+Community:
+* [Need a Kasa remote control switch!](https://community.tp-link.com/en/home/forum/topic/209538)
+
+> I have a wall switch configured to remotely control a table lamp that is plugged into a Kasa smart plug.
+
+# Door Shoe Hanger
+
+* MISSLO Over The Door Organizer - [$13](https://www.amazon.com/MISSLO-Organizer-Large-Storage-Pockets/dp/B01D9VYQTC/ref=asc_df_B01D9VYQTC/)
+* Mainstays 12-Tier Over The Door Shoe Rack - [$25](https://www.walmart.com/ip/Mainstays-12-Tier-Over-The-Door-Shoe-Rack-Metal-Gray/850099411)
+* SimpleHouseware Crystal Clear Over The Door Hanging Shoe Organizer - [$9](https://www.amazon.com/24-Pockets-SimpleHouseware-Crystal-Organizer/dp/B01D58DRVC/ref=sr_1_1_sspa)
+
+## Mesh Racks
+
+* <mark class="hltr-yellow">Gorilla Grip Shoe Holder Rack</mark> - [$13](https://www.amazon.com/Gorilla-Grip-Organizer-Breathable-Accessories/dp/B088KV58F5/ref=sr_1_2_sspa)
+* AOODA 28 Large Mesh Pockets Over The Door Shoe Rack - [$16](https://www.amazon.com/AOODA-Pockets-Hanging-Organizer-Closet/dp/B08T67MSBJ/ref=sr_1_3_sspa)
+* Lifewit Over The Door Hanging Shoe Organizer - [$15](https://www.amazon.com/dp/B09GLLK579)
