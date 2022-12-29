@@ -51,10 +51,36 @@ Home Design Gadgets
 
 [BISSELL SpotClean Pro](https://www.bissell.com/bissell-spotclean-pro-portable-carpet-cleaner-3194.html) - [$165](https://a.co/d/dUTV1ak)
 
+![](https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51vXTyKr+BL._AC_SL1001_.jpg)
+
 [Instructions](https://media.flixcar.com/f360cdn/Bissell-2126712403-user-guide_1558.pdf#page=5)
 
 # Mattress
 
+```
 The Premiere 
-A perfect blend of comfort and support t
+A perfect blend of comfort and support
 The Heirloom Collection by Golden Mattress
+WT69269
+```
+
+* [$500 - $670](https://www.mattresscentraltexas.com/_CGI/SEARCH3.HTML?MAN_SORT=GLDN&MAJOR=MATR&MATTRESS_SIZE_SORT=QUEEN)
+* [$255](https://dallasfurnitureonline.com/full1.html)
+
+## Premier Pillowtop
+  
+Giving the Eurotop a run for first place in this collection, the Pillowtop has a medium-soft feel to it. Pillowtops in general run softer than Eurotops so that makes this mattress a much needed addition to the Premier collection. ([Golden Mattress](https://www.goldenmattressdallas.com/premier.html))
+
+# Smart Plug
+
+‎TP-Link Kasa Smart Wi-Fi Plug Slip - [$30 (4-Pack)](https://www.amazon.com/TP-Link-Kasa-Smart-Wifi-Plug/dp/B07RCNB2L3/ref=sr_1_6)
+
+![](https://static.tp-link.com/upload/image-line/22_EP25P4_01_1000x1000_normal_20220616184625u.png)
+
+[How to set up my TP-Link Smart Plug Switch via Kasa](https://www.tp-link.com/us/support/faq/946/)
+
+# Smart Switch
+
+[Smart Wi-Fi Light Switch](https://www.kasasmart.com/us/products/smart-switches/kasa-smart-wifi-light-switch-motion-activated-ks200m)
+
+# Smart Light

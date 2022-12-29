@@ -13,6 +13,8 @@ You can either [buy the phone](https://www.ebay.com/sch/i.html?_dcat=9355&_fsrp=
 
 # Emulator
 
+> Note: Google is smart enough to know that your device is an emulator. It will show you the unlimited storage notification, but any photos uploaded through an emulator will count towards your storage.
+
 1. Download [Android Studio](https://developer.android.com/studio).
 2. Open AVD Manager
 3. Choose one of the supported Pixel Phones
