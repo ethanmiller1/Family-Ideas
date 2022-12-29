@@ -41,8 +41,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Shopping/House Ideas/House Ideas.md",
-                    "mode": "preview",
+                    "file": "Money/Credit Score.md",
+                    "mode": "source",
                     "source": false
                   }
                 }
@@ -154,7 +154,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Shopping/House Ideas/House Ideas.md",
+            "file": "Money/Credit Score.md",
             "collapseAll": false,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Shopping/House Ideas/House Ideas.md"
+            "file": "Money/Credit Score.md"
           }
         }
       },
@@ -208,8 +208,8 @@
   },
   "active": "115a36c022072fb9",
   "lastOpenFiles": [
-    "tpc/a.co/d/2ttrYO7.md",
     "Shopping/House Ideas/House Ideas.md",
+    "tpc/a.co/d/2ttrYO7.md",
     "Attachments/Pasted image 20221123131608.png",
     "Shopping/2022 Black Friday List.md",
     "Shopping/Cable Standards.md",
