@@ -69,3 +69,28 @@ Google Photos [Pricing](https://one.google.com/about/plans) :
 | Lifetime hourly payoff                                                        | $7.83/hr |
 
 I work 2,,080 hours each year making a little over $50/hr. I could use those 46 initial hours allocated to R&D and manual work for learning algorithms to increase my hourly pay from $50/hr to $150/hr. 46 hours would be insufficient but useful. That amount of time is worth $2,300 at my current salary.
+
+# Google Photos Query Language
+
+Google Photos allows you to search for up to 5 photos my using the pipe | symbol as an "OR" condition. Use the following command line to display a list of files delimited by pipes:
+
+```bash
+$ files=`ls -p | grep -v / | tr '\n' '|'` && echo $files | sed 's/|/\n/5;P;D'
+```
+
+You can search for:
+* Recently Added
+* Device Files
+* Utilities
+* People
+* Location
+* Things
+* Date
+* File name
+* File Properties
+* Description
+* Documents
+
+Combine two of the values mentioned above to create a more specific search term (e.g. "2019 tree").
+
+[Google photos search hacks: The less known tips on searching and locating your photos](https://www.nousis.com/technology/google-photos-search-hacks/)
