@@ -14,6 +14,7 @@ Ethan's Snacks in order of priority:
 10.  [Quaker Chewy Granola Bars](https://www.costco.com/quaker-chewy-granola-bars%2c-variety-pack%2c-0.84-oz%2c-60-count.product.100371267.html) OR [Kirkland Signature Nut Bars](https://www.costco.com/kirkland-signature-nut-bars%2c-1.41-oz%2c-30-count.product.100524886.html)
 11.  [Famous Amos Cookies](https://www.costco.com/famous-amos-cookies%2c-chocolate-chip%2c-2-oz%2c-42-count.product.100113284.html)
 12.  [Kar's Trail Mix](https://www.costco.com/kar's-trail-mix%2c-sweet-'n-salty%2c-2-oz%2c-24-count.product.100409506.html)
+13. [Nutri Grain Soft Baked Breakfast Bars](https://www.costco.com/nutri-grain-bars%2c-1.3-oz%2c-64-count.product.100739743.html)
 
 
 ![](https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&itemId=501690-inc&recipeName=680)
@@ -49,6 +50,8 @@ Ethan's Snacks in order of priority:
 ![](https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&itemId=171859-847&recipeName=680)
 
 ![](https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&itemId=411389-847&recipeName=680)
+
+![](https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&itemId=1531949-847&recipeName=680)
 
 # Home Snacks
 
