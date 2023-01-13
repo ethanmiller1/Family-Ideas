@@ -41,7 +41,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Money/Credit Score.md",
+                    "file": "Travel/London.md",
                     "mode": "source",
                     "source": false
                   }
@@ -154,7 +154,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Money/Credit Score.md",
+            "file": "Travel/London.md",
             "collapseAll": false,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Money/Credit Score.md"
+            "file": "Travel/London.md"
           }
         }
       },
@@ -208,15 +208,15 @@
   },
   "active": "115a36c022072fb9",
   "lastOpenFiles": [
-    "Shopping/House Ideas/House Ideas.md",
-    "tpc/a.co/d/2ttrYO7.md",
-    "Attachments/Pasted image 20221123131608.png",
-    "Shopping/2022 Black Friday List.md",
-    "Shopping/Cable Standards.md",
-    "Shopping/Laptops.md",
-    "Health/Protein.md",
-    "Law/Sneaky Auto-Subscription.md",
     "Travel/Japan, Tokyo.md",
-    "Travel/Japan, Osaka.md"
+    "Travel/London.md",
+    "Travel/Japan, Osaka.md",
+    "Travel/2022 Dec 9 Vacation.md",
+    "Shopping/Docking Stations.md",
+    "Goals/Ethan's Commitments.md",
+    "Shopping/Guns.md",
+    "Shopping/Wish List.md",
+    "Law/Sneaky Auto-Subscription.md",
+    "Shopping/Unlimited Photo Storage.md"
   ]
 }
