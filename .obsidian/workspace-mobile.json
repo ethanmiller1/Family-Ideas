@@ -41,7 +41,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Travel/London.md",
+                    "file": "Travel/Packing List.md",
                     "mode": "source",
                     "source": false
                   }
@@ -154,7 +154,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Travel/London.md",
+            "file": "Travel/Packing List.md",
             "collapseAll": false,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Travel/London.md"
+            "file": "Travel/Packing List.md"
           }
         }
       },
@@ -208,15 +208,15 @@
   },
   "active": "115a36c022072fb9",
   "lastOpenFiles": [
-    "Travel/Japan, Tokyo.md",
     "Travel/London.md",
+    "Travel/Packing List.md",
+    "Travel/Japan, Tokyo.md",
     "Travel/Japan, Osaka.md",
     "Travel/2022 Dec 9 Vacation.md",
     "Shopping/Docking Stations.md",
     "Goals/Ethan's Commitments.md",
     "Shopping/Guns.md",
     "Shopping/Wish List.md",
-    "Law/Sneaky Auto-Subscription.md",
-    "Shopping/Unlimited Photo Storage.md"
+    "Law/Sneaky Auto-Subscription.md"
   ]
 }

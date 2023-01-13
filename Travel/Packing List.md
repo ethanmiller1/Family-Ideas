@@ -7,6 +7,7 @@
 - [x] Body Wash / Shampoo
 - [x] Deodorant
 - [x] Ball powder
+- [x] Eye drops
 
 ## Medicine
 - [ ] Breo
@@ -29,13 +30,13 @@
 
 ## Day of
 - [ ] Water bottle
-- [ ] Shaver / trimmer
+- [x] Shaver / trimmer
 - [ ] Royston Pillow
 
 ## Electronics
 - [x] Skyroam
 - [x] Power bank
-- [x] Phone charger
+- [ ] Phone charger
 - [ ] Laptop
 - [ ] Laptop Charger
 - [ ] Bose Headphones
@@ -50,6 +51,7 @@
 - [x] Cash
 - [x] Listerine Ready Tablets
 - [x] Snacks
+- [ ] Neck Pillow (6+ hour flight)
 
 ## Soul-winning Gear
 - [x] Bible highlighters
@@ -58,8 +60,8 @@
 - [x] YouTube Cards
 
 ## Winter
-- [x] Buff
-- [x] Gloves
+- [ ] Buff
+- [ ] Gloves
 
 
 # 2020 Jan 24 Rosendall Weekend
