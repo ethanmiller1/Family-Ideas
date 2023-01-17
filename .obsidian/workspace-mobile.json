@@ -41,8 +41,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Travel/Packing List.md",
-                    "mode": "source",
+                    "file": "Travel/London.md",
+                    "mode": "preview",
                     "source": false
                   }
                 }
@@ -154,7 +154,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Travel/Packing List.md",
+            "file": "Travel/London.md",
             "collapseAll": false,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Travel/Packing List.md"
+            "file": "Travel/London.md"
           }
         }
       },
@@ -208,8 +208,8 @@
   },
   "active": "115a36c022072fb9",
   "lastOpenFiles": [
-    "Travel/London.md",
     "Travel/Packing List.md",
+    "Travel/London.md",
     "Travel/Japan, Tokyo.md",
     "Travel/Japan, Osaka.md",
     "Travel/2022 Dec 9 Vacation.md",
