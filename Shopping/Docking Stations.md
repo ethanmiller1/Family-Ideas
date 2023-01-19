@@ -35,3 +35,6 @@ Serial #: 2TK948X4SS
 ## HP Support Question
 
 I have an  HP EliteBook x360 1040 G6 and an HP USB-C Dock G5, and according to the specs it can support up to 3x 4k @ 60 Hz if the host has DisplayPort 1.4. Both USB-C ports have Thunderbolt support which allows for DisplayPort 1.4. But when I plug in my [[2022 Black Friday List#Super Ultrawide Monitor|Samsung 49" Odyssey G9]], I only get 2560x1440 @60 Hz (6.64 Gbps). I'm supposed to get 5120 x 1440 @ 60 Hz via HDMI or @ 240 Hz via DisplayPort. According to [[Cable Standards]] 1 x 5K (5120 x 1440) display @60 Hz requires 13.27 Gbps of bandwidth, which is significantly less than 3 x 4K (3840 x 2160) displays @60 Hz, which requires 37.5 Gbps.
+
+Case #[5098177523](https://support.hp.com/us-en/dashboard/cases) CRM:0076494002847
+Can I get an update on my case? My docking station isn't utilizing full 5120 x 1440 resolution on my Samsung Odyssey G9.
