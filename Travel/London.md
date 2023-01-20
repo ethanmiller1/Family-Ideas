@@ -19,6 +19,10 @@
 * Harry Potter Museum (24 min North of LHR)
 * [Bus tour](https://www.gttickets.com/en/london/hop-on-hop-off-london-bus-tour?r=tudorcourthotel.gttickets.com) (bring headphones) | [Download map](https://d1wgio6yfhqlw1.cloudfront.net/UserFiles/file/london-hop-on-hop-off-map.pdf)
 
+![[BD449333-85F3-4A11-BC14-A0527881B73F.jpeg]]
+
+![[CC9C31C2-C9BA-4260-978A-A586CF38B179.jpeg]]
+
 # Where to Eat
 
 * [Mimos Cafe Bar](https://maps.google.com?q=Mimos%20Cafe%20Bar,%2019%20London%20St,%20Tyburnia,%20London%20W2%201HL,%20United%20Kingdom&ftid=0x48761ab2d24064a1:0xa7698e913f47b5fa&hl=en-US&gl=us&entry=gps&lucs=karto&g_st=ic)
