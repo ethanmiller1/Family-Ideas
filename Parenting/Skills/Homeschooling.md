@@ -1,3 +1,5 @@
+The primary purpose of learning is to increase the value of your labor hour (see "Absolute Value of Labor Hours" paper). As such I will focus on a more practical curriculum wherein my children will gain skills and practical knowledge as opposed to irrelevant facts that have no application for their futures. #parentingmotivation 
+
 # Public School
 
 If we homeschool the kids, our challenge will be taking care of their social lives. If we public school our kids, the challenge will be taking care of their spiritual lives. It's easier to teach someone than to un-teach them.
