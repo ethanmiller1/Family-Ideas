@@ -1,7 +1,7 @@
 Ethan Miller
 Theo & Jeanne Miller
 23 February 2014
-Tags: #responsepapers 
+Tags: #responsepapers #antisocial
 
 Let no man compose his character on the standard of a good attitude. If a good attitude is the standard by which we are characterized, our response to that which is bad would be immorally inappropriate. Rather, your standard of attitude must be derived from that which is good or that which is bad. These are absolutes, and no man can decide them. You could, however, argue that a cheerful outlook on a bad situation is not a good attitude. If this is the case, then a good attitude in response to that which is bad is partly composed of identifying the bad. And responding to the bad is composed of taking steps to eliminate it.
 

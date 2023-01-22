@@ -2,7 +2,7 @@ Ethan Miller
 Andrew Lewis
 Attending Youth Group
 23 March 2014
-Tags: #responsepapers 
+Tags: #responsepapers #antisocial
 
 
 In 2011, my best friend, Adam Van Voltenburg, he had been living with his parents and had just recently moved back to Garland with his grandparents. So he started going to Northlake, and he was homeschooled for a few weeks because of the transition in his move, so we were able to hang out on weekdays as well as weekends, and we were pretty tight.
