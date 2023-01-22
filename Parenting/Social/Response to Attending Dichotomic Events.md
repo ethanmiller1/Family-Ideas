@@ -1,0 +1,12 @@
+Ethan Miller
+Theo & Jeanne Miller
+23 February 2014
+Tags: #responsepapers #antisocial
+
+Let no man compose his character on the standard of a good attitude. If a good attitude is the standard by which we are characterized, our response to that which is bad would be immorally inappropriate. Rather, your standard of attitude must be derived from that which is good or that which is bad. These are absolutes, and no man can decide them. You could, however, argue that a cheerful outlook on a bad situation is not a good attitude. If this is the case, then a good attitude in response to that which is bad is partly composed of identifying the bad. And responding to the bad is composed of taking steps to eliminate it.
+
+Thus, I have identified that attending social events with nothing to say is bad. Let's explore premise 1: The word "social" is defined as _pertaining to, devoted to, or characterized by friendly companionship or relations_. Again, an additional definition is _of, pertaining to, connected with, or suited to polite or fashionable society_. Among many more definitions, most include a few key words such as connection, companionship, friendly,  and polite. Without the use of language, these attributes are dependent on personal interpretation.
+
+For example, if I were to smile at an old lady, she might interpret my facial expression as a sign that I'm friendly. And whether it was intended to indicate such character or not, it's still only a symbol. A smile in itself is not the components of a friendly or polite demeanor. Smiling can be used as a devise to mock someone, insinuate your superiority upon their defeat in an intellectual debate, or a great number of things in which it does not contribute to cordiality. Companionship, connection, friendliness, and politeness are all dependent on communication, which can only be articulated by using symbols that society has determined and agree on the meanings of. That is to say, communication is reliant on such linguistic symbols as words.
+
+Therefore, since sociability depends on connection, companionship, friendliness, and politeness, and these qualities depend on communication, and communication depends on language, premise 1 is proven to be true. _Attending social events with nothing to say is bad_, because it's socially unacceptable.
