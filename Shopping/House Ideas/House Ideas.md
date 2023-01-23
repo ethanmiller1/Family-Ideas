@@ -57,6 +57,8 @@ Home Design Gadgets
 
 # Mattress
 
+## Queen Golden Mattress
+
 ```
 The Premiere 
 A perfect blend of comfort and support
@@ -67,9 +69,26 @@ WT69269
 * [$500 - $670](https://www.mattresscentraltexas.com/_CGI/SEARCH3.HTML?MAN_SORT=GLDN&MAJOR=MATR&MATTRESS_SIZE_SORT=QUEEN)
 * [$255](https://dallasfurnitureonline.com/full1.html)
 
-## Premier Pillowtop
+### Premier Pillowtop
   
 Giving the Eurotop a run for first place in this collection, the Pillowtop has a medium-soft feel to it. Pillowtops in general run softer than Eurotops so that makes this mattress a much needed addition to the Premier collection. ([Golden Mattress](https://www.goldenmattressdallas.com/premier.html))
+
+## Twin XL Biopedic
+
+Luxurious Comfort
+Company name: Golden Pedic INC
+Street: 1240 Titan Dr.
+City, State: Dallas, TX 75247
+Date of Manufacture: Jun 2 3 2009
+Model: GM3NT
+
+```
+Mattress:
+Polyurethane Foam ... 70%
+Fiber Pad ........... 30%
+Spring
+```
+
 
 # Smart Plug
 
