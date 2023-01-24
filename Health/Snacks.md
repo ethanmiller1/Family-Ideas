@@ -15,6 +15,7 @@ Ethan's Snacks in order of priority:
 11.  [Famous Amos Cookies](https://www.costco.com/famous-amos-cookies%2c-chocolate-chip%2c-2-oz%2c-42-count.product.100113284.html)
 12.  [Kar's Trail Mix](https://www.costco.com/kar's-trail-mix%2c-sweet-'n-salty%2c-2-oz%2c-24-count.product.100409506.html)
 13. [Nutri Grain Soft Baked Breakfast Bars](https://www.costco.com/nutri-grain-bars%2c-1.3-oz%2c-64-count.product.100739743.html)
+14. [See's Chocolates](https://www.sees.com/valentines-day-gifts/for-your-sweetheart/hugs-and-kisses-heart/200530.html?cgid=for-your-sweetheart)
 
 
 ![](https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&itemId=501690-inc&recipeName=680)
