@@ -41,7 +41,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Travel/London.md",
+                    "file": "Parenting/Skills/Map Reading.md",
                     "mode": "source",
                     "source": false
                   }
@@ -154,7 +154,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Travel/London.md",
+            "file": "Parenting/Skills/Map Reading.md",
             "collapseAll": false,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Travel/London.md"
+            "file": "Parenting/Skills/Map Reading.md"
           }
         }
       },
@@ -208,15 +208,15 @@
   },
   "active": "115a36c022072fb9",
   "lastOpenFiles": [
-    "Travel/Packing List.md",
-    "Travel/London.md",
-    "Travel/Japan, Tokyo.md",
-    "Travel/Japan, Osaka.md",
-    "Travel/2022 Dec 9 Vacation.md",
-    "Shopping/Docking Stations.md",
+    "Parenting/Social/Common Social Questions.md",
     "Goals/Ethan's Commitments.md",
-    "Shopping/Guns.md",
-    "Shopping/Wish List.md",
-    "Law/Sneaky Auto-Subscription.md"
+    "Shopping/House Ideas/Downsizing.md",
+    "Health/Hair Loss.md",
+    "Health/Snacks.md",
+    "Shopping/2022 Black Friday List.md",
+    "Politics/Value of Labor Hours.md",
+    "Parenting/Social/Quality Of Time.md",
+    "Parenting/Social/Didactic Material.md",
+    "Politics/2016 Presidential Issues.md"
   ]
 }
