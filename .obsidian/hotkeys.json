@@ -87,5 +87,22 @@
       ],
       "key": "ArrowUp"
     }
+  ],
+  "obsidian-zotero-desktop-connector:zdc-MLA": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "M"
+    }
+  ],
+  "obsidian-zotero-desktop-connector:zdc-import-notes": [],
+  "obsidian-zotero-desktop-connector:zdc-exp-Default Import": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Z"
+    }
   ]
 }

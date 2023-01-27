@@ -4,7 +4,6 @@
 > 
   [Proverbs 10:19 - KJV](https://bible-api.com/Proverbs+10:19?translation=kjv)
 
-
 > [!Bible] 
 > Set a watch, O LORD, before my mouth; keep the door of my lips.
 > 
@@ -24,14 +23,12 @@
   [Proverbs 15:1 - KJV](https://bible-api.com/Proverbs+15:1?translation=kjv)
 
 > [!Bible] 
-> A fool uttereth all his mind: but a wise
->man keepeth it in till afterwards. 
+> A fool uttereth all his mind: but a wise man keepeth it in till afterwards. 
 > 
   [Proverbs 29:11 - KJV](https://bible-api.com/Proverbs+29:11?translation=kjv)
 
 > [!Bible] 
-> He that is slow to anger
->is better than the mighty; and he that ruleth his spirit than he that taketh a city. 
+> He that is slow to anger is better than the mighty; and he that ruleth his spirit than he that taketh a city. 
 > 
   [Proverbs 16:32 - KJV](https://bible-api.com/Proverbs+16:32?translation=kjv)
 
@@ -42,9 +39,7 @@
   [James 1:20 - KJV](https://bible-api.com/James+1:20?translation=kjv)
 
 > [!Bible] 
-> He that is slow to wrath
->is of great understanding: but
-he that is hasty of spirit exalteth folly. 
+> He that is slow to wrath is of great understanding: but he that is hasty of spirit exalteth folly. 
 > 
   [Proverbs 14:29 - KJV](https://bible-api.com/Proverbs+14:29?translation=kjv)
 
@@ -87,12 +82,7 @@ is mine; I will repay, saith the Lord.
   [Romans 12:19 - KJV](https://bible-api.com/Romans+12:19?translation=kjv)
 
 > [!Bible] 
-> He that
->hath no rule over his own spirit
-is like
- a city
-that is broken down,
-and without walls. 
+> He that hath no rule over his own spirit is like a city that is broken down, and without walls. 
 > 
   [Proverbs 25:28 - KJV](https://bible-api.com/Proverbs+25:28?translation=kjv)
 

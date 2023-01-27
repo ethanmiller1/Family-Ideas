@@ -25,6 +25,6 @@
   "enableInLivePreview": true,
   "centerEmbeds": false,
   "keepLinksInPreview": true,
-  "embedPlacement": "above",
+  "embedPlacement": "below",
   "disableAutomaticEmbeds": false
 }
