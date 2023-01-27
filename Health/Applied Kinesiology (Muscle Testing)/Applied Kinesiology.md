@@ -33,7 +33,6 @@ Every muscle has an acupuncture meridian connector (energy pathways).
 His can be thought of as the nutrition to the nervous system.
 
 -         Nutrition / Chemical Imbalances
-
 -         Psychological Stressors
 
 The stimulus has to get to the nervous system in order in order to cause a reflex. It doesn’t do anything to hold it in your hand or merely think about it (this is not scientific), but when you put a stimulus in the mouth on the tongue, it’s in the nervous system instantly. When you put tobacco sauce in your mouth it’s instantly in your nervous system. Your hair stands up a little bit on your arms, your pupils dilate, your lungs begin to expand, and that’s how quickly it’s in your nervous system which is why we can muscle test it. Ultimately it’s going to go to your Thelma, your cortex, your poll sensual gyrus to the insula for taste sensation, and in the other direction towards the hypothomes.
@@ -48,3 +47,11 @@ If you’re not going to the bathroom very well, part of the detox mechanism end
 
 1.       What stimuli is causing the inputs?
 2.       What are the inputs themselves? (i.e. cell communication)
+
+# Video Lectures
+
+[PNEI: The important role of the Psycho-Neuro-Endocrine-Immunology System](https://vimeo.com/85176685)
+
+[What is Psychoneuroimmunology?](https://study.com/academy/lesson/what-is-psychoneuroimmunology-definition-lesson.html)
+
+
