@@ -9,3 +9,4 @@
 9. Thieves Lozenges
 10. [Horehound Candy](https://www.amazon.com/Claeys-Fashioned-Candy-Horehound-Ounce/dp/B00461NHD6/ref=asc_df_B00461NHD6/)
 11. Selenium (200 mcg) + Zinc (1 capsule) + Vitamin D3 (5 drops) + Vitamin C (500 mg)
+12. Physics Throat Spray (3 sprays)
