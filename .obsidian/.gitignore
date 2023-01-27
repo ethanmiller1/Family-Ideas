@@ -1,3 +1,4 @@
 workspace
 workspace.json
 workspace-mobil.json
+plugins/obsidian-zotero-desktop-connector/pdfannots2json.exe
