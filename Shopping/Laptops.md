@@ -9,6 +9,51 @@ Laptops should have the following capabilities:
 
 # HP EliteBook x360 1040 G6
 
+| OS Name                                                                              | Microsoft Windows 10 Enterprise                                                                                             |
+|--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| Version                                                                              | 10.0.19042 Build 19042                                                                                                      |
+| Other OS Description                                                                 | Not Available                                                                                                               |
+| OS Manufacturer                                                                      | Microsoft Corporation                                                                                                       |
+| System Name                                                                          | QXL07317197                                                                                                                 |
+| System Manufacturer                                                                  | HP                                                                                                                          |
+| System Model                                                                         | HP EliteBook x360 1040 G6                                                                                                   |
+| System Type                                                                          | x64-based PC                                                                                                                |
+| System SKU                                                                           | 8TJ50UC#ABA                                                                                                                 |
+| Processor                                                                            | Intel(R) Core(TM) i7-8665U CPU @ 1.90GHz, 2112 Mhz, 4 Core(s), 8 Logical Processor(s)                                       |
+| BIOS Version/Date                                                                    | HP R90 Ver. 01.05.03, 4/27/2020                                                                                             |
+| SMBIOS Version                                                                       | 3.1                                                                                                                         |
+| Embedded Controller Version                                                          | 96.57                                                                                                                       |
+| BIOS Mode                                                                            | UEFI                                                                                                                        |
+| BaseBoard Manufacturer                                                               | HP                                                                                                                          |
+| BaseBoard Product                                                                    | 857F                                                                                                                        |
+| BaseBoard Version                                                                    | KBC Version 60.39.00                                                                                                        |
+| Platform Role                                                                        | Mobile                                                                                                                      |
+| Secure Boot State                                                                    | Off                                                                                                                         |
+| PCR7 Configuration                                                                   | Elevation Required to View                                                                                                  |
+| Windows Directory                                                                    | C:\WINDOWS                                                                                                                  |
+| System Directory                                                                     | C:\WINDOWS\system32                                                                                                         |
+| Boot Device                                                                          | \Device\HarddiskVolume1                                                                                                     |
+| Locale                                                                               | United States                                                                                                               |
+| Hardware Abstraction Layer                                                           | Version = "10.0.19041.2251"                                                                                                 |
+| User Name                                                                            | CORPAA\242924                                                                                                               |
+| Time Zone                                                                            | Central Standard Time                                                                                                       |
+| Installed Physical Memory (RAM)                                                      | 16.0 GB                                                                                                                     |
+| Total Physical Memory                                                                | 15.8 GB                                                                                                                     |
+| Available Physical Memory                                                            | 3.61 GB                                                                                                                     |
+| Total Virtual Memory                                                                 | 28.0 GB                                                                                                                     |
+| Available Virtual Memory                                                             | 8.28 GB                                                                                                                     |
+| Page File Space                                                                      | 12.2 GB                                                                                                                     |
+| Page File                                                                            | C:\pagefile.sys                                                                                                             |
+| Kernel DMA Protection                                                                | Off                                                                                                                         |
+| Virtualization-based security                                                        | Running                                                                                                                     |
+| Virtualization-based security Required Security Properties                           |                                                                                                                             |
+| Virtualization-based security Available Security Properties                          | Base Virtualization Support, DMA Protection, UEFI Code Readonly, SMM Security Mitigations 1.0, Mode Based Execution Control |
+| Virtualization-based security Services Configured                                    |                                                                                                                             |
+| Virtualization-based security Services Running                                       |                                                                                                                             |
+| Device Encryption Support                                                            | Elevation Required to View                                                                                                  |
+| A hypervisor has been detected. Features required for Hyper-V will not be displayed. ||
+
+
 ## Ports/slots
 
 | [Specification](https://support.hp.com/au-en/document/c06400841#AbT4)                                                           | Features              |
