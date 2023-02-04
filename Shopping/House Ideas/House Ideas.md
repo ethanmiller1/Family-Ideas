@@ -57,6 +57,8 @@ Home Design Gadgets
 
 # Mattress
 
+![](https://casper.com/dw/image/v2/BFHV_PRD/on/demandware.static/-/Library-Sites-casper-shared/default/dw3ac54510/Content%20Pages/mattress-size-guide-size-chart.png)
+
 ## Queen Golden Mattress
 
 ```
