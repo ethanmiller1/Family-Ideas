@@ -9,50 +9,15 @@ Laptops should have the following capabilities:
 
 # HP EliteBook x360 1040 G6
 
-| OS Name                                                                              | Microsoft Windows 10 Enterprise                                                                                             |
-|--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| Version                                                                              | 10.0.19042 Build 19042                                                                                                      |
-| Other OS Description                                                                 | Not Available                                                                                                               |
-| OS Manufacturer                                                                      | Microsoft Corporation                                                                                                       |
-| System Name                                                                          | QXL07317197                                                                                                                 |
-| System Manufacturer                                                                  | HP                                                                                                                          |
-| System Model                                                                         | HP EliteBook x360 1040 G6                                                                                                   |
-| System Type                                                                          | x64-based PC                                                                                                                |
-| System SKU                                                                           | 8TJ50UC#ABA                                                                                                                 |
-| Processor                                                                            | Intel(R) Core(TM) i7-8665U CPU @ 1.90GHz, 2112 Mhz, 4 Core(s), 8 Logical Processor(s)                                       |
-| BIOS Version/Date                                                                    | HP R90 Ver. 01.05.03, 4/27/2020                                                                                             |
-| SMBIOS Version                                                                       | 3.1                                                                                                                         |
-| Embedded Controller Version                                                          | 96.57                                                                                                                       |
-| BIOS Mode                                                                            | UEFI                                                                                                                        |
-| BaseBoard Manufacturer                                                               | HP                                                                                                                          |
-| BaseBoard Product                                                                    | 857F                                                                                                                        |
-| BaseBoard Version                                                                    | KBC Version 60.39.00                                                                                                        |
-| Platform Role                                                                        | Mobile                                                                                                                      |
-| Secure Boot State                                                                    | Off                                                                                                                         |
-| PCR7 Configuration                                                                   | Elevation Required to View                                                                                                  |
-| Windows Directory                                                                    | C:\WINDOWS                                                                                                                  |
-| System Directory                                                                     | C:\WINDOWS\system32                                                                                                         |
-| Boot Device                                                                          | \Device\HarddiskVolume1                                                                                                     |
-| Locale                                                                               | United States                                                                                                               |
-| Hardware Abstraction Layer                                                           | Version = "10.0.19041.2251"                                                                                                 |
-| User Name                                                                            | CORPAA\242924                                                                                                               |
-| Time Zone                                                                            | Central Standard Time                                                                                                       |
-| Installed Physical Memory (RAM)                                                      | 16.0 GB                                                                                                                     |
-| Total Physical Memory                                                                | 15.8 GB                                                                                                                     |
-| Available Physical Memory                                                            | 3.61 GB                                                                                                                     |
-| Total Virtual Memory                                                                 | 28.0 GB                                                                                                                     |
-| Available Virtual Memory                                                             | 8.28 GB                                                                                                                     |
-| Page File Space                                                                      | 12.2 GB                                                                                                                     |
-| Page File                                                                            | C:\pagefile.sys                                                                                                             |
-| Kernel DMA Protection                                                                | Off                                                                                                                         |
-| Virtualization-based security                                                        | Running                                                                                                                     |
-| Virtualization-based security Required Security Properties                           |                                                                                                                             |
-| Virtualization-based security Available Security Properties                          | Base Virtualization Support, DMA Protection, UEFI Code Readonly, SMM Security Mitigations 1.0, Mode Based Execution Control |
-| Virtualization-based security Services Configured                                    |                                                                                                                             |
-| Virtualization-based security Services Running                                       |                                                                                                                             |
-| Device Encryption Support                                                            | Elevation Required to View                                                                                                  |
-| A hypervisor has been detected. Features required for Hyper-V will not be displayed. ||
-
+| System Information              |                                                                                       |
+|---------------------------------|---------------------------------------------------------------------------------------|
+| System Manufacturer             | HP                                                                                    |
+| System Model                    | HP EliteBook x360 1040 G6                                                             |
+| System Type                     | x64-based PC                                                                          |
+| System SKU                      | 8TJ50UC#ABA                                                                           |
+| Processor                       | Intel(R) Core(TM) i7-8665U CPU @ 1.90GHz, 2112 Mhz, 4 Core(s), 8 Logical Processor(s) |
+| Installed Physical Memory (RAM) | 16.0 GB                                                                               |
+| Total Virtual Memory            | 28.0 GB                                                                               |
 
 ## Ports/slots
 
@@ -110,3 +75,95 @@ Alt Mode is <mark class="hltr-yellow">a functional extension of USB-C which ena
 
 * [What is USB-C DisplayPort (DP Alt Mode)?](https://www.benq.com/en-us/knowledge-center/knowledge/usb-c-introduction-what-is-dp-alt-mode.html)
 * [Tech Talk: Using USB-C and DisplayPort over Alt Mode](https://www.startech.com/en-us/blog/tech-talk-using-usb-c-and-displayport-over-alt)
+
+# HP Zbook Studio G8
+
+| System Information              |                                                                                                             |
+|---------------------------------|-------------------------------------------------------------------------------------------------------------|
+| System Manufacturer             | HP                                                                                                          |
+| System Model                    | HP ZBook Studio G8                                                                                          |
+| Processor                       | Intel® Core™ i7-11850H @ 2.5 GHz, 4.8 GHz with Intel® Turbo Boost, 24 MB L3 cache, 8 cores, 16 threads<br/> |
+| Installed Physical Memory (RAM) | 32 GB DDR4-3200 MHz RAM (onboard)                                                                           |
+| Internal Storage                | 1 TB PCIe® NVMe™ SSD                                                                                        |
+| Wireless                        | Intel® Wi-Fi 6 AX201 (2x2) and Bluetooth® 5 combo                                                           |
+| Keyboard                        | HP Premium Quiet Keyboard – spill-resistant, full-size, backlit keyboard with drain and DuraKeys            |
+
+| System Information             |                                                                                              |
+|--------------------------------|----------------------------------------------------------------------------------------------|
+| OS Manufacturer                | Microsoft Corporation                                                                        |
+| System Name                    | QXL07318332                                                                                  |
+| System                         | Manufacturer HP                                                                              |
+| System Model                   | HP ZBook Studio 15.6 inch G8 Mobile Workstation PC                                           |
+| System Type                    | x64-based PC                                                                                 |
+| System SKU                     | 56N17UC#ABA                                                                                  |
+| Processor                      | 11th Gen Intel(R) Core(TM) i7-11850H @ 2.50GHz, 2496 Mhz, 8 Core(s), 16 Logical Processor(s) |
+| BIOS Version/Date              | HP T92 Ver. 01.09.02, 5/5/2022                                                               |
+| SMBIOS Version                 | 3.3                                                                                          |
+| Embedded Controller Version    | 83.48                                                                                        |
+| BIOS Mode                      | UEFI                                                                                         |
+| BaseBoard Manufacturer         | HP                                                                                           |
+| BaseBoard Product              | 8873                                                                                         |
+| BaseBoard Version              | KBC Version 53.30.00                                                                         |
+| Platform Role                  | Mobile                                                                                       |
+| Secure Boot State              | On                                                                                           |
+| PCR7 Configuration             | Elevation Required to View                                                                   |
+| Hardware Abstraction Layer     | Version = "10.0.19041.2251"                                                                  |
+| Installed Physical Memory (RAM | 32.0 GB                                                                                      |
+| Total Physical Memory          | 31.7 GB                                                                                      |
+| Available Physical Memory      | 15.4 GB                                                                                      |
+| Total Virtual Memory           | 69.7 GB                                                                                      |
+| Available Virtual Memory       | 49.3 GB                                                                                      |
+| Page File Space                | 38.0 GB                                                                                      |
+| Page File                      | C:\pagefile.sys                                                                              |
+| Kernel DMA Protection          | Off                                                                                          |
+
+
+## Ports/slots
+
+
+| [Specification](https://www.hp.com/ie-en/products/workstations/product-details/product-specifications/2101149144)                         | Features                                                                         |
+|---------------------------------------|----------------------------------------------------------------------------------|
+| (1) power connector                   |                                                                                  |
+| (1) Mini DisplayPort™ 1.4             |                                                                                  |
+| (2) Thunderbolt™ 4 with USB4™ Type-C® | 40Gbps signaling rate (USB Power Delivery, DisplayPort™ 1.4, HP Sleep and Charge |
+| (1) SuperSpeed USB Type-A             | 5Gbps signaling rate (charging)                                                  |
+| (1) Headphone/microphone combo jack   ||
+
+
+# Apple M1 Pro
+
+| Device List        | Count | Cost Laptop | Cost Dock        | Total Cost |
+|--------------------|-------|-------------|------------------|------------|
+| HP Zbook Studio G8 | 264   | $2,200      | $229             | $641,256   |
+| Apple M1 Pro       | 68    | $3,500      | $212             | $252,416   |
+| TOTAL:             | 332   |             | Model Change 20% | $178,734   |
+|                    |       |             | Tax = 12%        | $51,738    |
+|                    |       |             | Total Budget     | $1,072,406 |
+
+
+
+| [System Information](https://support.apple.com/kb/SP824?locale=en_US) |                                            |
+| --------------------------------------------------------------------- | ------------------------------------------ |
+| Manufacturer                                                          | Apple                                      |
+| System Model                                                          | MacBook Pro (13-inch, M1, 2020)            |
+| Processor/Graphics                                                    | Apple M1 chip with 8-cores CPU, 8-core GPU |
+| Installed Physical Memory (RAM                                        | 16GB                                       |
+| Wireless                                                              | Bluetooth 5.0 wireless technology          |
+| Storage                                                               | 256GB SSD                                           |
+
+## Ports/slots
+
+| Specification                         | Features                                                           |
+|---------------------------------------|--------------------------------------------------------------------|
+| (2) Thunderbolt™ 4 with USB4™ Type-C® | 40Gbps signaling rate (USB Power Delivery, DisplayPort™, Charging) |
+
+
+![](https://www.apple.com/v/macbook-pro-13/p/images/specs/charging_m1__erhgaukuyeye_large_2x.jpg)
+
+## Graphics
+
+| Processor Graphics           | M1 Chip        | 
+| ---------------------------- | -------------- |
+| Max Resolution (Thunderbolt) | 6144x3072@60Hz |
+
+![](https://cdn.shopify.com/s/files/1/0006/9045/4575/files/m1-m2-display-compatibility-vert.jpg?v=1666009431&width=1920)
