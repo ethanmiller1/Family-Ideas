@@ -26,6 +26,10 @@ Any dude who's like, "Wow! Wow! Two pairs of tits!" just hasn't fucked very much
 
 Sex is not a complicated operation. There's no move that is going to make a man like, "oh wow, I've never seen this before and my mind is blown!" If you think the way to keep a man happy is to move your pussy in a particular way on top of his dick as opposed to behaving in a way that is respectful to him out in the real world, and for him to know he has you and your loyalty regardless of all the problems that are going to come into his life, than you're wrong.
 
+# Values over Hustle
+
+[Sneaky can’t defend Andrew Tate](https://youtube.com/shorts/uRwsln3Xei8?feature=share)
+
 
 # The Lamb and the Tyger: One and the Same
 ---
