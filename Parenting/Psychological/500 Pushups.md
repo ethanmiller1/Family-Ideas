@@ -15,3 +15,6 @@ If you're watching this, and you're mentally strong, do you know what you have t
 
 [Andrew Tate 500 pushups](https://www.youtube.com/watch?v=cepvXg_ASN0)
 [I Did 500 Push Ups A Day Like Andrew Tate](https://www.youtube.com/watch?v=chdin0qoy4M)
+[The War Against Your Mind](https://youtube.com/shorts/Kj2UuE_NiDc?feature=share)
+
+Self discipline of the center of all material success. You cannot win the war against the world of you can’t win the war against your own mind. 
