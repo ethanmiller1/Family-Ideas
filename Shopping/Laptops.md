@@ -79,10 +79,11 @@ Alt Mode is <mark class="hltr-yellow">a functional extension of USB-C which ena
 # HP Zbook Studio G8
 
 | System Information              |                                                                                                             |
-|---------------------------------|-------------------------------------------------------------------------------------------------------------|
+| ------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | System Manufacturer             | HP                                                                                                          |
 | System Model                    | HP ZBook Studio G8                                                                                          |
 | Processor                       | Intel® Core™ i7-11850H @ 2.5 GHz, 4.8 GHz with Intel® Turbo Boost, 24 MB L3 cache, 8 cores, 16 threads<br/> |
+| Graphics                        | NVIDIA T1200 Laptop GPU                                                                                     |
 | Installed Physical Memory (RAM) | 32 GB DDR4-3200 MHz RAM (onboard)                                                                           |
 | Internal Storage                | 1 TB PCIe® NVMe™ SSD                                                                                        |
 | Wireless                        | Intel® Wi-Fi 6 AX201 (2x2) and Bluetooth® 5 combo                                                           |
@@ -149,7 +150,7 @@ Alt Mode is <mark class="hltr-yellow">a functional extension of USB-C which ena
 | Processor/Graphics                                                    | Apple M1 chip with 8-cores CPU, 8-core GPU |
 | Installed Physical Memory (RAM                                        | 16GB                                       |
 | Wireless                                                              | Bluetooth 5.0 wireless technology          |
-| Storage                                                               | 256GB SSD                                           |
+| Storage                                                               | 256GB SSD                                  |
 
 ## Ports/slots
 
