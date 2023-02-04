@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Goals/Ethan's Commitments.md",
+                    "file": "Money/Credit Score.md",
                     "mode": "source",
                     "source": false
                   }
@@ -41,8 +41,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Health/Sore Throat Treatment.md",
-                    "mode": "source",
+                    "file": "Parenting/Social/Common Social Questions.md",
+                    "mode": "preview",
                     "source": false
                   }
                 }
@@ -60,8 +60,7 @@
                 },
                 "group": "bb44317422db184e"
               }
-            ],
-            "currentTab": 2
+            ]
           },
           {
             "id": "1bf5d014f3e2f5a5",
@@ -154,7 +153,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Health/Sore Throat Treatment.md",
+            "file": "Money/Credit Score.md",
             "collapseAll": false,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -183,7 +182,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Health/Sore Throat Treatment.md"
+            "file": "Money/Credit Score.md"
           }
         }
       },
@@ -206,17 +205,17 @@
     ],
     "currentTab": 2
   },
-  "active": "115a36c022072fb9",
+  "active": "850d9abd6a90e464",
   "lastOpenFiles": [
-    "Health/Honey-Onion-Garlic Syrup.md",
-    "Health/Sore Throat Treatment.md",
-    "Health/Raw Onions.md",
-    "Parenting/Skills/Map Reading.md",
-    "Law/Sneaky Auto-Subscription.md",
-    "Parenting/Social/Common Social Questions.md",
+    "Shopping/2022 Black Friday List.md",
+    "Parenting/Social/Conversation Ideas.md",
     "Goals/Ethan's Commitments.md",
-    "Shopping/House Ideas/Downsizing.md",
+    "Health/Honey-Onion-Garlic Syrup.md",
+    "Politics/2016 Presidential Issues.md",
+    "Parenting/Social/Tonal Communication.md",
     "Health/Hair Loss.md",
-    "Health/Snacks.md"
+    "Travel/Paris.md",
+    "Travel/Packing List.md",
+    "Parenting/Spiritual/Taxinomic Rank Of Doctrine.md"
   ]
 }
