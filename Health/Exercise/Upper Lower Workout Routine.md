@@ -6,13 +6,14 @@
 
 | Exercise                     | Sets | Reps | RPE | Rest   | Notes                                                                                 |
 |------------------------------|------|------|-----|--------|---------------------------------------------------------------------------------------|
-| BACK SQUAT                   | 3    | 6    | 7   | 3-4min | SIT BACK AND DOWN, 15° TOE FLARE, DRIVE YOUR KNEES OUT LATERALLY                      |
+| [BACK SQUAT](barbellsquat-1491916408.gif)                   | 3    | 6    | 7   | 3-4min | SIT BACK AND DOWN, 15° TOE FLARE, DRIVE YOUR KNEES OUT LATERALLY                      |
 | ROMANIAN DEADLIFT            | 3    | 10   | 7   | 2-3min | MAINTAIN A NEUTRAL LOWER BACK, SET YOUR HIPS BACK, DON'T ALLOW YOUR SPINE TO ROUND    |
 | BARBELL HIP THRUST           | 3    | 12   | 8   | 2-3min | TUCK YOUR CHIN AND RIB CAGE DOWN, ONLY MOVE YOUR HIPS. USE A PAD                      |
 | LEG EXTENSION                | 3    | 12   | 9   | 1-2min | FOCUS ON SQUEEZING YOUR QUADS TO MAKE THE WEIGHT MOVE                                 |
 | LYING LEG CURL               | 3    | 12   | 9   | 1-2min | FOCUS ON SQUEEZING YOUR HAMSTRINGS TO MAKE THE WEIGHT MOVE                            |
 | MACHINE SEATED HIP ABDUCTION | 3    | 6    | 7   | 1-2min | KEEP YOUR BUTT IN THE SEAT, FOCUS ON SQUEEZING YOUR GLUTES TO MAKE THE WEIGHT MOVE    |
 | CRUNCH                       | 3    | 12   | 7   | 1-2min | FOCUS ON FLEXING YOUR SPINE (ROUNDING YOUR BACK), DON'T YANK YOUR HEAD WITH YOUR ARMS |
+
 
 ## Upper Body #1
 
