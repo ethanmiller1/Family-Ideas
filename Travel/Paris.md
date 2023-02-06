@@ -1,4 +1,20 @@
 # Itinerary
+
+| Date             | Time    | Plan                                  |
+|------------------|---------|---------------------------------------|
+| Friday Feb 17    | --      | MEX-DFW 3 hour flight                 |
+| Sunday Feb 12    | 5:12PM  | DFW-CDG 9 hour flights                |
+| Monday Feb 13    | 9:30AM  | Paris Metro to hotel                  |
+|                  | 10:30AM | Sleep                                 |
+|                  | 4PM     | Work                                  |
+|                  | 12AM    | Sleep                                 |
+| Tuesday Feb 14   | --      | See Paris Landmarks                   |
+| Wednesday Feb 15 | --      | 14 hour train to Italy OR back to DFW |
+| Thursday Feb 16  | --      | See Venice                            |
+| Friday Feb 17    | --      | Work                                  |
+| Saturday Feb 18  | --      | Back to DFW                           |
+
+
 Paris is 7 hours ahead of Dallas. Monday 9AM-5PM in Dallas is Monday 4PM - 12AM in Paris. That is our working day.
 
 There is one flight to CDG per day that is 9h long. If we leave Sunday at 5:12PM we will arrive in Paris at 9:15AM. We will have 8 hours until our work day.
@@ -53,10 +69,6 @@ https://maps.app.goo.gl/fLtkVqaewgcViB2Z8?g_st=ic
 
 - Chocolate Cressant
 - Beget
-
-## For Mariana
-
-- [Red Roses Heart](https://www.sees.com/valentines-day-gifts/for-your-sweetheart/red-roses-heart/200806.html?cgid=for-your-sweetheart)
 
 # How to get around
 
