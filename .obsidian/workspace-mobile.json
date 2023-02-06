@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Politics/Feminism.md",
+                    "file": "Travel/Paris.md",
                     "mode": "source",
                     "source": false
                   }
@@ -153,7 +153,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Politics/Feminism.md",
+            "file": "Travel/Paris.md",
             "collapseAll": false,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Politics/Feminism.md"
+            "file": "Travel/Paris.md"
           }
         }
       },
@@ -205,9 +205,10 @@
     ],
     "currentTab": 2
   },
-  "active": "992f1735f5ef6f88",
+  "active": "850d9abd6a90e464",
   "lastOpenFiles": [
     "Parenting/Psychological/Masculinity.md",
+    "Parenting/Psychological/I Statements.md",
     "Politics/Feminism.md",
     "Politics/Ancient Technology/Ancient Technology.md",
     "Parenting/Psychological/Workout Tips.md",
@@ -215,7 +216,6 @@
     "Parenting/Psychological/Mental Training.md",
     "Money/Life Insurance.md",
     "Money/Personal Economics Assignment.md",
-    "Money/Credit Score.md",
-    "Shopping/2022 Black Friday List.md"
+    "Money/Credit Score.md"
   ]
 }
