@@ -1,16 +1,23 @@
+# Where to Stay
+
+Checkout the [Distance Calculator](https://github.com/ethanmiller1/Find-Ideal-Job-Location) on Github.
+
+
+![[Pasted image 20230205180045.png]]
+
 # Things to do
 
-- Eiffel Tower
 - Arc de Triomphe
-- Palace of Versailles
-- Saints-Chapelle
-- Louvre Museom (monolisa, closed Tuesdays)
-- Opera district
+- Eiffel Tower
+- Panthéon, Paris, France
+- Sainte-Chapelle
+- Notre Dame (Still repairing)
+- Louvre Museum (monolisa, closed Tuesdays)
+- Place de la Concorde (Canal, better at night, dinner on ships)
+- Opéra
 - Sacre-Coeur
-- Notre Dom (Still repairing)
-- Pantheon
+- Palace of Versailles
 - Major Landmarks
-- Canal (Pretty, Pace de concorde, better at night, dinner on ships)
 
 # Things to get for Kritika
 
