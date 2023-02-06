@@ -168,6 +168,6 @@
 - [ ] I am Rob Bell in compellingness
 - [ ] I am Blanchard Jacobus in peace
 - [ ] I am Dell Lewis in humility
-- [ ] I am Bill in encouragement
+- [ ] I am Bill Lambert in encouragement
 - [ ] I am Sylvia Grosh in ideas and leadership
 

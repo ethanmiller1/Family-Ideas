@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Travel/Paris.md",
+                    "file": "Goals/Ethan's Commitments.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -153,7 +153,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Travel/Paris.md",
+            "file": "Goals/Ethan's Commitments.md",
             "collapseAll": false,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Travel/Paris.md"
+            "file": "Goals/Ethan's Commitments.md"
           }
         }
       },
@@ -207,6 +207,8 @@
   },
   "active": "850d9abd6a90e464",
   "lastOpenFiles": [
+    "Goals/Schedule.md",
+    "Travel/Paris.md",
     "Parenting/Psychological/Masculinity.md",
     "Parenting/Psychological/I Statements.md",
     "Politics/Feminism.md",
@@ -214,8 +216,6 @@
     "Parenting/Psychological/Workout Tips.md",
     "Parenting/Psychological/500 Pushups.md",
     "Parenting/Psychological/Mental Training.md",
-    "Money/Life Insurance.md",
-    "Money/Personal Economics Assignment.md",
-    "Money/Credit Score.md"
+    "Money/Life Insurance.md"
   ]
 }
