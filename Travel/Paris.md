@@ -2,7 +2,7 @@
 
 | Date             | Time    | Plan                                  |
 |------------------|---------|---------------------------------------|
-| Friday Feb 17    | --      | MEX-DFW 3 hour flight                 |
+| Friday Feb 10    | --      | MEX-DFW 3 hour flight                 |
 | Sunday Feb 12    | 5:12PM  | DFW-CDG 9 hour flights                |
 | Monday Feb 13    | 9:30AM  | Paris Metro to hotel                  |
 |                  | 10:30AM | Sleep                                 |
