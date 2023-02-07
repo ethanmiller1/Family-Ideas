@@ -5,7 +5,7 @@
 | Bathroom / weigh myself | 6:13 AM  | 0:07     | Grooming       |
 | Scripture Typer         | <mark class="hltr-green">6:20 AM</mark>  | 0:05     | <mark class="hltr-green">Spiritual</mark>      |
 | Drive to Gym            | 6:25 AM  | 0:10     | Driving |
-| Workout                 | <mark class="hltr-blue">6:35 AM</mark>  | 0:40     | <mark class="hltr-blue">Health</mark>         |
+| [[Upper Lower Workout Routine\|Workout]]                 | <mark class="hltr-blue">6:35 AM</mark>  | 0:40     | <mark class="hltr-blue">Health</mark>         |
 | Drive home              | 7:15 AM  | 0:10     | Driving |
 | Shower                  | 7:25 AM  | 0:10     | Grooming       |
 | Skincare routine        | <mark class="hltr-blue">7:35 AM</mark>  | 0:10     | <mark class="hltr-blue">Grooming</mark>       |
