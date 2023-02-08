@@ -57,3 +57,19 @@ $ git gc --aggressive
 [Git GC Docs](https://git-scm.com/docs/git-gc#_options)
 
 Runs a number of housekeeping tasks within the current repository, such as compressing file revisions (to reduce disk space and increase performance) and removing unreachable objects which may have been created from prior invocations of git add.
+
+# Plugin
+
+* Advanced Tables
+* Better Code Block
+* Better Word Count
+* Calendar
+* Checklist
+* Zotero
+* Citations
+* Dataview*
+* Dynamic Table of Contents
+* Excel to Markdown Table
+* Markdown Table Editor
+* Kanban
+* Vantage - Advanced Search Builder
