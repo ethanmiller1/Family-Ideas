@@ -39,3 +39,21 @@
 | Move Line Down                            | Alt + Down         |
 | [Add cursor below](https://github.com/ethanmiller1/PowerShell/blob/master/Program%20Data/Visual%20Studio%20Community/Shortcuts.md)                        |                    |
 | [Column selection mode](https://forum.obsidian.md/t/column-selection-and-editing-mode/32191)                   |                    |
+
+# Buffer size issue
+
+[This repository currently has approximately 320 loose objects](https://stackoverflow.com/questions/21457407/git-gui-perpetually-getting-this-repository-currently-has-approximately-320-lo).
+
+Prune
+```bash
+# Prune loose objects older than 2 weeks
+$ git gc --prune
+# Prune loose objects regardless of their age
+$ git gc --prune=now
+# Aggressively optimize the repository at the expense of taking much more time. The effects of this optimization are mostly persistent.
+$ git gc --aggressive
+```
+
+[Git GC Docs](https://git-scm.com/docs/git-gc#_options)
+
+Runs a number of housekeeping tasks within the current repository, such as compressing file revisions (to reduce disk space and increase performance) and removing unreachable objects which may have been created from prior invocations of git add.
