@@ -2,3 +2,6 @@ workspace
 workspace.json
 workspace-mobil.json
 plugins/obsidian-zotero-desktop-connector/pdfannots2json.exe
+plugins/obsidian-dictionary-plugin/cache.json
+plugins/obsidian-multi-cursor
+node_modules
