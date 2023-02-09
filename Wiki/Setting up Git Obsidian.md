@@ -73,3 +73,27 @@ Runs a number of housekeeping tasks within the current repository, such as compr
 * Markdown Table Editor
 * Kanban
 * Vantage - Advanced Search Builder
+
+# Version Control with Git LFS
+[Introducing and Setting up Git LFS (Large File Storage)](https://www.youtube.com/@CloudwithChris)
+https://git-lfs.github.com/
+
+```bash
+git init
+git lfs track "*.png"
+git lfs track "*.jpg"
+git lfs track "*.gif"
+git lfs track "*.web"
+git add .gitattributes
+git remote add origin https://github.com/ethanimproving/PDF-Library.git
+git push -u origin master
+```
+
+```bash
+$ git push -u origin master
+Uploading LFS objects:   0% (0/95), 0 B | 0 B/s, done.
+batch response: This repository is over its data quota. Account responsible for LFS bandwidth should purchase more data packs to restore access.
+error: failed to push some refs to 'https://github.com/ethanimproving/PDF-Library.git'
+```
+
+[Include Git LFS objects in archives](https://stackoverflow.com/questions/62905325/this-repository-is-over-its-data-quota-account-responsible-for-lfs-bandwidth-sh)
