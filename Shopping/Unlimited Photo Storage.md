@@ -37,7 +37,7 @@ https://thomas.vanhoutte.be/miniblog/google-photos-upload-error/
 
 ## Online
 
-Work around it by manually uploading that big video file through the web interface at [https://photos.google.com/](https://photos.google.com/).
+Work around it by manually uploading that big video file through the web interface at [https://photos.google.com/](https://photos.google.com/).
 
 ## Move file location
 

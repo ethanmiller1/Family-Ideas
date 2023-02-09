@@ -38,7 +38,7 @@ Laptops should have the following capabilities:
 | Max Resolution (eDP - Integrated Flat Panel) | 4096x2304@60Hz           |
 | # of Displays Supported                      | 3                        |
 
-According to [Intel specification](https://ark.intel.com/content/www/us/en/ark/products/124967/intel-core-i5-8250u-processor-6m-cache-up-to-3-40-ghz.html "ark.intel.com"), you can connect up to <mark class="hltr-yellow">three monitors</mark> maximal with up to 4K resolutions (limited to 24 fps if using HDMI). Please note however that the number of connected display possible also depends on the physical slot available from the manufacturer.
+According to [Intel specification](https://ark.intel.com/content/www/us/en/ark/products/124967/intel-core-i5-8250u-processor-6m-cache-up-to-3-40-ghz.html "ark.intel.com"), you can connect up to <mark class="hltr-yellow">three monitors</mark> maximal with up to 4K resolutions (limited to 24 fps if using HDMI). Please note however that the number of connected display possible also depends on the physical slot available from the manufacturer.
 
 # HP EliteBook 840 G3
 
@@ -71,7 +71,7 @@ The Basic USB-C port does [not support Alt mode](https://h30434.www3.hp.com/t5/N
 
 ### What is alt mode?
 
-Alt Mode is <mark class="hltr-yellow">a functional extension of USB-C which enables the USB connection to carry non-USB signals</mark>. Alt Mode(s) are optional capabilities that are unique to the USB-C connector or port that allow technologies, like DisplayPort and Thunderbolt 3, to be transmitted. If a port says that it is a **Basic** USB, that means it only supports USB signals.
+Alt Mode is <mark class="hltr-yellow">a functional extension of USB-C which enables the USB connection to carry non-USB signals</mark>. Alt Mode(s) are optional capabilities that are unique to the USB-C connector or port that allow technologies, like DisplayPort and Thunderbolt 3, to be transmitted. If a port says that it is a **Basic** USB, that means it only supports USB signals.
 
 * [What is USB-C DisplayPort (DP Alt Mode)?](https://www.benq.com/en-us/knowledge-center/knowledge/usb-c-introduction-what-is-dp-alt-mode.html)
 * [Tech Talk: Using USB-C and DisplayPort over Alt Mode](https://www.startech.com/en-us/blog/tech-talk-using-usb-c-and-displayport-over-alt)
@@ -126,7 +126,7 @@ Alt Mode is <mark class="hltr-yellow">a functional extension of USB-C which ena
 |---------------------------------------|----------------------------------------------------------------------------------|
 | (1) power connector                   |                                                                                  |
 | (1) Mini DisplayPort™ 1.4             |                                                                                  |
-| (2) Thunderbolt™ 4 with USB4™ Type-C® | 40Gbps signaling rate (USB Power Delivery, DisplayPort™ 1.4, HP Sleep and Charge |
+| (2) Thunderbolt™ 4 with USB4™ Type-C® | 40Gbps signaling rate (USB Power Delivery, DisplayPort™ 1.4, HP Sleep and Charge |
 | (1) SuperSpeed USB Type-A             | 5Gbps signaling rate (charging)                                                  |
 | (1) Headphone/microphone combo jack   ||
 

@@ -1,18 +1,18 @@
 **Chi machine Real vs Fake**
 
-**90 minutes of aerobic exercise in 20 mins on the machine OMGGGGGG  that’s for every 20 mins!!  (aerobic would be 90 mins of walking for example!)**
+**90 minutes of aerobic exercise in 20 mins on the machine OMGGGGGG  that’s for every 20 mins!!  (aerobic would be 90 mins of walking for example!)**
 
-**#1 lymphatic and kidney wonder machine on planet (superior to rebounder!!) -  even the #1 lymph “masseuse” in Texas (90 yo lady) told us we can do same thing with chi machine as we do with her except vastly cheaper!**
+**#1 lymphatic and kidney wonder machine on planet (superior to rebounder!!) -  even the #1 lymph “masseuse” in Texas (90 yo lady) told us we can do same thing with chi machine as we do with her except vastly cheaper!**
 
-**Chi machine -  Real one is HTE Sun Ancon Chi Machine – 1-940-233-0484 – order from here from me** **J**  
+**Chi machine -  Real one is HTE Sun Ancon Chi Machine – 1-940-233-0484 – order from here from me** **J**  
 
 FYI Rebounders are also a good device to get (but NEVERRRR in place of Chi Machine – they are NO competition!!) for $40 at walmart with a bar on it to hold onto or health place for fancy one for $500 lol slight $460 difference though lol)
 
-If do not want one new can find cheaper no problem on ebay or amazon but never get an alternative – in decades I have never once found a single alternative that worked EVER – it ALWAYS hurt someone’s back or otherwise – there’s a reason why this company got a $10million grant for Japanese govt and 10 yrs research b4 putting it out!!!  The Fakes did NOT and they (by patent) do not have the same swing length nor speed that works 100% of time!  That’s why theirs doesn’t work ever!  
+If do not want one new can find cheaper no problem on ebay or amazon but never get an alternative – in decades I have never once found a single alternative that worked EVER – it ALWAYS hurt someone’s back or otherwise – there’s a reason why this company got a $10million grant for Japanese govt and 10 yrs research b4 putting it out!!!  The Fakes did NOT and they (by patent) do not have the same swing length nor speed that works 100% of time!  That’s why theirs doesn’t work ever!  
 
 (later I heard from brand new buyers of fakes they liked them but they had just started using them – I have never had a single testimonial from buyer of fake that used more than 3 months b4 something “happened” that they could not use it anymore! Yuck!)
 
-To put this simply and succinctly – it makes absolutely NOOOO sense for us to sell a $500 unit if a $79 or $150 or $350 unit or any other cheaper version ever worked…in decades I have NEVER once heard a testimonial that was good everrrr on a single alternative chi machine  (see caveat below)  ONLY good news was on this ORIGINAL -  all the fakes are worthless….   it is 100x more easy to sell something cheaper than it is to sell a $500 unit – but the cheaper copy cats simple NEVERR EVERRR WORKEDDDD!! Period…this is every testimony I have heard in decades period even from gurus of nutrition who got the fakes too!! Lol ugh … get real one only and cheaper ones that are “CORRECT” are on amazon and ebay like already said though might be used or otherwise…  here’s a youtube of it’s use …
+To put this simply and succinctly – it makes absolutely NOOOO sense for us to sell a $500 unit if a $79 or $150 or $350 unit or any other cheaper version ever worked…in decades I have NEVER once heard a testimonial that was good everrrr on a single alternative chi machine  (see caveat below)  ONLY good news was on this ORIGINAL -  all the fakes are worthless….   it is 100x more easy to sell something cheaper than it is to sell a $500 unit – but the cheaper copy cats simple NEVERR EVERRR WORKEDDDD!! Period…this is every testimony I have heard in decades period even from gurus of nutrition who got the fakes too!! Lol ugh … get real one only and cheaper ones that are “CORRECT” are on amazon and ebay like already said though might be used or otherwise…  here’s a youtube of it’s use …
 
 [http://www.youtube.com/watch?v=yrz1lnX65To](http://www.youtube.com/watch?v=yrz1lnX65To)
 
@@ -26,9 +26,9 @@ Want proof – do a quick muscle test and everyone is the same – all energy di
 
 [http://www.youtube.com/watch?v=8XddRkC01c0&feature=related](http://www.youtube.com/watch?v=8XddRkC01c0&feature=related)
 
- notice on here the variable swing rates and amount of movement left to right is so wide in comparison to the original that it puts the back off alignment (see diagram below) – there’s a reason why REAL ONE got $10MM and 10 yrs of clinic trials on it!!!!   The copycats got ZEROOOOO and thought it was not necessary to do the 1.45 inch width sliding and not necessary to do it at 140 revolutions per minute – they did whatever they wanted to (in fact even if they were close to 140 it didn’t matter as it would go up and down in speed b/c so cheaply made making the same problem again) – it resulted often in the copycats making spinal injuries b/c the rate was off – see the examples above… of how messed up rates (140 vs 155 vs other rates(revolutions per min) ) and messed up width slides make it so that the units put the spinal column OFF CENTER when doing the back and forth action in the spine! 
+ notice on here the variable swing rates and amount of movement left to right is so wide in comparison to the original that it puts the back off alignment (see diagram below) – there’s a reason why REAL ONE got $10MM and 10 yrs of clinic trials on it!!!!   The copycats got ZEROOOOO and thought it was not necessary to do the 1.45 inch width sliding and not necessary to do it at 140 revolutions per minute – they did whatever they wanted to (in fact even if they were close to 140 it didn’t matter as it would go up and down in speed b/c so cheaply made making the same problem again) – it resulted often in the copycats making spinal injuries b/c the rate was off – see the examples above… of how messed up rates (140 vs 155 vs other rates(revolutions per min) ) and messed up width slides make it so that the units put the spinal column OFF CENTER when doing the back and forth action in the spine! 
 
-I ALWAYS use the cheapest and best – but ONLY if those two conditions are simultaneous… I have NOOOOOOOO trouble with making a ton of money selling a $79 (for say $179) unit instead of a $500 unit (same amt of profit)  - and easier on pocket book – IFFFF it works… but in 15 yrs not one single happy person to say something good about it except for those few poor suckers that had ONLY used the machine temporarily (as in just bought it or hardly ever used it)!  This is my own personal experience…
+I ALWAYS use the cheapest and best – but ONLY if those two conditions are simultaneous… I have NOOOOOOOO trouble with making a ton of money selling a $79 (for say $179) unit instead of a $500 unit (same amt of profit)  - and easier on pocket book – IFFFF it works… but in 15 yrs not one single happy person to say something good about it except for those few poor suckers that had ONLY used the machine temporarily (as in just bought it or hardly ever used it)!  This is my own personal experience…
 
 ![[robert-von-2.jpg]]
 
@@ -624,7 +624,7 @@ McNatt Learning Center, Inc.
 Cognitive Trainer  
 Marseilles, IL 61341
 
-"As the director of the McNatt Learning Center, Inc., I am excited by applications the Chi Machine may have to the field of cognitive training.     
+"As the director of the McNatt Learning Center, Inc., I am excited by applications the Chi Machine may have to the field of cognitive training.     
   
 First, auditory discrimination can be hindered by decreased sensitivity to or awareness of lateral movement. By stimulating the vestibular system in an organized manner, the Chi Machine holds tremendous promise for enhancing auditory awareness, auditory discrimination, and vestibular integration. I thus view the Chi Machine as complimentary to listening therapy and balance training and, for some students, a helpful contribution to balance-based vision therapy using balance boards and Mardsen balls.  
   
@@ -632,7 +632,7 @@ Second, due to its bi-lateral rhythmic movement and possible enhancement of audi
   
 Third, vestibular stimulation can be a primary gateway for teaching some hypo-stimulated children with special needs. I thus believe that the Chi Machine, when used in conjunction with naprapathic adjustment or Rolfing to help these children gain and maintain alignment, can be a key to helping some hypo-stimulated children " wake up " sufficiently to interact and learn.  
   
-Fourth, adolescents and adults with Tourette syndrome (TS) often have heightened neuro-electrical awareness, along with a tendency to try to overcome what they perceive to be blockages in the flow of whatever internal energy they perceive. Movements to overcome perceived blockages, though often made in ignorance and ultimately unsuccessful, can become quickly habituated as " tics. " Children with TS usually tic without perceiving a cause. The oxygen rush of the Chi Machine mimics (or duplicates) the healthy flow of energy sought by many individuals with TS. Thus, individuals with TS may naturally trust the movement of the Chi Machine, which I believe they can then productively use as training, simply letting the movement happen instead of anticipating and trying to control it. Such practice waiting and letting go may be especially helpful for individuals with Tourette Syndrome in tandem to Interactive Metronome training, in which trainees similarly learn to wait for a beat, rather than anticipating or trying to control it.  
+Fourth, adolescents and adults with Tourette syndrome (TS) often have heightened neuro-electrical awareness, along with a tendency to try to overcome what they perceive to be blockages in the flow of whatever internal energy they perceive. Movements to overcome perceived blockages, though often made in ignorance and ultimately unsuccessful, can become quickly habituated as " tics. " Children with TS usually tic without perceiving a cause. The oxygen rush of the Chi Machine mimics (or duplicates) the healthy flow of energy sought by many individuals with TS. Thus, individuals with TS may naturally trust the movement of the Chi Machine, which I believe they can then productively use as training, simply letting the movement happen instead of anticipating and trying to control it. Such practice waiting and letting go may be especially helpful for individuals with Tourette Syndrome in tandem to Interactive Metronome training, in which trainees similarly learn to wait for a beat, rather than anticipating or trying to control it.  
   
 I personally use and enjoy the Chi Machine, and I heartily endorse its appropriate, supervised use in cognitive training."
 
@@ -1207,7 +1207,7 @@ Given our training in Applied Kinesiology and my current disability of 5 years f
 
 Since the arrival of the Chi Machine, I have been using it 1 1/2 minutes one to two times a day. **Amazingly, during this time, my lymphatic drainage has continued to work with no other treatment by Lynn or myself. That is truly incredible!** Needless to say, I have been thinking and feeling better.
 
-Thank you again for introducing us to the Chi Machine. It has already been a major contributing factor to our health and well being. 
+Thank you again for introducing us to the Chi Machine. It has already been a major contributing factor to our health and well being. 
 
 **John A. Hinwood, D.C.**
 
@@ -1235,7 +1235,7 @@ I was introduced to the Chi Machine Aerobic Exerciser five months ago and have s
 
 **Since using the Chi Machine Aerobic Exerciser I am amazed at how these feelings have disappeared. The day after a match I feel loose and there seems to be no stiffness. In addition my levels of energy, both physical and mental, are higher than they have been for some years, my body organs are functioning like a well tuned car, it's a fantastic feeling.**
 
-Many of my friends are now using the Chi Machine and expreiencing the benefits. Their improved levels of health are being manifested in different ways as there bodies respond to the stimulation received from this amazing machine. They are telling me of less pain, better sleep, more supple back and neck, more energy, more regularity, being more relaxed and much, much more. I plan to use this little wonder for the rest of my life. Thank you Chi Machine. Guess what I will be doinig for the next 15 minutes! 
+Many of my friends are now using the Chi Machine and expreiencing the benefits. Their improved levels of health are being manifested in different ways as there bodies respond to the stimulation received from this amazing machine. They are telling me of less pain, better sleep, more supple back and neck, more energy, more regularity, being more relaxed and much, much more. I plan to use this little wonder for the rest of my life. Thank you Chi Machine. Guess what I will be doinig for the next 15 minutes! 
 
 **John Gore - Baltimore, MD**
 
@@ -1263,7 +1263,7 @@ The most dramatic result is the tolerance I have developed to food that I had be
 
 **Cathy's waistline and thighs have trimmed, her skin complexion has cleared up, her digestion has improved, and she sleeps more soundly. Her tennis elbow and herniated disc pains have decreased substantially.**
 
-Cathy and I thank God for the gift of health. We consider the Chi Machine the best discovery of our lives. 
+Cathy and I thank God for the gift of health. We consider the Chi Machine the best discovery of our lives. 
 
 **Dr. Adam Schwartz  
 ****_A Chiropractor's Evaluation_**
@@ -1410,4 +1410,4 @@ My mother Pi-Kuam Lee first introduced the Chi Machine to me. At first I was ske
 
 Using the Chi Machine is also a very relaxing experience. I often look forward to using the Chi Machine after a long busy day. The Chi Machine experience Is truly unique. I believe everyone should experience it, whether they are young or old. My goal for the future is to introduce the Chi Machine experience to as many people as I can. This goal should not be hard to accomplish for I believe the product sells itself
 
-PS [www.sheepskin-covers.com](http://www.sheepskin-covers.com/) order the sheepskin cover that says esp made for chi machine and get athletic tennis wrist bands for $2 from any athletic store… this is how you do it:::   put on socks, then wrist bands over the socks over the ankles, then put the sheepskin on top of the chi machine as pictured in the website – now never have to worry about sore ankles everrr from using this device… please get that sheepskin cover it is totally worth it!
+PS [www.sheepskin-covers.com](http://www.sheepskin-covers.com/) order the sheepskin cover that says esp made for chi machine and get athletic tennis wrist bands for $2 from any athletic store… this is how you do it:::   put on socks, then wrist bands over the socks over the ankles, then put the sheepskin on top of the chi machine as pictured in the website – now never have to worry about sore ankles everrr from using this device… please get that sheepskin cover it is totally worth it!

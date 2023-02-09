@@ -2,8 +2,8 @@
 
 1.  **S**ingle Responsibility
 2.  **O**pen/Closed
-3.  **L**iskov Substitution
-4.  **I**nterface Segregation
+3.  **L**iskov Substitution
+4.  **I**nterface Segregation
 5.  **D**ependency Inversion
 
 # [Grasp](https://www.fluentcpp.com/2021/06/23/grasp-9-must-know-design-principles-for-code/)

@@ -80,25 +80,25 @@ Next
 
 ![[robert-von-3.jpg]]
 
-Collagen is becoming the most popular anti-aging supplement of 2016.  Everyone from TV doctors to “mommy bloggers” are raving about the benefits of collagen supplements.
+Collagen is becoming the most popular anti-aging supplement of 2016.  Everyone from TV doctors to “mommy bloggers” are raving about the benefits of collagen supplements.
 
-With this much hype, it’s healthy for you to be skeptical.  After all, we’ve seen so many health supplements come and go in the last few years.
+With this much hype, it’s healthy for you to be skeptical.  After all, we’ve seen so many health supplements come and go in the last few years.
 
-As soon as a new study comes out, marketers and the media jump on the bandwagon to sell us the next miracle in a bottle.  Maybe the study was valid.  Maybe it wasn’t.  It usually gets figured out after everyone has bought it.
+As soon as a new study comes out, marketers and the media jump on the bandwagon to sell us the next miracle in a bottle.  Maybe the study was valid.  Maybe it wasn’t.  It usually gets figured out after everyone has bought it.
 
-In this blog post, you’ll discover why collagen supplements are different.  Collagen isn’t a new, unstudied “miracle” supplement.  **There are decades of studies into the benefits of collagen and gelatin.**  Let me show you…
+In this blog post, you’ll discover why collagen supplements are different.  Collagen isn’t a new, unstudied “miracle” supplement.  **There are decades of studies into the benefits of collagen and gelatin.**  Let me show you…
 
 **Why is collagen proving to have so many benefits?**
 
-Collagen is a special type of protein that forms a long chain that acts as the “glue” and support in your body.  It forms a network of these protein chains that form the structure of your body.  Collagen takes many forms in your body.  For example, it provides the strength of your bones, the flexibility of your joints, and the smoothness of your skin.
+Collagen is a special type of protein that forms a long chain that acts as the “glue” and support in your body.  It forms a network of these protein chains that form the structure of your body.  Collagen takes many forms in your body.  For example, it provides the strength of your bones, the flexibility of your joints, and the smoothness of your skin.
 
-Your body produces its own collagen in abundance to make your skin, bones, hair, nails, muscles, and all your organs, but you wind up producing less and less as you get older.  This is the cause of the signs of aging.  Hydrolyzed collagen supplements actually help stimulate this collagen growth to healthy levels.
+Your body produces its own collagen in abundance to make your skin, bones, hair, nails, muscles, and all your organs, but you wind up producing less and less as you get older.  This is the cause of the signs of aging.  Hydrolyzed collagen supplements actually help stimulate this collagen growth to healthy levels.
 
-While most people are aware of one or two collagen supplement benefits, after they start taking collagen it doesn’t take too long for them to discover many more benefits.  This is because it’s so important for all systems of your body. It’s very common to hear this… 
+While most people are aware of one or two collagen supplement benefits, after they start taking collagen it doesn’t take too long for them to discover many more benefits.  This is because it’s so important for all systems of your body. It’s very common to hear this… 
 
 **“**
 
-**I started taking collagen because I wanted to improve my hair and nails, but after a couple weeks I noticed that the pain in my hip was going away!**
+**I started taking collagen because I wanted to improve my hair and nails, but after a couple weeks I noticed that the pain in my hip was going away!**
 
 **So let’s take a look at the top 14 hydrolyzed collagen benefits:**
 
@@ -108,39 +108,39 @@ While most people are aware of one or two collagen supplement benefits, after th
 
 Yep, you read that right! Taking a hydrolyzed collagen powder supplement actually helps reduce fine lines and wrinkles due to the skin collagen regeneration it promotes.
 
-**2. Hydrolyzed collagen supports the re-growth of joint tissue and can help relieve joint pain**
+**2. Hydrolyzed collagen supports the re-growth of joint tissue and can help relieve joint pain**
 
 ![[robert-von-5.jpg]]
 
-Have you ever noticed how many elderly people appear when they walk?  It looks like it must be painful to even move.  On top of dehydration and a lack of stretching, this is due to a lack of collagen which results in joint pain, inflammation and deterioration.
+Have you ever noticed how many elderly people appear when they walk?  It looks like it must be painful to even move.  On top of dehydration and a lack of stretching, this is due to a lack of collagen which results in joint pain, inflammation and deterioration.
 
-With good collagen supplementation, you may notice more agility in your joints, tendons, and ligaments, and less arthritic-like symptoms.
+With good collagen supplementation, you may notice more agility in your joints, tendons, and ligaments, and less arthritic-like symptoms.
 
-A Tufts Medical Center 2012 study using high tech magnetic resonant imaging compared the collagen health in knee joints of those who had taken a daily 10,000 mg collagen supplement for 48 weeks to those who hadn’t.  They saw that those who took collagen had actually significantly improved the healthy cartilage tissue in their knee joints.  Talk about reversing the signs of aging!
+A Tufts Medical Center 2012 study using high tech magnetic resonant imaging compared the collagen health in knee joints of those who had taken a daily 10,000 mg collagen supplement for 48 weeks to those who hadn’t.  They saw that those who took collagen had actually significantly improved the healthy cartilage tissue in their knee joints.  Talk about reversing the signs of aging!
 
 **3. Collagen helps prevent bone loss (osteoporosis)**
 
 ![[robert-von-6.jpg]]
 
-[Multiple studies](http://collagencomplete.com/studies/#collagen-bone-density) have found that you can prevent and relieve osteoporosis by supplementing with hydrolyzed collagen because of its ability to stimulate bone-creating cells (osteoblasts).  Studies show that bone loss is less common in women who use hydrolyzed collagen supplements.
+[Multiple studies](http://collagencomplete.com/studies/#collagen-bone-density) have found that you can prevent and relieve osteoporosis by supplementing with hydrolyzed collagen because of its ability to stimulate bone-creating cells (osteoblasts).  Studies show that bone loss is less common in women who use hydrolyzed collagen supplements.
 
-Throughout our lives, there’s a constant cycle of bone collagen destruction and re-creation.  This is your body’s way of maintaining a healthy structure.  Most osteoporosis medication works by blocking the natural process of bone destruction.  In the short term this seems to work, but we’re now discovering that long-term use of these medicines results in an unhealthy bone matrix that is weak and brittle.  Hydrolyzed collagen supplements do the opposite–they help stimulate your body to create more bone collagen.
+Throughout our lives, there’s a constant cycle of bone collagen destruction and re-creation.  This is your body’s way of maintaining a healthy structure.  Most osteoporosis medication works by blocking the natural process of bone destruction.  In the short term this seems to work, but we’re now discovering that long-term use of these medicines results in an unhealthy bone matrix that is weak and brittle.  Hydrolyzed collagen supplements do the opposite–they help stimulate your body to create more bone collagen.
 
 **4. Collagen can help reduce cellulite and prevent stretch marks**
 
 ![[robert-von-7.jpg]]
 
-Cellulite is]s the fat in place”.  Essentially, the combination of too much fat and too little collagen is the recipe for cellulite.
+Cellulite is]s the fat in place”.  Essentially, the combination of too much fat and too little collagen is the recipe for cellulite.
 
 In a [2015 study of 105 middle aged women](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4685482/), it was discovered that supplementing with hydrolyzed collagen lead to an improvement in skin waviness on the thighs and to a general improvement in skin appearance in women suffering from moderate cellulite.
 
-If you want to reduce that annoying dimpling, then a hydrolyzed collagen supplement is a must!  Other supplements and therapies can also help, but as usual it’s best to treat this condition from within using proper nutrition to restore your healthy collagen.  This leads us to our next benefit…
+If you want to reduce that annoying dimpling, then a hydrolyzed collagen supplement is a must!  Other supplements and therapies can also help, but as usual it’s best to treat this condition from within using proper nutrition to restore your healthy collagen.  This leads us to our next benefit…
 
 **5. Collagen can help you lose weight**
 
 ![[robert-von-8.jpg]]
 
-Studies are showing that taking collagen boosts our metabolism while also reducing appetite. One such study cited a 20% reduction of food intake after breakfast when collagen peptides were eaten at this time. The same study showed these peptides to be 40% more satiating than other protein powder supplements such as whey, soy, and casein. There’s also a metabolism boost due to an amino acid in collagen called glycine which brings blood sugar to tissue and in turn boosts energy.
+Studies are showing that taking collagen boosts our metabolism while also reducing appetite. One such study cited a 20% reduction of food intake after breakfast when collagen peptides were eaten at this time. The same study showed these peptides to be 40% more satiating than other protein powder supplements such as whey, soy, and casein. There’s also a metabolism boost due to an amino acid in collagen called glycine which brings blood sugar to tissue and in turn boosts energy.
 
 While there may not be many studies directly researching collagen and weight loss, it makes sense that if you reduce appetite and increase metabolism naturally it will be easier to lose weight.
 
@@ -150,7 +150,7 @@ While there may not be many studies directly researching collagen and weight los
 
 We are exposed to so many toxins these days, and it’s hard to know how to reverse the unhealthy effects that they place on our bodies. We need to detox to some extent each day, and taking a collagen supplement with breakfast is an easy way to do just that.
 
-The amino acid “glycine” in collagen helps reduce liver damage, one reason many have turned to bone broth fasts for a quick and easy cleanse.  Just allow the bones of grass-fed cows to simmer on low heat with some hardy vegetables for up to 24 hours.  You’ll have one of the most nutritious foods you can eat to detoxify your liver and other organs.
+The amino acid “glycine” in collagen helps reduce liver damage, one reason many have turned to bone broth fasts for a quick and easy cleanse.  Just allow the bones of grass-fed cows to simmer on low heat with some hardy vegetables for up to 24 hours.  You’ll have one of the most nutritious foods you can eat to detoxify your liver and other organs.
 
 **7. Collagen helps repair leaky gut syndrome**
 
@@ -158,13 +158,13 @@ The amino acid “glycine” in collagen helps reduce liver damage, one reason m
 
 With digestive health issues running rampant these days, many are experiencing leaky gut syndrome, a terrible condition where toxins are able to pass through the intestinal wall and into our bloodstream.
 
-This is caused by the weakening of our intestinal walls, part of which are the tiny folds called “intestinal villi” which are made of collagen.  Luckily, collagen supplements can help prevent and reverse this by re-building the collagen in the intestinal walls.
+This is caused by the weakening of our intestinal walls, part of which are the tiny folds called “intestinal villi” which are made of collagen.  Luckily, collagen supplements can help prevent and reverse this by re-building the collagen in the intestinal walls.
 
 **8. Collagen is an important part of healthy hair growth**
 
 ![[robert-von-11.jpg]]
 
-There are three things needed for healthy hair to grow:  keratin, minerals and collagen!  Many of the amino acids needed to make keratin are also found in hydrolyzed collagen.  One of these amino acids is Lysine, which has also been found to reduce 5-alpha reductase, a major factor in male pattern baldness.
+There are three things needed for healthy hair to grow:  keratin, minerals and collagen!  Many of the amino acids needed to make keratin are also found in hydrolyzed collagen.  One of these amino acids is Lysine, which has also been found to reduce 5-alpha reductase, a major factor in male pattern baldness.
 
 This explains why there are so many people see improvements in their hair quality and luster by taking collagen supplements.
 
@@ -174,7 +174,7 @@ This explains why there are so many people see improvements in their hair qualit
 
 Collagen is what actually builds strong nails. If you have fingernails that tend towards splitting, this is a good sign you need to boost your collagen intake.
 
-Just like your hair, your nails are mainly made of keratin, collagen and minerals.  You need to make sure your body has the necessary nutrients to grow stronger nails.  Most people know that biotin is an important vitamin for healthy hair and nails.  Adding collagen to your regimen is a great way to grow healthier nails and hair.
+Just like your hair, your nails are mainly made of keratin, collagen and minerals.  You need to make sure your body has the necessary nutrients to grow stronger nails.  Most people know that biotin is an important vitamin for healthy hair and nails.  Adding collagen to your regimen is a great way to grow healthier nails and hair.
 
 **10. Collagen supports healthy teeth and gums**
 
@@ -182,9 +182,9 @@ Just like your hair, your nails are mainly made of keratin, collagen and mineral
 
 Our oral health is paramount to overall health, and collagen forms the structure of the teeth as well as the supporting tissue around it (the gums and jaw).
 
-There’s a huge industry selling us a beautiful smile: teeth whitening, braces and “extreme make-over” surgeries all try to make a healthy smile by “fixing” it from the outside.  What if the secret to a healthy smile was to create it from within with proper nutrition?
+There’s a huge industry selling us a beautiful smile: teeth whitening, braces and “extreme make-over” surgeries all try to make a healthy smile by “fixing” it from the outside.  What if the secret to a healthy smile was to create it from within with proper nutrition?
 
-In the early 1900’s, a famous dentist, Weston A Price, went around the world researching isolated tribes which hadn’t made contact with Western Culture yet.  What he discovered is that they all had beautiful, straight smiles without the need for braces, teeth whitening or surgery.  After researching the diets of these tribes he discovered that besides eating very little sugar, they were consuming plenty of bone broth which provided them the collagen they needed to build healthy smiles.
+In the early 1900’s, a famous dentist, Weston A Price, went around the world researching isolated tribes which hadn’t made contact with Western Culture yet.  What he discovered is that they all had beautiful, straight smiles without the need for braces, teeth whitening or surgery.  After researching the diets of these tribes he discovered that besides eating very little sugar, they were consuming plenty of bone broth which provided them the collagen they needed to build healthy smiles.
 
 **11. Collagen can help balance your hormones**
 
@@ -192,7 +192,7 @@ In the early 1900’s, a famous dentist, Weston A Price, went around the world r
 
 Our hormones are responsible for so many mechanisms within the body. They need to be balanced and functioning optimally if we’re going to have long, healthy lives. Collagen helps to balance insulin, cortisol, estrogen, testosterone, DHEA, melatonin, progesterone, and even the human growth hormone. Each hormone has an essential function, and when out of whack, they wreak havoc on our health.
 
-Balancing these hormones is vital not just for women, but for men, too. If you have any issue with any of the above hormones, make sure to take a hydrolyzed collagen supplement so you have the necessary amino acids to make all these hormones.
+Balancing these hormones is vital not just for women, but for men, too. If you have any issue with any of the above hormones, make sure to take a hydrolyzed collagen supplement so you have the necessary amino acids to make all these hormones.
 
 **12. Collagen could help alleviate anxiety**
 
@@ -210,12 +210,12 @@ Who doesn’t need a better night of rest? Good sleep is necessary for a good li
 
 If you need support in the sleep department, consider taking hydrolyzed collagen powder as a supplement to your diet.
 
-**14. Collagen can prevent hardening of the arteries**
+**14. Collagen can prevent hardening of the arteries**
 
 ![[robert-von-17.jpg]]
 
-The walls of your arteries are mostly composed of collagen.  So having healthy collagen is one of the best ways to prevent hardening of the arteries.
+The walls of your arteries are mostly composed of collagen.  So having healthy collagen is one of the best ways to prevent hardening of the arteries.
 
-One of the early researchers into this condition, Linus Pauling, recommended a regimen of Vitamin C, lysine and proline to reverse atherosclerosis.  Vitamin C is the most important vitamin for growing new collagen.  As you know, a lack of Vitamin C will lead to scurvy, which is when your body can’t make new collagen!  Lysine and proline are two of the more abundant amino acids found in hydrolyzed collagen. So maybe Linus Pauling was onto something.
+One of the early researchers into this condition, Linus Pauling, recommended a regimen of Vitamin C, lysine and proline to reverse atherosclerosis.  Vitamin C is the most important vitamin for growing new collagen.  As you know, a lack of Vitamin C will lead to scurvy, which is when your body can’t make new collagen!  Lysine and proline are two of the more abundant amino acids found in hydrolyzed collagen. So maybe Linus Pauling was onto something.
 
 Next

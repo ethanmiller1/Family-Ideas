@@ -16,7 +16,7 @@ The Bible says to redeem the time because the days are evil. Let's do that. Let'
 
 All things are full of labor, man cannot utter it. The eye is not satisfied with seeing, nor the ear filled with hearing. I know it's popular to love your job, but my job is the means, not the end. My 5 year goal is to be happily married with a good job that enables me to provide for my family.
 
-If you wanted me to say software, that's part of it. Software is the backbone of progress in our modern era. We had the industrial revolution, and right now we're in the middle of a 60 year digital revolution, and it's still getting better and more proficient and more widespread. I think that's great, and if I can be a part of it, great. The Bible says whatever thy hands find to do, do with all thy might, as unto the Lord and not for men. It doesn't matter what I'm doing, if I'm doing it for the Lord, I'm going to do it happily.
+If you wanted me to say software, that's part of it. Software is the backbone of progress in our modern era. We had the industrial revolution, and right now we're in the middle of a 60 year digital revolution, and it's still getting better and more proficient and more widespread. I think that's great, and if I can be a part of it, great. The Bible says whatever thy hands find to do, do with all thy might, as unto the Lord and not for men. It doesn't matter what I'm doing, if I'm doing it for the Lord, I'm going to do it happily.
 
 # Why Improving?
 

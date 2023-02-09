@@ -13,6 +13,6 @@ Other Airports:
 
 # How to get Around
 
-[Getting Around Beijing](https://travel.usnews.com/Beijing_China/Getting_Around/)
+[Getting Around Beijing](https://travel.usnews.com/Beijing_China/Getting_Around/)
 
 Subway tickets start at 3 yuan (about 43 cents) and increase to 9 yuan (about $1.30), depending on distance. You can buy single tickets or a reloadable card at the stations.

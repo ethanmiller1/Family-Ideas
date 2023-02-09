@@ -7,10 +7,10 @@
 ## American Airlines
 - [ ] Do you guys have any time that you allow for **personal learning journeys**?
 - [ ] Do you offer any resources for learning, like free **Udemy** access?
-- [ ] How **flexible** are the hours? / What are your **core hours**?
+- [ ] How **flexible** are the hours? / What are your **core hours**?
 - [ ] Do you have **on-call rotations**?
 - [ ] Are developers expected to do **QA work**?
-- [ ] If so, what regression testing **automation framework** to you use?
+- [ ] If so, what regression testing **automation framework** to you use?
 - [ ] Do developers get to do for **performance testing** for their microservices? Ensure **auto-scaling** at the proper thresholds?
 - [ ] What is the campus like? Any **recreation**?
 - [ ] Do you practice **pair programming**?

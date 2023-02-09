@@ -76,9 +76,9 @@ The [Paris Metro](https://www.introducingparis.com/metro) has a [Paris Visite](h
 
 | Validity | Adults Zones 1-3                                     | Adults Zones 1-5    |
 | -------- | ---------------------------------------------------- | ------------------- |
-| 1 Day    | € 12 (US$ 13.20)                                     | € 25.25 (US$ 27.80) |
-| 2 Days   | € 19.50 (US$ 21.40)                                  | € 38.35 (US$ 42.20) |
-| 3 Days   | <mark class="hltr-yellow">€ 26.65 (US$ 29.30)</mark> | € 53.75 (US$ 59.10) |
-| 5 Days   | € 38.35 (US$ 42.20)                                  | € 65.80 (US$ 72.40) |
+| 1 Day    | € 12 (US$ 13.20)                                     | € 25.25 (US$ 27.80) |
+| 2 Days   | € 19.50 (US$ 21.40)                                  | € 38.35 (US$ 42.20) |
+| 3 Days   | <mark class="hltr-yellow">€ 26.65 (US$ 29.30)</mark> | € 53.75 (US$ 59.10) |
+| 5 Days   | € 38.35 (US$ 42.20)                                  | € 65.80 (US$ 72.40) |
 
 Download the [Paris Metro Map and Routes app](https://apps.apple.com/us/app/paris-metro-map-and-routes/id527534137).

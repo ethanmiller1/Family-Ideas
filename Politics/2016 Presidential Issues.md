@@ -70,7 +70,7 @@ I will not vote for somebody who identifies the mutilation of human life as a wo
 
 # Donald Trump
 
-I neither will vote for a man to lead us who owns a strip club,  and practices all forms of immorality.
+I neither will vote for a man to lead us who owns a strip club,  and practices all forms of immorality.
 
 “They are filled with envy, murder, strife, deceit, maliciousness. They are haters of God, insolent, haughty, foolish, faithless, heartless, ruthless. Although they know God’s righteous decree that those who practice such things deserve to die, they not only do them but give approval to those who practice them.”
 
@@ -78,7 +78,7 @@ I love how people ignore Trump’s policy stances and position on issues and say
 
 I have to admit I was worried how well Trump was doing, I had him figured as an immature bully with an obsession with power and a short-tempered, with a disability of listening. However, I believe my initial judgements on him were entirely superficial, cherry-picked, and premature. I didn't like Cruz much better as I saw him divert and dance around questions with rhetoric absent of saying anything with substance at all. I don't think he would change very much in our country at all. Trump isn't playing the game, he's out to make America great again because he has a deep-seated love for the country.
 
-I'm a little surprised at you, pastor, thinking you know enough about his man's character by what the media feeds you without having ever met him. It's one thing to learn about a candidates policy stances, but I don't think public media is a clear enough lens to look that deeply into another man's soul to know what he's really like. Truth is I was terribly nervous about this man becoming president, but I feel my initial judgements on him were entirely superficial, cherry-picked, and premature. By his own admission he hasn't asked God for forgiveness.  If you haven't checked out
+I'm a little surprised at you, pastor, thinking you know enough about his man's character by what the media feeds you without having ever met him. It's one thing to learn about a candidates policy stances, but I don't think public media is a clear enough lens to look that deeply into another man's soul to know what he's really like. Truth is I was terribly nervous about this man becoming president, but I feel my initial judgements on him were entirely superficial, cherry-picked, and premature. By his own admission he hasn't asked God for forgiveness.  If you haven't checked out
 
 Not saying I would be excited if he were to be our republican candidate, I'm just tired of people subscribing to a notion of the man's image that may well be as distorted as the Muslim conception of God.
 

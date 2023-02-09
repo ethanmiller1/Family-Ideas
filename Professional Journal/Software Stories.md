@@ -109,14 +109,14 @@ DERP Presentation: [YouTube](https://youtu.be/kHf1uu_49NY?t=360)
 I posted a question on [Stackoverflow](https://stackoverflow.com/questions/69340250/restdatapanacheexception-failed-to-list-the-entities-when-table-is-empty) and one of the [developers](https://www.linkedin.com/in/georgios-andrianakis/) asked me to [open a bug](https://github.com/quarkusio/quarkus/issues/20424) in the Quarkus framework repository on Github.
 
 **Describe the bug** 
-Using `@RepositoryRestResource` throws an exception when the table is empty.
+Using `@RepositoryRestResource` throws an exception when the table is empty.
 
 **Expected behavior**  
-Call to `/tasks` should return an empty list of tasks, similar to this response with an empty list of countries.
+Call to `/tasks` should return an empty list of tasks, similar to this response with an empty list of countries.
 
 [![image](https://user-images.githubusercontent.com/55400451/134951841-f1f840c1-1ef3-43a8-93da-2848c2d44b0b.png)](https://user-images.githubusercontent.com/55400451/134951841-f1f840c1-1ef3-43a8-93da-2848c2d44b0b.png)
 **Actual behavior**
-Call to `/tasks` triggers a `RestDataPanacheException` caused by: `java.lang.IllegalArgumentException: Page index must be >= 0 : -1`.
+Call to `/tasks` triggers a `RestDataPanacheException` caused by: `java.lang.IllegalArgumentException: Page index must be >= 0 : -1`.
 
 ``` warn
 2021-09-27 11:54:18,683 WARN  [io.qua.spr.dat.res.run.RestDataPanacheExceptionMapper] (executor-thread-0) Mapping an unhandled RestDataPanacheException: io.quarkus.rest.data.panache.RestDataPanacheException: Failed to list the entities
@@ -127,15 +127,15 @@ Steps to reproduce the behavior:
 
 1.  `git clone https://github.com/ethanimproving/empty-list-defect.git`
 2.  Create a MySQL Database called "scratch" and start the application. Ensure there is NO data in the task table.
-3.  Send a GET request to `http://localhost:8080/tasks`
+3.  Send a GET request to `http://localhost:8080/tasks`
 
 **Additional context**
 
-The exception is handled in `quarkus-spring-data-rest`, so I suspect the issue is with that package.
+The exception is handled in `quarkus-spring-data-rest`, so I suspect the issue is with that package.
 
 [![image](https://user-images.githubusercontent.com/55400451/134952899-38d08a60-c5b7-4abe-a3d4-fb1152f09c04.png)](https://user-images.githubusercontent.com/55400451/134952899-38d08a60-c5b7-4abe-a3d4-fb1152f09c04.png)
 
-Somehow the `list()` method of the JPA implementation of my TaskRepository (`TaskRepositoryJaxRs_47e783e09fc1ec6dc860f6e2c7cfb85a720cc58d`) is calling the `io.quarkus.panache.common` Pagination with a negative index. When my table is empty, my page index is -1 instead of 0.
+Somehow the `list()` method of the JPA implementation of my TaskRepository (`TaskRepositoryJaxRs_47e783e09fc1ec6dc860f6e2c7cfb85a720cc58d`) is calling the `io.quarkus.panache.common` Pagination with a negative index. When my table is empty, my page index is -1 instead of 0.
 
 [![image](https://user-images.githubusercontent.com/55400451/134954454-f7f3ee52-2406-4178-bfd6-b8dfdd945cae.png)](https://user-images.githubusercontent.com/55400451/134954454-f7f3ee52-2406-4178-bfd6-b8dfdd945cae.png)
 The problem was that to offset the zero-based index they were summing the page index with negative one.
@@ -152,25 +152,25 @@ Math.max(Integer.sum(pageCount,-1), 0)
 
 ## x-hold - crash loopback in qa -- Cannot acquire connection from data source
 
-x-hold - crash loopback in qa  --  Cannot acquire connection from data sourcejava.sql.SQLRecoverableException
-ancillary-olay-ms  --  http://10.42.7.73:8080/health   Readiness probe failed   --   not in production
-advredesign-deadletter-ms  --  [http://10.42.7.73:8080/health](http://10.42.7.73:8080/health)   Readiness probe failed   --   not in production
+x-hold - crash loopback in qa  --  Cannot acquire connection from data sourcejava.sql.SQLRecoverableException
+ancillary-olay-ms  --  http://10.42.7.73:8080/health   Readiness probe failed   --   not in production
+advredesign-deadletter-ms  --  [http://10.42.7.73:8080/health](http://10.42.7.73:8080/health)   Readiness probe failed   --   not in production
 
-itkts - Invalid or corrupt jarfile /artifact.jar  --  because of powershell script that selected which jar  || SOLUTION: rebuild with task group changes
+itkts - Invalid or corrupt jarfile /artifact.jar  --  because of powershell script that selected which jar  || SOLUTION: rebuild with task group changes
 
-airextra-sws-ms  --  GOOD
-emdmanager-ms  --  GOOD
+airextra-sws-ms  --  GOOD
+emdmanager-ms  --  GOOD
 
 1.  Changed to actuator/health
 	-   BasePathAwareHandlerMapping - Did not find handler method for [/actuator/health]
-2.  Changed to port 8911
+2.  Changed to port 8911
 	-   Readiness probe failed: Get "http://10.42.7.76:8911/health": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
 3.  Increased memory / cpu
 4.  Increase delay period
 5.  Download logs
 	1.  Looking for request mappings in application context
-	2.  EndpointHandlerMapping -  Mapped "{[/mappings || /mappings.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}"
-	3.  EndpointHandlerMapping -  Mapped "{[/health || /health.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}"
+	2.  EndpointHandlerMapping -  Mapped "{[/mappings || /mappings.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}"
+	3.  EndpointHandlerMapping -  Mapped "{[/health || /health.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}"
 	4.  request handler methods found on class
 6.  to allow for resolving potential circular references
 
@@ -182,16 +182,16 @@ At my first consulting job with a company called improving, my boss called me in
 
 I was looking through our production logs one time, and I noticed that while we were masking PCI info in our APIs, any downstream service calls that used Sabre Web Services were showing PCI logs plain and clear. So I pinged our architect and said, "We're going to get hammered in our next PCI Audit if we don't fix this." Next day I presented the findings in a weekly meeting we have called Dev Forum and created an action plan. We created a library called [log4j2ext](https://dummyurl.com/AmericanAirlines/TicketingAndReceipts/_git/log4j2ext) that had a PCI masker, using the [Luhn Algorithm](https://www.geeksforgeeks.org/luhn-algorithm/) to mask Credit Card data intercepted by all of our logging.
 
-The way that it works is any time we produce a log using Log4J, there's an **MDC context** (*Mapped Diagnostic Context*) per thread where we keep data about that transaction, like the TransactionId, the RecordLocator, ClientId, etc. These values are then picked up by our structured [logging pattern](https://dummyurl.com/AmericanAirlines/TicketingAndReceipts/_git/AOLMS?path=%2Fsrc%2Fmain%2Fresources%2Flog4j2.xml), the last of which is simply the log message, which simply has the logging key `%pci`.
+The way that it works is any time we produce a log using Log4J, there's an **MDC context** (*Mapped Diagnostic Context*) per thread where we keep data about that transaction, like the TransactionId, the RecordLocator, ClientId, etc. These values are then picked up by our structured [logging pattern](https://dummyurl.com/AmericanAirlines/TicketingAndReceipts/_git/AOLMS?path=%2Fsrc%2Fmain%2Fresources%2Flog4j2.xml), the last of which is simply the log message, which simply has the logging key `%pci`.
 
 ``` xml
 <properties>
-	<!-- 
-	  The "%cc" pattern converter is used to mask credit card numbers in log messages.
-	  This converter is defined in the eTDS log4j2ext.jar library
+	<!-- 
+	  The "%cc" pattern converter is used to mask credit card numbers in log messages.
+	  This converter is defined in the eTDS log4j2ext.jar library
 	-->
-	<property name="pattern">%d{ISO8601} %7sn %level{length=5} %.36X{ItktTranId} %.36X{ClientTranId} %X{INSTN} %X{CNTX} (%X{PNR}) (%K{response_status}) (%K{response_time}) (%K{called_service_name}) %c{1} -  %replace{%pci}{[\r\n]}{\u2028}%replace{%ex}{[\r\n]}{\u2028}%n</property>
-	<property name="formatMsgNoLookups">true</property>
+	<property name="pattern">%d{ISO8601} %7sn %level{length=5} %.36X{ItktTranId} %.36X{ClientTranId} %X{INSTN} %X{CNTX} (%X{PNR}) (%K{response_status}) (%K{response_time}) (%K{called_service_name}) %c{1} -  %replace{%pci}{[\r\n]}{\u2028}%replace{%ex}{[\r\n]}{\u2028}%n</property>
+	<property name="formatMsgNoLookups">true</property>
 </properties>
 ```
 
@@ -251,69 +251,69 @@ The problem happened that in the output, we were writing these massive amounts o
 ``` json
 input
 {
-  tcp
-  {
-      port => 5044
-      type => syslog
-  }
-  udp
-  {
-      port => 5044
-      type => syslog
-  }
+  tcp
+  {
+      port => 5044
+      type => syslog
+  }
+  udp
+  {
+      port => 5044
+      type => syslog
+  }
 }
 filter
 {
-  if [type] == "syslog"
-    {
-      grok
-      {
-        match     =>
-        {
-          "message" => "(?<cf_logid>\\d{3}) <(?<cf_pri>[0-9]{1,5})\\>1 (?<cf_time>[^
-          ]+) (?<cf_host>[^ ]+) (?<cf_msgid>[^ ]+) (?<cf_procid>[^ ]+) - - %{TIMESTAMP_ISO8601:app_timestamp}
-          (?<cf_offset>[\\d\\s]{1,99}) %{DATA:app_loglevel} %{DATA:app_tranid} %{DATA:app_client_tranid}
-          %{DATA:app_servername} %{DATA:app_version} \\(%{DATA:app_recordLoc}\\)(\\s+\\(%{DATA:response_status}\\))?(\\s+\\(%{DATA:response_time}\\))?(\\s+\\(%{DATA:called_service_name}\\))?
-          %{DATA:app_className} - %{GREEDYDATA:app_message}"
-        }
-      }
-      mutate
-      {        
-        convert => { "app_message" => "string"  }
-        gsub    =>
-        [
-              "message",     'u2028', "\n",
-              "app_message", 'u2028', "\n"
-        ]
-        add_field =>
-        {  
-              "app_env" => "$(namespace)"
-        }
-      }
+  if [type] == "syslog"
+    {
+      grok
+      {
+        match     =>
+        {
+          "message" => "(?<cf_logid>\\d{3}) <(?<cf_pri>[0-9]{1,5})\\>1 (?<cf_time>[^
+          ]+) (?<cf_host>[^ ]+) (?<cf_msgid>[^ ]+) (?<cf_procid>[^ ]+) - - %{TIMESTAMP_ISO8601:app_timestamp}
+          (?<cf_offset>[\\d\\s]{1,99}) %{DATA:app_loglevel} %{DATA:app_tranid} %{DATA:app_client_tranid}
+          %{DATA:app_servername} %{DATA:app_version} \\(%{DATA:app_recordLoc}\\)(\\s+\\(%{DATA:response_status}\\))?(\\s+\\(%{DATA:response_time}\\))?(\\s+\\(%{DATA:called_service_name}\\))?
+          %{DATA:app_className} - %{GREEDYDATA:app_message}"
+        }
+      }
+      mutate
+      {        
+        convert => { "app_message" => "string"  }
+        gsub    =>
+        [
+              "message",     'u2028', "\n",
+              "app_message", 'u2028', "\n"
+        ]
+        add_field =>
+        {  
+              "app_env" => "$(namespace)"
+        }
+      }
 
-    }
-    if ("ProductFulfillmentResponse" in [app_message])
-    {
-        # Status mapping
-    }
+    }
+    if ("ProductFulfillmentResponse" in [app_message])
+    {
+        # Status mapping
+    }
 }
 
 output
-{  
-  stdout { codec => rubydebug }
-  http
-  {
-    url => "${EVENTHUB_URL}"
-    content_type => "application/json"
+{  
+  stdout { codec => rubydebug }
+  http
+  {
+    url => "${EVENTHUB_URL}"
+    content_type => "application/json"
 
-    http_method => "post"
-    format => "json"
-    headers => {"Host"
-            => "${EVENTHUB_HOST}"
-            "Authorization" => "${SAS_TOKEN}"}
-    proxy
-    => "pzen.zsproxy.aa.com:9400"
-  }
+    http_method => "post"
+    format => "json"
+    headers => {"Host"
+            => "${EVENTHUB_HOST}"
+            "Authorization" => "${SAS_TOKEN}"}
+    proxy
+    => "pzen.zsproxy.aa.com:9400"
+  }
 }
 ```
 
@@ -327,47 +327,47 @@ Ultimately we decided since iTKTS was a legacy app, and it was some third party 
 
 ``` java
 @Component
-public class MemoryCheck implements HealthIndicator
+public class MemoryCheck implements HealthIndicator
 {
 
 /**
-* If the memory is low and the JVM needs to be restarted
-* the following can be done:
+* If the memory is low and the JVM needs to be restarted
+* the following can be done:
 *
-* ( ( ConfigurableApplicationContext ) springContext ).close();
+* ( ( ConfigurableApplicationContext ) springContext ).close();
 *
-* For more information, see: https://docs.oracle.com/javase/8/docs/api/java/lang/management/MemoryUsage.html
+* For more information, see: https://docs.oracle.com/javase/8/docs/api/java/lang/management/MemoryUsage.html
 */
-private void checkGCStatsAndShutdownIfNeeded()
+private void checkGCStatsAndShutdownIfNeeded()
 {
-  for( MemoryPoolMXBean mem : ManagementFactory.getMemoryPoolMXBeans() ) 
+  for( MemoryPoolMXBean mem : ManagementFactory.getMemoryPoolMXBeans() ) 
   {
-	 if( "G1 Old Gen".equals( mem.getName() ) )
+	 if( "G1 Old Gen".equals( mem.getName() ) )
 	 {
-		MemoryUsage usage = mem.getCollectionUsage();
+		MemoryUsage usage = mem.getCollectionUsage();
 
-		// if last isn't the same as current, that means that a GC
-		// event had occurred since our last check, so check mem 
-		if( lastUsed != usage.getUsed() )
+		// if last isn't the same as current, that means that a GC
+		// event had occurred since our last check, so check mem 
+		if( lastUsed != usage.getUsed() )
 		{
-		   lastUsed = usage.getUsed();
-		   double ratio = ( double ) usage.getUsed() / ( double ) usage.getCommitted();
+		   lastUsed = usage.getUsed();
+		   double ratio = ( double ) usage.getUsed() / ( double ) usage.getCommitted();
 
-		   if( ratio >= properties.getMaxHeapThreshold() )
+		   if( ratio >= properties.getMaxHeapThreshold() )
 		   {
 			  count++;
 		   }
 		   else
 		   {
-			  count = 0;
+			  count = 0;
 		   }
 		   
-		   // if we see at least N consecutive GC's nearly maxed out, 
-		   // then we most likely have a memory leak
-		   if( count >= properties.getMaxHeapCountThreshold() )
+		   // if we see at least N consecutive GC's nearly maxed out, 
+		   // then we most likely have a memory leak
+		   if( count >= properties.getMaxHeapCountThreshold() )
 		   {
-			  logger.error( "JVM is in a memory leak scenario. Will shutdown now." );
-			  status = Health.down();
+			  logger.error( "JVM is in a memory leak scenario. Will shutdown now." );
+			  status = Health.down();
 		   }
 		}
 	 }
@@ -378,24 +378,24 @@ private void checkGCStatsAndShutdownIfNeeded()
 [OldGenerationMonitor.java](https://dummyurl.com/AmericanAirlines/TicketingAndReceipts/_git/iTKTSCloud/commit/7dff330f67fb69081137adfbd91a9b15954cbcdd?refName=refs/heads/master&path=/src/main/java/com/aa/etds/itkts/monitors/memory/OldGenerationMonitor.java)
 ``` java
 @Component
-public class OldGenerationMonitor implements ApplicationContextAware
+public class OldGenerationMonitor implements ApplicationContextAware
 {
 
-@Scheduled( fixedRate = 10000 )
-public void checkOldGenerationHeap()
+@Scheduled( fixedRate = 10000 )
+public void checkOldGenerationHeap()
 {
-  LoggingContextValues.updateMDC( getApplicationIndex(),
-                                      getApplicationId(),
-                                      "iTKTSMonitor",
-                                      properties.getVersionName() );
+  LoggingContextValues.updateMDC( getApplicationIndex(),
+                                      getApplicationId(),
+                                      "iTKTSMonitor",
+                                      properties.getVersionName() );
 
-      if( properties.getMonitorMemory() )
-      {
-         checkGCStatsAndShutdownIfNeeded();
-      }
+      if( properties.getMonitorMemory() )
+      {
+         checkGCStatsAndShutdownIfNeeded();
+      }
 
-      LoggingContextValues.clearMDC();
-   }
+      LoggingContextValues.clearMDC();
+   }
 ...
 
 ```
@@ -405,10 +405,10 @@ We did have an issue where the app was shutting down before Kuberenetes stopped 
 ## Incorrect Casing for Service Discovery
 -   orderGroupResponse was invalid - this is a fake orderItemResponse 422
 -   [DETTBP](https://dummydataexplorer.azure.com/clusters/private-orionadxp.eastus/databases/p-ticket-tktrcpts-applogs-adxdb?query=H4sIAAAAAAAAA12NPQvCMBCG9/6Ko1MKhYJ7HUQ3FdHu4ZocMdo24S4ogj/eIFXB9Xnejx71EJxofxUdOdiiaeAJ9zMxgU5+JEk4RlgCuqAWtiq+kskEtttgMAWGtoVyvem61aHMkSyIoX9ACpLYT07piCxkj+9SBSgmx/LhhUyCnMkr6vdXQwmgyho0xrjHkTKoZmJwGMieiG/e0J9jkhgmoc5/8LyxIxF0VL0ApT4lfO8AAAA=)
--   SessionManager.designatePrinter: HttpClientErrorException$NotFound: 404
--   applicationn.yaml: sessionManager: `http://sessionManager-ms/api/v1`
+-   SessionManager.designatePrinter: HttpClientErrorException$NotFound: 404
+-   applicationn.yaml: sessionManager: `http://sessionManager-ms/api/v1`
 ![[Pasted image 20221024161400.png]]
--   IKS: `sessionmanager-ms`
+-   IKS: `sessionmanager-ms`
 ![[Pasted image 20221024161512.png]]
 -   Every single call to session manager in AOL is failing.
 -   Solution: use lowercase in service discover.
@@ -512,11 +512,11 @@ Load Runner, Performance Center, and Dynatrace:
 
 Visit this [video](https://spteam.aa.com/sites/ITS/eTDS/Edge%20Documents/Videos/Load%20Runner%20VuScript,%20Performance%20Center%20Test,%20Dynatrace%20JVM%20Metrics,%20Buil%20Pipeline%20Java%20Args%20(15-10-2020).mp4 "https://spteam.aa.com/sites/its/etds/edge%20documents/videos/load%20runner%20vuscript,%20performance%20center%20test,%20dynatrace%20jvm%20metrics,%20buil%20pipeline%20java%20args%20(15-10-2020).mp4") for a detailed walk-through of the steps in this Wiki Page.
 
-0:00 - 26:23  -  Load Runner VuScript
-26:23 - 36:46  -  Performance Center Test
-44:47 - 49:48  -  Dynatrace Navigation
-*49:49 - 59:17  -  Dynatrace JVM Metrics
-59:18 - 1:10:42  -  Build Pipeline Java Args / Docker Container / Dynatrace JVM Metrics
+0:00 - 26:23  -  Load Runner VuScript
+26:23 - 36:46  -  Performance Center Test
+44:47 - 49:48  -  Dynatrace Navigation
+*49:49 - 59:17  -  Dynatrace JVM Metrics
+59:18 - 1:10:42  -  Build Pipeline Java Args / Docker Container / Dynatrace JVM Metrics
 
 For Carol: [Gathering Load Testing Results](https://mysite.aa.com/personal/242924_corpaa_aa_com/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly9teXNpdGUuYWEuY29tLzp2Oi9nL3BlcnNvbmFsLzI0MjkyNF9jb3JwYWFfYWFfY29tL0VmdnktSFRpSzB4T29uN3FrbEdBcVNNQk5tRU92Wmo2eXdDN3BwNndFWGZEY0E%5FcnRpbWU9TnN5Z2Q4RnkyRWc&id=%2Fpersonal%2F242924%5Fcorpaa%5Faa%5Fcom%2FDocuments%2FVideos%2FTutorials%2FLoad%20Testing%20Results%20with%20Carol%20%2812%2D01%2D2021%29%2Emp4&parent=%2Fpersonal%2F242924%5Fcorpaa%5Faa%5Fcom%2FDocuments%2FVideos%2FTutorials "https://mysite.aa.com/personal/242924_corpaa_aa_com/_layouts/15/onedrive.aspx?originalpath=ahr0chm6ly9texnpdguuyweuy29tlzp2oi9nl3blcnnvbmfslzi0mjkynf9jb3jwywffywffy29tl0vmdnktsfrpszb4t29un3frbedbcvnnqk5tru92wmo2exddn3bwnndfwgzey0e%5fcnrpbwu9tnn5z2q4rnkyrwc&id=%2fpersonal%2f242924%5fcorpaa%5faa%5fcom%2fdocuments%2fvideos%2ftutorials%2fload%20testing%20results%20with%20carol%20%2812%2d01%2d2021%29%2emp4&parent=%2fpersonal%2f242924%5fcorpaa%5faa%5fcom%2fdocuments%2fvideos%2ftutorials")
 
@@ -526,7 +526,7 @@ Watch this **[video](https://mysite.aa.com/personal/242924_corpaa_aa_com/_layout
 
 Updates since recording:
 -   Add Thinktime based on response times observed in logs.
--   If name `matches .*` instead of `contains _`
+-   If name `matches .*` instead of `contains _`
 
 ![](https://eastus1-mediap.svc.ms/transform/thumbnail?provider=spo&inputFormat=png&cs=MWZlYzhlNzgtYmNlNC00YWFmLWFiMWItNTQ1MWNjMzg3MjY0fFNQTw&docid=https%3A%2F%2Fspteam%2Eaa%2Ecom%2F%5Fapi%2Fv2%2E0%2Fdrives%2Fb%21sw%2D5%5FTAK20qY%5FaZ9KrcRwfvH8%5FnWTftLiaGlHe1wx2c9q79BzuqIRrLREqmTudy8%2Fitems%2F01I5WIN4LRUBHIXIKA4VD2UMNTIA6KI3VQ%3Ftempauth%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0%2EeyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvc3B0ZWFtLmFhLmNvbUA0OTc5M2ZhZi1lYjNmLTRkOTktYTBjZi1hZWY3Y2NlNzlkYzEiLCJpc3MiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAiLCJuYmYiOiIxNjY2NjU2MDAwIiwiZXhwIjoiMTY2NjY3NzYwMCIsImVuZHBvaW50dXJsIjoiUzdMYlBiWFBWbGNTWkZYWGVGQytOaXdsbFREVHhaKzNMR1VtT3hYWG5qZz0iLCJlbmRwb2ludHVybExlbmd0aCI6IjE0NiIsImlzbG9vcGJhY2siOiJUcnVlIiwidmVyIjoiaGFzaGVkcHJvb2Z0b2tlbiIsInNpdGVpZCI6IlptUmlPVEJtWWpNdE1HRXpNQzAwWVdSaUxUazRabVF0WVRZM1pESmhZamN4TVdNeCIsImFwcF9kaXNwbGF5bmFtZSI6Ik1pY3Jvc29mdCBUZWFtcyIsImdpdmVuX25hbWUiOiJFdGhhbiIsImZhbWlseV9uYW1lIjoiTWlsbGVyIiwiYXBwaWQiOiIxZmVjOGU3OC1iY2U0LTRhYWYtYWIxYi01NDUxY2MzODcyNjQiLCJ0aWQiOiI0OTc5M2ZhZi1lYjNmLTRkOTktYTBjZi1hZWY3Y2NlNzlkYzEiLCJ1cG4iOiIyNDI5MjRAY29ycGFhLmFhLmNvbSIsInB1aWQiOiIxMDAzMjAwMDk0M0VFOUQ2IiwiY2FjaGVrZXkiOiIwaC5mfG1lbWJlcnNoaXB8MTAwMzIwMDA5NDNlZTlkNkBsaXZlLmNvbSIsInNjcCI6Im15ZmlsZXMud3JpdGUgYWxsc2l0ZXMuZnVsbGNvbnRyb2wgYWxsc2l0ZXMubWFuYWdlIGFsbHByb2ZpbGVzLndyaXRlIiwidHQiOiIyIiwidXNlUGVyc2lzdGVudENvb2tpZSI6bnVsbCwiaXBhZGRyIjoiNzYuMjUzLjE2My4yNCJ9%2EMWN6ZFBuWFcyWnJIUmpjZ0tRVWVFK2pJeTNEQ1ozVVU4cUJKY3pjYkpVcz0%26version%3DPublished&width=800&height=800&cb=63745996671)
 
@@ -535,9 +535,9 @@ Updates since recording:
 5 Steps in updating VuScript:
 1.  Update endpoint in `Runtime Settings` > `Additional Attributes`
 2.  Update Resource Path in `ETDs_API`
-3.  Replace Request Playloads in Extra Files (`F2` to rename)
-4.  Update All references to old Payloads ( `Ctrl+H` > `Elevate Scope to Current Script`)
-5.  Update transaction IDs in `ETDS API` step to match requests
+3.  Replace Request Playloads in Extra Files (`F2` to rename)
+4.  Update All references to old Payloads ( `Ctrl+H` > `Elevate Scope to Current Script`)
+5.  Update transaction IDs in `ETDS API` step to match requests
 
 
 Testing:
@@ -557,10 +557,10 @@ Export:
 3.  Select scripts
 4.  Edit command line > Add `-cancel_security_mode` > Add to all scripts in test (doesn't matter if only one script)
 > 	Error: CCI security error:You are running under secure mode and the function lr_param_sprintf is not allowed in this mode.
-5.  `Properties` > Start all Vusers gradually 3 every 2 minutes > Run for 8 hours > Stop 3 every 30 seconds
+5.  `Properties` > Start all Vusers gradually 3 every 2 minutes > Run for 8 hours > Stop 3 every 30 seconds
 6.  Select Load Generator > PHX
     -   Custom LG selector: `LG Management` > `Automatch` > `LG1` > Location: `PHX`
-7.  Save and Run > 10 hours 30 minutes > 2 hours
+7.  Save and Run > 10 hours 30 minutes > 2 hours
 
 Transactions:
 
@@ -577,14 +577,14 @@ Add `-cancel_security_mode` to script
 
 Set Load Generator to select from PHX.
 
-> ETDs_API.c(29): Continuing after Error -26611: HTTP Status-Code=501 (Not Implemented) for "[http://load-airextra-sws-ms.ticketing-non-prod-clus-cf493f47c69a8f9ee98e3c77c3874da6-0000.us-south.containers.appdomain.cloud/api/v1/createAirExtra"](http://load-airextra-sws-ms.ticketing-non-prod-clus-cf493f47c69a8f9ee98e3c77c3874da6-0000.us-south.containers.appdomain.cloud/api/v1/createAirExtra%22 "http://load-airextra-sws-ms.ticketing-non-prod-clus-cf493f47c69a8f9ee98e3c77c3874da6-0000.us-south.containers.appdomain.cloud/api/v1/createairextra%22") [MsgId: MERR-26611] [Time:2021-01-25 09:57:23]
+> ETDs_API.c(29): Continuing after Error -26611: HTTP Status-Code=501 (Not Implemented) for "[http://load-airextra-sws-ms.ticketing-non-prod-clus-cf493f47c69a8f9ee98e3c77c3874da6-0000.us-south.containers.appdomain.cloud/api/v1/createAirExtra"](http://load-airextra-sws-ms.ticketing-non-prod-clus-cf493f47c69a8f9ee98e3c77c3874da6-0000.us-south.containers.appdomain.cloud/api/v1/createAirExtra%22 "http://load-airextra-sws-ms.ticketing-non-prod-clus-cf493f47c69a8f9ee98e3c77c3874da6-0000.us-south.containers.appdomain.cloud/api/v1/createairextra%22") [MsgId: MERR-26611] [Time:2021-01-25 09:57:23]
 
-Ensure capacity for Virtualized Services in DevTest is set higher than the load it's receiving
+Ensure capacity for Virtualized Services in DevTest is set higher than the load it's receiving
 ![[5357c81d-70f9-43cd-8caa-be9491068044.png]]
 
-> ETDs_API.c(31): Continuing after Error -26631: HTTP Status-Code=400 (Bad Request) for "http://load-emdmanager-ms.ticketing-non-prod-clus-cf493f47c69a8f9ee98e3c77c3874da6-0000.us-south.containers.appdomain.cloud/api/v1/exchange"   [MsgId: MERR-26631] [Time:2021-01-28 17:35:37]
+> ETDs_API.c(31): Continuing after Error -26631: HTTP Status-Code=400 (Bad Request) for "http://load-emdmanager-ms.ticketing-non-prod-clus-cf493f47c69a8f9ee98e3c77c3874da6-0000.us-south.containers.appdomain.cloud/api/v1/exchange"   [MsgId: MERR-26631] [Time:2021-01-28 17:35:37]
 
-Replace `¥` characters with `#` in the VU Script payloads.
+Replace `¥` characters with `#` in the VU Script payloads.
 
 Other failures:
 1.  Ensure Sabre calls are using virtualized end points (may need ClientFactory circumvention in code)
@@ -597,7 +597,7 @@ Navigation:
 -   Management zone: `TaR_Load`
 -   Timeframe Selector: match timestamps of test in performance center (or last 30 minute for real-time)
 -   Verify virtualization delays: `Controller` > `View service flow` > `view Pure Paths` > click one
--   JVM metrics: `Controller` > `Services` > `Spring boot application` > `JVM mtrics`
+-   JVM metrics: `Controller` > `Services` > `Spring boot application` > `JVM mtrics`
 -   2 Services > Application > Apache > SpringBoot
 
 Crucial information:
@@ -607,19 +607,19 @@ Crucial information:
 
 #### Service Page
 
-Select `Transactions and Services` and search by service name, then select your `Controller`.
+Select `Transactions and Services` and search by service name, then select your `Controller`.
 
 #### Pure Paths
 
-From the Service page, select `View service flow` > `View PurePaths`
+From the Service page, select `View service flow` > `View PurePaths`
 
 #### Process Page
 
-From the Service page select `Apache Tomcat` > `SpringBoot service-name...`
+From the Service page select `Apache Tomcat` > `SpringBoot service-name...`
 
 #### Container Page
 
-From the `Process page`, select the linked `Kubernetes cluster` > `View containers` > sort by `CPU` > select your container
+From the `Process page`, select the linked `Kubernetes cluster` > `View containers` > sort by `CPU` > select your container
   
 
 ![](https://eastus1-mediap.svc.ms/transform/thumbnail?provider=spo&inputFormat=png&cs=MWZlYzhlNzgtYmNlNC00YWFmLWFiMWItNTQ1MWNjMzg3MjY0fFNQTw&docid=https%3A%2F%2Fspteam%2Eaa%2Ecom%2F%5Fapi%2Fv2%2E0%2Fdrives%2Fb%21sw%2D5%5FTAK20qY%5FaZ9KrcRwfvH8%5FnWTftLiaGlHe1wx2c9q79BzuqIRrLREqmTudy8%2Fitems%2F01I5WIN4LWG547QALWC5BJCZWK33BJ2QOQ%3Ftempauth%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0%2EeyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvc3B0ZWFtLmFhLmNvbUA0OTc5M2ZhZi1lYjNmLTRkOTktYTBjZi1hZWY3Y2NlNzlkYzEiLCJpc3MiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAiLCJuYmYiOiIxNjY2NjU2MDAwIiwiZXhwIjoiMTY2NjY3NzYwMCIsImVuZHBvaW50dXJsIjoieUJ1cFBNNGpDRDBPNGtxWnJtNWZualpVWHJ4RjA4Y1U4ZXdEZ0FNbmt5RT0iLCJlbmRwb2ludHVybExlbmd0aCI6IjE0NiIsImlzbG9vcGJhY2siOiJUcnVlIiwidmVyIjoiaGFzaGVkcHJvb2Z0b2tlbiIsInNpdGVpZCI6IlptUmlPVEJtWWpNdE1HRXpNQzAwWVdSaUxUazRabVF0WVRZM1pESmhZamN4TVdNeCIsImFwcF9kaXNwbGF5bmFtZSI6Ik1pY3Jvc29mdCBUZWFtcyIsImdpdmVuX25hbWUiOiJFdGhhbiIsImZhbWlseV9uYW1lIjoiTWlsbGVyIiwiYXBwaWQiOiIxZmVjOGU3OC1iY2U0LTRhYWYtYWIxYi01NDUxY2MzODcyNjQiLCJ0aWQiOiI0OTc5M2ZhZi1lYjNmLTRkOTktYTBjZi1hZWY3Y2NlNzlkYzEiLCJ1cG4iOiIyNDI5MjRAY29ycGFhLmFhLmNvbSIsInB1aWQiOiIxMDAzMjAwMDk0M0VFOUQ2IiwiY2FjaGVrZXkiOiIwaC5mfG1lbWJlcnNoaXB8MTAwMzIwMDA5NDNlZTlkNkBsaXZlLmNvbSIsInNjcCI6Im15ZmlsZXMud3JpdGUgYWxsc2l0ZXMuZnVsbGNvbnRyb2wgYWxsc2l0ZXMubWFuYWdlIGFsbHByb2ZpbGVzLndyaXRlIiwidHQiOiIyIiwidXNlUGVyc2lzdGVudENvb2tpZSI6bnVsbCwiaXBhZGRyIjoiNzYuMjUzLjE2My4yNCJ9%2EKzZjc3h6ZEJjU0R2a0p3UTJvUlIvMlJTRVZ5dGJwZDVNZXd2cEJ6cU5QQT0%26version%3DPublished&width=800&height=800&cb=63738990466)
@@ -648,12 +648,12 @@ _Threads_:
 Example of [Full Garbage Collection (FGC) cycles](https://apm.aa.com/e/cff28573-f815-4847-935f-ba99fd7e336f/#processdetails;id=PROCESS_GROUP_INSTANCE-E8B7F01BA802302E;gtf=2020-10-13T09:14:00-05:00%20to%202020-10-13T17:30:00-05:00;gf=-8112610223964939191 "https://apm.aa.com/e/cff28573-f815-4847-935f-ba99fd7e336f/#processdetails;id=process_group_instance-e8b7f01ba802302e;gtf=2020-10-13t09:14:00-05:00%20to%202020-10-13t17:30:00-05:00;gf=-8112610223964939191").
 ![[337cde8e-af73-43f6-b05e-6a0ccafb22c9.png]]
 ```
-A Full GC will be triggered whenever the heap fills up. In such a case the
-young generation is collected first followed by the old generation. If the
-old generation is too full to accept the content of the young generation,
-the young generation GC is omitted and the old generation GC is used to
-collect the full heap, either in parallel or serial. Either way the whole
-heap is collected with a stop-the-world event.
+A Full GC will be triggered whenever the heap fills up. In such a case the
+young generation is collected first followed by the old generation. If the
+old generation is too full to accept the content of the young generation,
+the young generation GC is omitted and the old generation GC is used to
+collect the full heap, either in parallel or serial. Either way the whole
+heap is collected with a stop-the-world event.
 ```
 
 Stack and Heap: Stack is Last In, First Out (Like plates) for method calls.
@@ -672,7 +672,7 @@ References:
 
 Breakpoints:
 -   If response time is too slow (due to high suspension ~5%).
--   If memory kill causes an application restart
+-   If memory kill causes an application restart
 -   If any problems
 
 #### Example of [Memory Kill](https://apm.aa.com/e/cff28573-f815-4847-935f-ba99fd7e336f/#customdevicegroupdetails/entity;id=CONTAINER_GROUP_INSTANCE-1F818407470F2B00;gtf=2020-10-22T00:00:00-05:00%20to%202020-10-22T01:00:00-05:00;gf=-8112610223964939191 "https://apm.aa.com/e/cff28573-f815-4847-935f-ba99fd7e336f/#customdevicegroupdetails/entity;id=container_group_instance-1f818407470f2b00;gtf=2020-10-22t00:00:00-05:00%20to%202020-10-22t01:00:00-05:00;gf=-8112610223964939191").
@@ -683,7 +683,7 @@ Solution: decrease max memory heap in Java args (-Xmx).
 ![[ab2dc409-b692-46af-a1d8-dc788c67e221.png]]
 ![[fa62db7a-ebd6-4932-9f2b-11347fcbbec7.png]]
 
-Solution: increase max memory heap in Java args (-Xmx) or simply reduce load.
+Solution: increase max memory heap in Java args (-Xmx) or simply reduce load.
 
 #### Example of [High Garbage Collection time per thread](https://apm.aa.com/e/cff28573-f815-4847-935f-ba99fd7e336f/#processdetails;id=PROCESS_GROUP_INSTANCE-36FE36710A7D4AF6;gtf=2020-10-22T10:00:00-05:00%20to%202020-10-22T11:28:00-05:00;gf=-8112610223964939191 "https://apm.aa.com/e/cff28573-f815-4847-935f-ba99fd7e336f/#processdetails;id=process_group_instance-36fe36710a7d4af6;gtf=2020-10-22t10:00:00-05:00%20to%202020-10-22t11:28:00-05:00;gf=-8112610223964939191").
 
@@ -695,11 +695,11 @@ Solution: reduce number of objects being created per thread in your code.
 
 ![[353a747d-1fa0-4438-8916-52ff26468344.png]]
 From Performance Center Results:
-1.  Click `+ Add` by `Merged Graphs`.
+1.  Click `+ Add` by `Merged Graphs`.
 2.  Add `Running Vusers`
 3.  Add `HTTP Responses per Second`
     1.  Or add `Trans/Sec (Passed)`
-    2.  And `Trans/Sec (Failed)`
+    2.  And `Trans/Sec (Failed)`
 4.  Select `Show only me`, `Show`, and `Show` respectively.
 
 ![[52001e00-1dfe-497c-b888-67ea10da29c7.png]]
@@ -708,8 +708,8 @@ From Performance Center Results:
 ### Java Profiling
 
 Installation:
-1.  Download [YourKit](https://www.yourkit.com/java/profiler/download/ "https://www.yourkit.com/java/profiler/download/") profiler
-2.  Use the license key **YLEGZC5JKBJXLHAJ9D0R0** to activate.  
+1.  Download [YourKit](https://www.yourkit.com/java/profiler/download/ "https://www.yourkit.com/java/profiler/download/") profiler
+2.  Use the license key **YLEGZC5JKBJXLHAJ9D0R0** to activate.  
 
 Use:
 1.  Run local Tomcat.
@@ -718,13 +718,13 @@ Use:
 
 ![](https://eastus1-mediap.svc.ms/transform/thumbnail?provider=spo&inputFormat=png&cs=MWZlYzhlNzgtYmNlNC00YWFmLWFiMWItNTQ1MWNjMzg3MjY0fFNQTw&docid=https%3A%2F%2Fspteam%2Eaa%2Ecom%2F%5Fapi%2Fv2%2E0%2Fdrives%2Fb%21sw%2D5%5FTAK20qY%5FaZ9KrcRwfvH8%5FnWTftLiaGlHe1wx2c9q79BzuqIRrLREqmTudy8%2Fitems%2F01I5WIN4IF4V2S7VJJ7RFJAHLZZE5RW32K%3Ftempauth%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0%2EeyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvc3B0ZWFtLmFhLmNvbUA0OTc5M2ZhZi1lYjNmLTRkOTktYTBjZi1hZWY3Y2NlNzlkYzEiLCJpc3MiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAiLCJuYmYiOiIxNjY2NjU2MDAwIiwiZXhwIjoiMTY2NjY3NzYwMCIsImVuZHBvaW50dXJsIjoiajNHT3pHMnIrZjdpckp2Z3A2ZnVyb1ZGOUdpL3p0SURaL2txSnNTbzk4Zz0iLCJlbmRwb2ludHVybExlbmd0aCI6IjE0NiIsImlzbG9vcGJhY2siOiJUcnVlIiwidmVyIjoiaGFzaGVkcHJvb2Z0b2tlbiIsInNpdGVpZCI6IlptUmlPVEJtWWpNdE1HRXpNQzAwWVdSaUxUazRabVF0WVRZM1pESmhZamN4TVdNeCIsImFwcF9kaXNwbGF5bmFtZSI6Ik1pY3Jvc29mdCBUZWFtcyIsImdpdmVuX25hbWUiOiJFdGhhbiIsImZhbWlseV9uYW1lIjoiTWlsbGVyIiwiYXBwaWQiOiIxZmVjOGU3OC1iY2U0LTRhYWYtYWIxYi01NDUxY2MzODcyNjQiLCJ0aWQiOiI0OTc5M2ZhZi1lYjNmLTRkOTktYTBjZi1hZWY3Y2NlNzlkYzEiLCJ1cG4iOiIyNDI5MjRAY29ycGFhLmFhLmNvbSIsInB1aWQiOiIxMDAzMjAwMDk0M0VFOUQ2IiwiY2FjaGVrZXkiOiIwaC5mfG1lbWJlcnNoaXB8MTAwMzIwMDA5NDNlZTlkNkBsaXZlLmNvbSIsInNjcCI6Im15ZmlsZXMud3JpdGUgYWxsc2l0ZXMuZnVsbGNvbnRyb2wgYWxsc2l0ZXMubWFuYWdlIGFsbHByb2ZpbGVzLndyaXRlIiwidHQiOiIyIiwidXNlUGVyc2lzdGVudENvb2tpZSI6bnVsbCwiaXBhZGRyIjoiNzYuMjUzLjE2My4yNCJ9%2ELzNrN3lMcEMzQnhHbURvaEd3MXZNNWUwQnlqWHppQVFpRnJFL3ZweU1PVT0%26version%3DPublished&width=800&height=800&cb=63738911607) 
 
-Information on getting started and how use the profiler for local and remote profiling: [YourKit Java Profiler Help](https://www.yourkit.com/docs/java/help/ "https://www.yourkit.com/docs/java/help/")
-Additional Demos and knowledge base: [Docs Demos Knowledge Base](https://www.yourkit.com/docs/ "https://www.yourkit.com/docs/")
+Information on getting started and how use the profiler for local and remote profiling: [YourKit Java Profiler Help](https://www.yourkit.com/docs/java/help/ "https://www.yourkit.com/docs/java/help/")
+Additional Demos and knowledge base: [Docs Demos Knowledge Base](https://www.yourkit.com/docs/ "https://www.yourkit.com/docs/")
   
 Please feel free to reach out to us via Cherwell ticket for any licensing and installation issues, or if you need help with the profiler or troubleshooting issues.
 
 #### **Java Profiling with VisualVM**
-Download [VisualVM Launcher](https://plugins.jetbrains.com/plugin/7115-visualvm-launcher "https://plugins.jetbrains.com/plugin/7115-visualvm-launcher") for IntelliJ, the add the path to `%JAVA_HOME%/bin` and press `j` to find `jvisualvm.exe`.
+Download [VisualVM Launcher](https://plugins.jetbrains.com/plugin/7115-visualvm-launcher "https://plugins.jetbrains.com/plugin/7115-visualvm-launcher") for IntelliJ, the add the path to `%JAVA_HOME%/bin` and press `j` to find `jvisualvm.exe`.
 
 ### Common Errors
 High resource usage with no performance when autoscaling new pods
@@ -739,20 +739,20 @@ Watch this **[video](https://mysite.aa.com/personal/242924_corpaa_aa_com/_layout
 
 ## Cucumber
 
-Cucumber is a testing Framework written in Java that allows you to create English sentences that act as the **business requirements** for a feature and double as test **steps for automation**.
+Cucumber is a testing Framework written in Java that allows you to create English sentences that act as the **business requirements** for a feature and double as test **steps for automation**.
 
 * Reflect
 * Template Injection
 ![[Pasted image 20221024212012.png]]
 Whenever we are working on a User Story, we’re writing code that’s delivering some business feature, and so we want to record all of those business requirements somewhere so that after we’re finished, we have a giant document that outlines all of the expected behavior of AOL. Cucumber allows us to write out all those feature requirements with the business, and then those business sentences double at automated tests.
 
-- Gherkin is the language that cucumber understands, it is a business Readable, domain specific language that lets you describe software behavior without detailing its implementation.
+- Gherkin is the language that cucumber understands, it is a business Readable, domain specific language that lets you describe software behavior without detailing its implementation.
 	
-- Gherkin serves two purposes- Documentation and automated tests.
+- Gherkin serves two purposes- Documentation and automated tests.
 	
-- Glue code works as a bridge between spoken language into your application that you want to develop. In our case, it translates English into Java.
+- Glue code works as a bridge between spoken language into your application that you want to develop. In our case, it translates English into Java.
     
-- The feature is made up with scenarios and steps, and each step essentially maps to the step definition.
+- The feature is made up with scenarios and steps, and each step essentially maps to the step definition.
 	
 * It matches the Gherkin sentence with the string inside of this @When annotation and executes the Java code (Glue code) inside if the matching method.
 	
@@ -760,7 +760,7 @@ Whenever we are working on a User Story, we’re writing code that’s deliverin
 	
 * Output Parameters: The point here is that we want to make our step definitions as reusable as possible, so using parameters, if I want a PNR with 1P2S, or 2P1S, I can use the same test step for any PNR scenario I want. Ticketed, non-ticketed, etc. And that way we don’t have to write a brand-new step definition for every caveat and change. Cucumber can not only match a direct string, but a pattern using Regular Expressions or [Cucumber Expressions](https://github.com/cucumber/cucumber-expressions#readme). If I want to pass data into the step definition, I can do that using output parameters.
 	
-* Data Tables: Data Tables are handy for passing a list of values to a step definition. For cases when you want to pass more data to a step than fits on a single line.
+* Data Tables: Data Tables are handy for passing a list of values to a step definition. For cases when you want to pass more data to a step than fits on a single line.
 	
 
 Benefits of Cucumber:
@@ -987,14 +987,14 @@ private int findNearestNeighbor( int currentIndex,
 
 We recently had a deadline to move all of our Repos, Pipelines, Builds over from ADOS to ADOC, and the way we had our Kubernetes resources configured, we have this KubeTemplates repo with tokens that can be replaced by pipeline variables. So every single release pipeline had like 80 variables. A bunch of them are in variable groups, but it's a mess to carry those over.
 
-Brandon Benham has created a [Task Group](https://dummyurl.com/AmericanAirlines/TicketingAndReceipts/_taskgroup/36b73192-633f-4bb6-b7f2-0b3da716a886) in ADO  to include in your [Release Pipeline](https://dummyurl.com/AmericanAirlines/TicketingAndReceipts/_releaseDefinition?definitionId=295&_a=definition-tasks&environmentId=1950) that scans your repository for [Kubernetes yamls](https://dummyurl.com/AmericanAirlines/TicketingAndReceipts/_git/appriss-processor?path=%2Fsrc%2Fmain%2Fresources%2Fdeployment.yml) and applies them if they're present. There is also a [Task Group](https://dummyurl.com/AmericanAirlines/TicketingAndReceipts/_taskgroup/22e2f418-b745-48bc-8a66-21bea724d592) that pushed your Docker Images to packages.aa.com in your [Build Pipeline](https://dummyurl.com/AmericanAirlines/TicketingAndReceipts/_apps/hub/ms.vss-ciworkflow.build-ci-hub?_a=edit-build-definition&id=13636). We are wanting to stick our toes in the water and see if we like this approach, and maybe show it as a vision for the future. These are the advantages we are excited to try out:
+Brandon Benham has created a [Task Group](https://dummyurl.com/AmericanAirlines/TicketingAndReceipts/_taskgroup/36b73192-633f-4bb6-b7f2-0b3da716a886) in ADO  to include in your [Release Pipeline](https://dummyurl.com/AmericanAirlines/TicketingAndReceipts/_releaseDefinition?definitionId=295&_a=definition-tasks&environmentId=1950) that scans your repository for [Kubernetes yamls](https://dummyurl.com/AmericanAirlines/TicketingAndReceipts/_git/appriss-processor?path=%2Fsrc%2Fmain%2Fresources%2Fdeployment.yml) and applies them if they're present. There is also a [Task Group](https://dummyurl.com/AmericanAirlines/TicketingAndReceipts/_taskgroup/22e2f418-b745-48bc-8a66-21bea724d592) that pushed your Docker Images to packages.aa.com in your [Build Pipeline](https://dummyurl.com/AmericanAirlines/TicketingAndReceipts/_apps/hub/ms.vss-ciworkflow.build-ci-hub?_a=edit-build-definition&id=13636). We are wanting to stick our toes in the water and see if we like this approach, and maybe show it as a vision for the future. These are the advantages we are excited to try out:
 
 1.  Your Runtime settings are versioned together with the code base.
 2.  The Runtime variables are not scattered out everywhere "point and click" in ADO.
 3.  In ADO today, every app gets an Ingress, a Service, and everything in the Templates whether the app needs it or not. Most of the apps don't need an Ingress. We're creating all these things that we don't need because we're using the templates. Here if you don't need it, you just don't add it.
-4.  Also all your files are here together, which allows you to run mini-kube locally, or K3s etc. Here you can test within your own ecosystem. 
+4.  Also all your files are here together, which allows you to run mini-kube locally, or K3s etc. Here you can test within your own ecosystem. 
 5.  The Deployment yamls aren't hidden from the developers, and you can see for yourself the final product of what you're applying in Kubernetes. It makes more sense when you see the values rather than variable placeholders making it complex.
-6.  [KubeTemplates](https://dummyurl.com/AmericanAirlines/TicketingAndReceipts/_git/KubeDeploy?path=%2Fdeployment-templates-v3) are heavy-weight on the ADO side. We want to bring these configurations as close to our applications as possible.
+6.  [KubeTemplates](https://dummyurl.com/AmericanAirlines/TicketingAndReceipts/_git/KubeDeploy?path=%2Fdeployment-templates-v3) are heavy-weight on the ADO side. We want to bring these configurations as close to our applications as possible.
 
 ## RIPA Remark After ER Timeout
 

@@ -5,18 +5,18 @@ Tags: #favorwithman
 
 # Rules
 
-1.      I never raise my voice over 80 Decibels.
-2.      I never scrunch my eyes in anger or disgust.
-3.      I remain calm and cool, smiling even in the face of insult or offense.
-4.      If my thoughts are for evil, I keep silent.
-5.      The appropriate setting for rebuke is never a reaction.
-6.      God is more real to me than people; I seek His praise, not man’s praise.
-7.      I seek opportunities to be humbled happily.
-8.      I laugh.
+1.      I never raise my voice over 80 Decibels.
+2.      I never scrunch my eyes in anger or disgust.
+3.      I remain calm and cool, smiling even in the face of insult or offense.
+4.      If my thoughts are for evil, I keep silent.
+5.      The appropriate setting for rebuke is never a reaction.
+6.      God is more real to me than people; I seek His praise, not man’s praise.
+7.      I seek opportunities to be humbled happily.
+8.      I laugh.
 
 # Retorts
 
->  “You do it all the time” “then I guess there should have been someone to tell me not to do it.”
+>  “You do it all the time” “then I guess there should have been someone to tell me not to do it.”
 
 > “Why don't you go fishing, to restore your sense of human values.”
 
@@ -42,7 +42,7 @@ Tags: #favorwithman
 
 > Pina Calada boy / you make the girls go ah, and when the sun goes down you make my world spin 'round. Clearly she's talking about being the fruit of the spirit in the life of believers. That's why she says you naughty boy, go to my room, because that's what Christ does, isn't it? Yes, you are naughty, you have sinned, you have transgressed Me, and yet I'm inviting you into my house so that through Me you will bear the fruit of the spirit, the pina calada so to speak. And again she says shut your mouth and get it on, my patience shorter than my skirt, because patience is a fruit of the spirit and she isn't producing it so she wants Christ to "get it on."
 
-> everybody take it off. And they turn me on when they take it off. What Ke$ha is taking about here is taking off the old  self which is being corrupted in accordance with the lusts of deceit, and putting on the new self which in the likeness of God is being created in righteousness And holiness of the truth. And therefore when they take it off, they turn me on, because as you lay aside the old self you are renewed in the spirit of your mind.
+> everybody take it off. And they turn me on when they take it off. What Ke$ha is taking about here is taking off the old  self which is being corrupted in accordance with the lusts of deceit, and putting on the new self which in the likeness of God is being created in righteousness And holiness of the truth. And therefore when they take it off, they turn me on, because as you lay aside the old self you are renewed in the spirit of your mind.
 
 > You must have some weird friends.
 
@@ -130,13 +130,13 @@ Tags: #favorwithman
 
 > What tangled webs we weave. . .
 
-> Dunn makes the mistake of building his writing on the premise that death is an event, when, in fact, death may be profoundly more. Semantically, death can mean a wide array of things. But theologically death isn’t it’s own thing, it’s  the lack of a thing; just as darkness is the absence of light, or cold is the absence of heat, death is merely the absence of life. And therefore poetically speaking it’s cute that he says death will be out of a job when the last person dies, but theologically if the dead remain dead, that would make death a poetic king. Before we can define death we must first define life. Jesus said (John 17:3), and therefore we were dead in our sins because our sin separated us from God. Even with the hope of the ressurection there is a promise of those who will be lead away from the presence of the Lord, eternally under the reign of death. The event of our pulse stopping is just our passage into eternity, whether we are claimed by death or claimed by God isn’t dependent of our pulse.
+> Dunn makes the mistake of building his writing on the premise that death is an event, when, in fact, death may be profoundly more. Semantically, death can mean a wide array of things. But theologically death isn’t it’s own thing, it’s  the lack of a thing; just as darkness is the absence of light, or cold is the absence of heat, death is merely the absence of life. And therefore poetically speaking it’s cute that he says death will be out of a job when the last person dies, but theologically if the dead remain dead, that would make death a poetic king. Before we can define death we must first define life. Jesus said (John 17:3), and therefore we were dead in our sins because our sin separated us from God. Even with the hope of the ressurection there is a promise of those who will be lead away from the presence of the Lord, eternally under the reign of death. The event of our pulse stopping is just our passage into eternity, whether we are claimed by death or claimed by God isn’t dependent of our pulse.
 
 > I'm not going to pretend I know that … so I won't be interpreting what dun meant by the poem, but rather scrutinizing the comfort it offers. What do you have to believe to be comforted by this? There are consequences for taking poetic license too far with the word of God.
 
-> I’ll never deny God’s will,  but I do ask that you go about this prayerfully in the guidence of the Spirit because I really do like the way it is. But again, I'll never oppose God’s wishes for my sake.
+> I’ll never deny God’s will,  but I do ask that you go about this prayerfully in the guidence of the Spirit because I really do like the way it is. But again, I'll never oppose God’s wishes for my sake.
 
-> Blank name sori of came drink milk when his babies can't.  Drink milk like water here.  Out of compulsion I vowed to watch the way I spend money on food. I don't like to think of how rock I am.  I wouldn't feel right taking money. I'm not needy in respect to finances.
+> Blank name sori of came drink milk when his babies can't.  Drink milk like water here.  Out of compulsion I vowed to watch the way I spend money on food. I don't like to think of how rock I am.  I wouldn't feel right taking money. I'm not needy in respect to finances.
 
 > What’s YOUR name? – buddy the elf
 
@@ -154,7 +154,7 @@ Tags: #favorwithman
 
 > Hi. Do you remember me?
 
-> Thank you,  Deborah!
+> Thank you,  Deborah!
 
 > “Do you want to play?” “Well, I was just about to start working on my project. Maybe in a few hours?”
 
@@ -166,7 +166,7 @@ Tags: #favorwithman
 
 > I’m not interested in interacting with someone who changes their mind as often as they change their clothes.
 
-> I'll be honest,  I'm a very unrighteous parson, which is why I've got to guard myself carefully. I see a female body, and my sinful heart desires her beauty. Good made it pretty simple.  Man sees female body,  he gets excited,  babies.  There is nothing more profoundly beautiful to a man that a woman, so when I see one, something in me says “I want that.” If you're not in business, don't advertise. So when women dress in a way that shows themselves, it makes it difficult for people like me, to keep from wanting her. We’re losing integrity in America, in Europe, all over.  We're less monogamous than hamsters. We're taking something beautiful that God creatures for His glory and using it to glorify ourselves, which is a gross distortion.
+> I'll be honest,  I'm a very unrighteous parson, which is why I've got to guard myself carefully. I see a female body, and my sinful heart desires her beauty. Good made it pretty simple.  Man sees female body,  he gets excited,  babies.  There is nothing more profoundly beautiful to a man that a woman, so when I see one, something in me says “I want that.” If you're not in business, don't advertise. So when women dress in a way that shows themselves, it makes it difficult for people like me, to keep from wanting her. We’re losing integrity in America, in Europe, all over.  We're less monogamous than hamsters. We're taking something beautiful that God creatures for His glory and using it to glorify ourselves, which is a gross distortion.
 
 > If you say so. . . I don't remember feeling that way.
 

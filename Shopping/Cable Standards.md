@@ -3,16 +3,16 @@
 | RESOLUTION                           | MINIMUM BANDWIDTH REQUIRED |
 |--------------------------------------|----------------------------|
 | 1 x FHD (1920 x 1080) display @60 Hz | 3.2 Gbps                   |
-| 1 x QHD (2560 x 1440) display @30 Hz | 3.32 Gbps                  |
+| 1 x QHD (2560 x 1440) display @30 Hz | 3.32 Gbps                  |
 | 1 x QHD (2560 x 1440) display @60 Hz | 5.6 Gbps                   |
 | 1 x 4K (3840 x 2160) display @30 Hz  | 6.2 Gbps                   |
 | 1 x 4K (3840 x 2160) display @60 Hz  | 12.5 Gbps                  |
-| 1 x 5K (5120 x 1440) display @30 Hz  | 6.64 Gbps                  |
-| 1 x 5K (5120 x 1440) display @60 Hz  | 13.27 Gbps                 |
-| 1 x 5K (5120 x 1440) display @120 Hz | 26.54 Gbps                 |
-| 1 x 5K (5120 x 1440) display @240 Hz | 53.08 Gbps                 |
-| 1 x 8K (7680 x 4320) display @30 Hz  | 29.86 Gbps                 |
-| 1 x 8K (7680 x 4320) display @60 Hz  | 59.72 Gbps                 |
+| 1 x 5K (5120 x 1440) display @30 Hz  | 6.64 Gbps                  |
+| 1 x 5K (5120 x 1440) display @60 Hz  | 13.27 Gbps                 |
+| 1 x 5K (5120 x 1440) display @120 Hz | 26.54 Gbps                 |
+| 1 x 5K (5120 x 1440) display @240 Hz | 53.08 Gbps                 |
+| 1 x 8K (7680 x 4320) display @30 Hz  | 29.86 Gbps                 |
+| 1 x 8K (7680 x 4320) display @60 Hz  | 59.72 Gbps                 |
 * [Bandwidth calculator](https://k.kramerav.com/support/bwcalculator.asp)
 * [Display Bandwidth](https://www.dell.com/support/manuals/en-us/dell-wd19-130w-dock/wd19_userguide/display-bandwidth?guid=guid-f73113c5-ee42-47fe-a849-d669e93440e2&lang=en-us)
 
@@ -56,7 +56,7 @@
 
 # Power Delivery
 
-The USB [Power Delivery 3.0](https://www.androidauthority.com/usb-power-delivery-806266/) revision released in 2018 introduced the <mark class="hltr-yellow">Programmable Power Supply protocol</mark> into the standard.
+The USB [Power Delivery 3.0](https://www.androidauthority.com/usb-power-delivery-806266/) revision released in 2018 introduced the <mark class="hltr-yellow">Programmable Power Supply protocol</mark> into the standard.
 
 # Refresh Rates
 

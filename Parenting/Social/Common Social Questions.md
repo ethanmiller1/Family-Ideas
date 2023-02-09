@@ -39,7 +39,7 @@ DBU Lord willing. They have an absolutely beautiful campus and town homes. I’m
 7. I am better than heaven today!
 8. Thankfully alive and still somewhat young and healthy, in this economy what more can I ask for?
 9. Super Duper!!
-10. I am fantastic and feeling astonishingly glorious.
+10. I am fantastic and feeling astonishingly glorious.
 11. Just happy to be above ground.
 12. Flier than a pelican as Lil Wayne might say...
 13. Upright and still breathing. You?
@@ -57,17 +57,17 @@ DBU Lord willing. They have an absolutely beautiful campus and town homes. I’m
 25. I am doing so fabulous today! I can hardly control myself from dancing.
 26. Must be doing pretty fine since I woke up on this side of the grass instead of under it.
 27. I am psyching myself up for a load of playdates this week!
-28. I am currently in a wonderfully-post-orgasm-and-chocolate-milk creative mood. 
+28. I am currently in a wonderfully-post-orgasm-and-chocolate-milk creative mood. 
 29. I'm still pleasantly pushing a pulse, thanks for asking. How are you?
 30. Well I did just swallow a rather large and strange looking insect, but I hear they're full of protein. So I guess I'm great.
-31. Well, I'm not in prison. I'm not in the hospital. I'm not in the grave. So I reckon I'm fairing along pretty well. 
+31. Well, I'm not in prison. I'm not in the hospital. I'm not in the grave. So I reckon I'm fairing along pretty well. 
 32. Just as fickle, insecure, neurotic and emotional as ever
 33. Exhausted from my endeavors to preserve my youth.
 34. If I was any better vitamins would be taking me!
 35. Not bad for a young fool having transgressed the Almighty God of creation who is perfect in judgement and wrath. And you?
 36. Not bad, still converting Carbon-dioxide into Oxygen.
 
-## What are your plans?                                                                                     
+## What are your plans?                                                                                     
 
 In a man’s heart he plans his course, but the Lord directs his steps. I was going for a finance degree, because I really enjoy trading options with TOS, started with TD Ameritrade when I was 14, and I like making money and travelling
 
@@ -142,7 +142,7 @@ I'm taking it easy this semester. I've always said that priority assumes urgency
 * be careful, the wise gives a soft answer.
 * I’m a sophisticated investor for the new age.
 
-## Do you want to play?          
+## Do you want to play?          
 
 * Oh, are you bored? (Sympathetic gentle soft tone)
 * Why don’t you grab a coloring book and you can color while I’m working.

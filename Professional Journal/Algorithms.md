@@ -11,7 +11,7 @@
 
 ## Difference between Backtracking and Recursion
 
-**Recursion** -
+**Recursion** -
 
 -   The problem can be broken down into smaller problems of same type.
     
@@ -20,7 +20,7 @@
 -   Is like a bottom-up process. **You can solve the problem just by using the result of the sub-problem**.
     
 
-**Backtracking** -
+**Backtracking** -
 
 -   General algorithmic technique that takes in all the possible combination to solve a computational problem.
     
@@ -28,7 +28,7 @@
     
 
 ## Backtrack on a bad leaf to continue the search
-"Conceptually, you start at the root of a tree; **the tree probably has some good leaves and some bad leaves, though it may be that the leaves are all good or all bad**. You want to get to a good leaf. At each node, beginning with the root, you choose one of its children to move to, and you keep this up until you get to a leaf.
+"Conceptually, you start at the root of a tree; **the tree probably has some good leaves and some bad leaves, though it may be that the leaves are all good or all bad**. You want to get to a good leaf. At each node, beginning with the root, you choose one of its children to move to, and you keep this up until you get to a leaf.
 
 **Suppose you get to a bad leaf. You can backtrack to continue the search for a good leaf by revoking your most recent choice**, and trying out the next option in that set of options. If you run out of options, revoke the choice that got you here, and try another choice at that node. If you end up at the root with no options left, there are no good leaves to be found."
 
@@ -677,7 +677,7 @@ Therefore to add a number, we have 3 O(log n) heap operations. Luckily the heapq
 
 Alltogether, the add operation is O(logn), The findMedian operation is O(1).
 
-A further observation is that the two scenarios take turns when adding numbers, thus it is possible to combine the two into one. For this please see [stefan's post](https://leetcode.com/discuss/64910/very-short-o-log-n-o-1)
+A further observation is that the two scenarios take turns when adding numbers, thus it is possible to combine the two into one. For this please see [stefan's post](https://leetcode.com/discuss/64910/very-short-o-log-n-o-1)
 
 
 # Math & Geometry

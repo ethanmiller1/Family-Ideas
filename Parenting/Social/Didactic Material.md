@@ -37,7 +37,7 @@ Philosophical implication number four: Where am I going when I die? If evolution
 
 If God does not exist, think of what that entails. Without God, there is no hope for an afterlife; what we are experiencing now, if we can even call it a life in such a case, is all that belongs to us. Consequently, when all is said and done, our lives are meaningless. Why? Because anything with a finite existence has temporary value, or perhaps more accurately, anything with a finite effect is of temporary value. That is to say, if you can measure it (in this case our lives and legacy) in the unit of time, its value is temporary. Anything you do that does not affect eternity will not matter 700 million years from now, and if an eternal God does not exist, it follows that eternity does not exist either.
 
-In the early 1850's, [Rudolf Clausius](http://en.wikipedia.org/wiki/Rudolf_Clausius "Rudolf Clausius") discovered what he called his mechanical [theory of heat](http://en.wikipedia.org/wiki/Theory_of_heat "Theory of heat"), now referred to as entropy (Clausius 147-48).  Although the actual process may be complicated to the average layman, its basic concept is quite simple. It refers to the Second Law of Thermodynamics, which tells us that the universe's usable energy is slowly deteriorating into what scientists call dark energy (Sychev 68). Not only does this demand that the universe has a finite past, but also that it has a finite future. Astronomers have discovered that everything we can observe (i.e. ordinary matter) is less than five percent of the universe. The rest has already converted into dark matter (twenty-three percent) and dark energy (seventy-two percent) due to entropy (Chui). Therefore, if everything we accomplish in our lives is destined to result in dark energy, its value comes to nothing when entropy claims the remaining five percent of the universe. We can summarize the argument with the following syllogism:
+In the early 1850's, [Rudolf Clausius](http://en.wikipedia.org/wiki/Rudolf_Clausius "Rudolf Clausius") discovered what he called his mechanical [theory of heat](http://en.wikipedia.org/wiki/Theory_of_heat "Theory of heat"), now referred to as entropy (Clausius 147-48).  Although the actual process may be complicated to the average layman, its basic concept is quite simple. It refers to the Second Law of Thermodynamics, which tells us that the universe's usable energy is slowly deteriorating into what scientists call dark energy (Sychev 68). Not only does this demand that the universe has a finite past, but also that it has a finite future. Astronomers have discovered that everything we can observe (i.e. ordinary matter) is less than five percent of the universe. The rest has already converted into dark matter (twenty-three percent) and dark energy (seventy-two percent) due to entropy (Chui). Therefore, if everything we accomplish in our lives is destined to result in dark energy, its value comes to nothing when entropy claims the remaining five percent of the universe. We can summarize the argument with the following syllogism:
 
 1. Whatever has a finite effect is of temporary value.
 2. The universe (i.e. time, space, and matter) is finite.
@@ -49,7 +49,7 @@ Think further about the serious implications of this conclusion. If your life is
 
 # The emptiness of a godless heart
 
-Our human hearts are a lot like our stomachs. We need to keep filling it with all this stuff to fulfill us. We get hungry but we don't really know what we crave, so we fill our hearts with love, pleasure, whatever it is that we think will satisfy us. What is it you're filling your heart with, and is it satisfying you? We all feel stress, we all feel pressure, and we all seek relief. "Delight yourself in the Lord, and he will give you the desires of your heart" (ESV Psalm 37:4).
+Our human hearts are a lot like our stomachs. We need to keep filling it with all this stuff to fulfill us. We get hungry but we don't really know what we crave, so we fill our hearts with love, pleasure, whatever it is that we think will satisfy us. What is it you're filling your heart with, and is it satisfying you? We all feel stress, we all feel pressure, and we all seek relief. "Delight yourself in the Lord, and he will give you the desires of your heart" (ESV Psalm 37:4).
 
 >"God is most glorified in you when you are most satisfied in Him." ~ John Piper
 
@@ -74,7 +74,7 @@ Life is a journey, and death is the destination of all who take the journey. Str
 
 **Doctrine Of Awareness:** All men have some degree of awareness that God exists
 
-"For what can be known about God is plain to them, because God has shown it to them. For his invisible attributes, namely, his eternal power and divine nature, have been clearly perceived, ever since the creation of the world, in the things that have been made. So they are without excuse. For although they knew God, they did not honor him as God or give thanks to him, but they became futile in their thinking, and their foolish hearts were darkened" (ESV Romans 1:19-21).
+"For what can be known about God is plain to them, because God has shown it to them. For his invisible attributes, namely, his eternal power and divine nature, have been clearly perceived, ever since the creation of the world, in the things that have been made. So they are without excuse. For although they knew God, they did not honor him as God or give thanks to him, but they became futile in their thinking, and their foolish hearts were darkened" (ESV Romans 1:19-21).
 
 >Most people have a certain awareness of God buried deeply somewhere inside them, but if you want them to find it, you've got to be the one with the shovel.
 
@@ -88,21 +88,21 @@ Life is a journey, and death is the destination of all who take the journey. Str
 
 **The Philosophy Of God:** Sinners will be cast into eternal fire
 
-"Then he will say to those on his left, 'Depart from me, you cursed, into the eternal fire prepared for the devil and his angels' " (ESV Matthew 25:41).
+"Then he will say to those on his left, 'Depart from me, you cursed, into the eternal fire prepared for the devil and his angels' " (ESV Matthew 25:41).
 
-"when the Lord Jesus is revealed from heaven with his mighty angels in flaming fire, inflicting vengeance on those who do not know God and on those who do not obey the gospel of our Lord Jesus. They will suffer the punishment of eternal destruction, away from the presence of the Lord and from the glory of his might" (ESV 2 Thessalonians 1:7-9).
+"when the Lord Jesus is revealed from heaven with his mighty angels in flaming fire, inflicting vengeance on those who do not know God and on those who do not obey the gospel of our Lord Jesus. They will suffer the punishment of eternal destruction, away from the presence of the Lord and from the glory of his might" (ESV 2 Thessalonians 1:7-9).
 
-"The wicked shall return to Sheol, all the nations that forget God" (ESV Psalm 9:17).
+"The wicked shall return to Sheol, all the nations that forget God" (ESV Psalm 9:17).
 
-"Or do you not know that the unrighteous will not inherit the kingdom of God?" (ESV 1 Corinthians 6:9).
+"Or do you not know that the unrighteous will not inherit the kingdom of God?" (ESV 1 Corinthians 6:9).
 
-"For we must all appear before the judgment seat of Christ, so that each one may receive what is due for what he has done in the body, whether good or evil." (ESV 2 Corinthians 5:10).
+"For we must all appear before the judgment seat of Christ, so that each one may receive what is due for what he has done in the body, whether good or evil." (ESV 2 Corinthians 5:10).
 
-"Do you not know that if you present yourselves to anyone as obedient slaves, you are slaves of the one whom you obey, either of sin, which leads to death, or of obedience, which leads to righteousness?" (ESV Romans 6:16).
+"Do you not know that if you present yourselves to anyone as obedient slaves, you are slaves of the one whom you obey, either of sin, which leads to death, or of obedience, which leads to righteousness?" (ESV Romans 6:16).
 
 "For the wages of sin is death" (ESV Romans 6:23).
 
-"Then I saw a great white throne and him who was seated on it. From his presence earth and sky fled away, and no place was found for them. And I saw the dead, great and small, standing before the throne, and books were opened. Then another book was opened, which is the book of life. And the dead were judged by what was written in the books, according to what they had done. And the sea gave up the dead who were in it, Death and Hades gave up the dead who were in them, and they were judged, each one of them, according to what they had done. Then Death and Hades were thrown into the lake of fire. This is the second death, the lake of fire. And if anyone's name was not found written in the book of life, he was thrown into the lake of fire" (Revelation 20:11-15).
+"Then I saw a great white throne and him who was seated on it. From his presence earth and sky fled away, and no place was found for them. And I saw the dead, great and small, standing before the throne, and books were opened. Then another book was opened, which is the book of life. And the dead were judged by what was written in the books, according to what they had done. And the sea gave up the dead who were in it, Death and Hades gave up the dead who were in them, and they were judged, each one of them, according to what they had done. Then Death and Hades were thrown into the lake of fire. This is the second death, the lake of fire. And if anyone's name was not found written in the book of life, he was thrown into the lake of fire" (Revelation 20:11-15).
 
 # Doctrine Of Sinners
 
@@ -110,19 +110,19 @@ Life is a journey, and death is the destination of all who take the journey. Str
 
 "as it is written: 'None is righteous, no, not one' " (ESV Romans 3:10).
 
-"for all have sinned and fall short of the glory of God" (ESV Romans 3:23).
+"for all have sinned and fall short of the glory of God" (ESV Romans 3:23).
 
-"If we say we have no sin, we deceive ourselves, and the truth is not in us" (ESV 1 John 1:8).
+"If we say we have no sin, we deceive ourselves, and the truth is not in us" (ESV 1 John 1:8).
 
-". . . . no one living is righteous before you" (ESV Psalm 143:2).
+". . . . no one living is righteous before you" (ESV Psalm 143:2).
 
-"For by works of the law no human being will be justified in His sight, since through the law comes knowledge of sin" (ESV Romans 3:20).
+"For by works of the law no human being will be justified in His sight, since through the law comes knowledge of sin" (ESV Romans 3:20).
 
 * "You cannot present your contaminated pre-Christian moral efforts or post-Christian contaminated Holy Spirit wrought efforts to God as sufficient for why He should accept you. He's not impressed with contaminated obedience." ~ John Piper (Romans 3:20)
 
-“You have heard that it was said to those of old, ‘You shall not murder; and whoever murders will be liable to judgment.’ But I say to you that everyone who is angry with his brother will be liable to judgment; whoever insults his brother will be liable to the council; and whoever says, ‘You fool!’ will be liable to the hell of fire. (Matthew 5:21-22)
+“You have heard that it was said to those of old, ‘You shall not murder; and whoever murders will be liable to judgment.’ But I say to you that everyone who is angry with his brother will be liable to judgment; whoever insults his brother will be liable to the council; and whoever says, ‘You fool!’ will be liable to the hell of fire. (Matthew 5:21-22)
 
-“You have heard that it was said, ‘You shall not commit adultery.’ But I say to you that everyone who looks at a woman with lustful intent has already committed adultery with her in his heart. If your right eye causes you to sin, tear it out and throw it away. For it is better that you lose one of your members than that your whole body be thrown into hell. And if your right hand causes you to sin, cut it off and throw it away. For it is better that you lose one of your members than that your whole body go into hell. (Matthew 5:27-30)
+“You have heard that it was said, ‘You shall not commit adultery.’ But I say to you that everyone who looks at a woman with lustful intent has already committed adultery with her in his heart. If your right eye causes you to sin, tear it out and throw it away. For it is better that you lose one of your members than that your whole body be thrown into hell. And if your right hand causes you to sin, cut it off and throw it away. For it is better that you lose one of your members than that your whole body go into hell. (Matthew 5:27-30)
 
 * You can’t understand the significance of the cross without the perception of your own guilt.
 
@@ -130,27 +130,27 @@ Life is a journey, and death is the destination of all who take the journey. Str
 
 **Doctrine Of Jesus:** He is Lord and Savior
 
-"The saying is trustworthy and deserving of full acceptance, that Christ Jesus came into the world to save sinners, of whom I am the foremost" (ESV 1 Timothy 1:15).
+"The saying is trustworthy and deserving of full acceptance, that Christ Jesus came into the world to save sinners, of whom I am the foremost" (ESV 1 Timothy 1:15).
 
-"He said to them, 'But who do you say that I am?' Simon Peter replied, 'You are the Christ, the Son of the living God.' And Jesus answered him, 'Blessed are you, Simon Bar-Jonah! For flesh and blood has not revealed this to you, but my Father who is in heaven' " (ESV Matthew 16:15-17).
+"He said to them, 'But who do you say that I am?' Simon Peter replied, 'You are the Christ, the Son of the living God.' And Jesus answered him, 'Blessed are you, Simon Bar-Jonah! For flesh and blood has not revealed this to you, but my Father who is in heaven' " (ESV Matthew 16:15-17).
 
-"The woman said to him, 'I know that Messiah is coming (he who is called Christ). When he comes, he will tell us all things.' Jesus said to her, 'I who speak to you am he' " (ESV John 4:25-26).
+"The woman said to him, 'I know that Messiah is coming (he who is called Christ). When he comes, he will tell us all things.' Jesus said to her, 'I who speak to you am he' " (ESV John 4:25-26).
 
-"So they all said, 'Are you the Son of God, then?' And he said to them, 'You say that I am' " (ESV Luke 22:70).
+"So they all said, 'Are you the Son of God, then?' And he said to them, 'You say that I am' " (ESV Luke 22:70).
 
-"For if, because of one man's trespass, death reigned through that one man, much more will those who receive the abundance of grace and the free gift of righteousness reign in life through the one man Jesus Christ" (ESV Romans 5:17).
+"For if, because of one man's trespass, death reigned through that one man, much more will those who receive the abundance of grace and the free gift of righteousness reign in life through the one man Jesus Christ" (ESV Romans 5:17).
 
 # Doctrine Of Grace
 
 **Doctrine Of Grace:** Righteousness is given to those who believe
 
-"Jesus answered them, 'This is the work of God, that you believe in him whom he has sent' " (ESV John 6:29).
+"Jesus answered them, 'This is the work of God, that you believe in him whom he has sent' " (ESV John 6:29).
 
-"I do not nullify the grace of God, for if righteousness were through the law, then Christ died for no purpose." (ESV Galatians 2:21).
+"I do not nullify the grace of God, for if righteousness were through the law, then Christ died for no purpose." (ESV Galatians 2:21).
 
-But now the righteousness of God has been manifested apart from the law, although the Law and the Prophets bear witness to it— the righteousness of God through faith in Jesus Christ for all who believe. For there is no distinction" (ESV Romans 3:21-22).
+But now the righteousness of God has been manifested apart from the law, although the Law and the Prophets bear witness to it— the righteousness of God through faith in Jesus Christ for all who believe. For there is no distinction" (ESV Romans 3:21-22).
 
-". . . . I may gain Christ and be found in him, not having a righteousness of my own that comes from the law, but that which comes through faith in Christ, the righteousness from God that depends on faith (ESV Philippians 3:8-9).
+". . . . I may gain Christ and be found in him, not having a righteousness of my own that comes from the law, but that which comes through faith in Christ, the righteousness from God that depends on faith (ESV Philippians 3:8-9).
 
 "And now all the righteous will be humble" (MLT The Book Of Enoch 10.17).
 
@@ -181,63 +181,63 @@ Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye
 > 
   [Matthew 11:28-30 - KJV](https://bible-api.com/Matthew+11:28-30?translation=kjv)
 
-"if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved. For with the heart one believes and is justified, and with the mouth one confesses and is saved" (ESV Romans 10:9-10).
+"if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved. For with the heart one believes and is justified, and with the mouth one confesses and is saved" (ESV Romans 10:9-10).
 
-"For 'everyone who calls on the name of the Lord will be saved' " (ESV Romans 10:13).
+"For 'everyone who calls on the name of the Lord will be saved' " (ESV Romans 10:13).
 
-"For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast" (ESV Ephesians 2:8-9).
+"For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast" (ESV Ephesians 2:8-9).
 
-"For we hold that one is justified by faith apart from works of the law" (ESV Romans 3:28).
+"For we hold that one is justified by faith apart from works of the law" (ESV Romans 3:28).
 
-"And to the one who does not work but believes in him who justifies the ungodly, his faith is counted as righteousness, just as David also speaks of the blessing of the one to whom God counts righteousness apart from works: 'Blessed are those whose lawless deeds are forgiven, and whose sins are covered; blessed is the man against whom the Lord will not count his sin' " (ESV Romans 4:5-8).
+"And to the one who does not work but believes in him who justifies the ungodly, his faith is counted as righteousness, just as David also speaks of the blessing of the one to whom God counts righteousness apart from works: 'Blessed are those whose lawless deeds are forgiven, and whose sins are covered; blessed is the man against whom the Lord will not count his sin' " (ESV Romans 4:5-8).
 
-"All this is from God, who through Christ reconciled us to himself and gave us the ministry of reconciliation; that is, in Christ God was reconciling the world to himself, not counting their trespasses against them, and entrusting to us the message of reconciliation" (ESV 2 Corinthians 5:18-19).
+"All this is from God, who through Christ reconciled us to himself and gave us the ministry of reconciliation; that is, in Christ God was reconciling the world to himself, not counting their trespasses against them, and entrusting to us the message of reconciliation" (ESV 2 Corinthians 5:18-19).
 
 "There is therefore now no condemnation for those who are in Christ Jesus" (ESV Romans 8:1).
 
 "But if it is by grace, it is no longer on the basis of works; otherwise grace would no longer be grace" (Romans 11:6).
 
-"he saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit" (ESV Titus 3:5).
+"he saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit" (ESV Titus 3:5).
 
-"In him you also, when you heard the word of truth, the gospel of your salvation, and believed in him, were sealed with the promised Holy Spirit" (ESV Ephesians 1:13).
+"In him you also, when you heard the word of truth, the gospel of your salvation, and believed in him, were sealed with the promised Holy Spirit" (ESV Ephesians 1:13).
 
-"And it is God who establishes us with you in Christ, and has anointed us, and who has also put his seal on us and given us his Spirit in our hearts as a guarantee" (ESV 2 Corinthians 1:21-22).
+"And it is God who establishes us with you in Christ, and has anointed us, and who has also put his seal on us and given us his Spirit in our hearts as a guarantee" (ESV 2 Corinthians 1:21-22).
 
-"But to all who did receive him, who believed in his name, he gave the right to become children of God" (ESV John 1:12).
+"But to all who did receive him, who believed in his name, he gave the right to become children of God" (ESV John 1:12).
 
-"For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life" (ESV John 3:16).
+"For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life" (ESV John 3:16).
 
-"Whoever believes in him is not condemned, but whoever does not believe is condemned already, because he has not believed in the name of the only Son of God" (ESV John 3:18). This is what determines whose names will be written in the book of life.
+"Whoever believes in him is not condemned, but whoever does not believe is condemned already, because he has not believed in the name of the only Son of God" (ESV John 3:18). This is what determines whose names will be written in the book of life.
 
-"Truly, truly, I say to you, whoever believes has eternal life" (ESV John 6:47).
+"Truly, truly, I say to you, whoever believes has eternal life" (ESV John 6:47).
 
-"Truly, truly, I say to you, whoever hears my word and believes him who sent me has eternal life. He does not come into judgment, but has passed from death to life" (ESV John 5:24).
+"Truly, truly, I say to you, whoever hears my word and believes him who sent me has eternal life. He does not come into judgment, but has passed from death to life" (ESV John 5:24).
 
-"Not everyone who says to me, 'Lord, Lord,' will enter the kingdom of heaven, but the one who does the will of my Father who is in heaven. On that day many will say to me, 'Lord, Lord, did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?' And then will I declare to them, 'I never knew you; depart from me, you workers of lawlessness' " (ESV Matthew 7:21-23).
+"Not everyone who says to me, 'Lord, Lord,' will enter the kingdom of heaven, but the one who does the will of my Father who is in heaven. On that day many will say to me, 'Lord, Lord, did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?' And then will I declare to them, 'I never knew you; depart from me, you workers of lawlessness' " (ESV Matthew 7:21-23).
 
-"For this is the will of my Father, that everyone who looks on the Son and believes in him should have eternal life, and I will raise him up on the last day" (ESV John 6:40).
+"For this is the will of my Father, that everyone who looks on the Son and believes in him should have eternal life, and I will raise him up on the last day" (ESV John 6:40).
 
 # Doctrine Of Discipleship
 
 **Doctrine Of Discipleship:** Following Jesus is difficult
 
-"Then Jesus told his disciples, 'If anyone would come after me, let him deny himself and take up his cross and follow me. For whoever would save his life will lose it, but whoever loses his life for my sake will find it' " (ESV Matthew 16:24-25).
+"Then Jesus told his disciples, 'If anyone would come after me, let him deny himself and take up his cross and follow me. For whoever would save his life will lose it, but whoever loses his life for my sake will find it' " (ESV Matthew 16:24-25).
 
-"And whoever does not take his cross and follow me is not worthy of me" (ESV Matthew 10:38).
+"And whoever does not take his cross and follow me is not worthy of me" (ESV Matthew 10:38).
 
-"If you were of the world, the world would love you as its own; but because you are not of the world, but I chose you out of the world, therefore the world hates you" (ESV John 15:19).
+"If you were of the world, the world would love you as its own; but because you are not of the world, but I chose you out of the world, therefore the world hates you" (ESV John 15:19).
 
-"If anyone comes to me and does not hate his own father and mother and wife and children and brothers and sisters, yes, and even his own life, he cannot be my disciple" (ESV Luke 14:26).
+"If anyone comes to me and does not hate his own father and mother and wife and children and brothers and sisters, yes, and even his own life, he cannot be my disciple" (ESV Luke 14:26).
 
-"I have said these things to you, that in me you may have peace. In the world you will have tribulation. But take heart; I have overcome the world" (ESV John 16:33).
+"I have said these things to you, that in me you may have peace. In the world you will have tribulation. But take heart; I have overcome the world" (ESV John 16:33).
 
-And he said to them, "The harvest is plentiful, but the laborers are few. Therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest" (ESV Luke 10:2).
+And he said to them, "The harvest is plentiful, but the laborers are few. Therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest" (ESV Luke 10:2).
 
-And he said to them, "Follow me, and I will make you fishers of men" (ESV Matthew 4:19).
+And he said to them, "Follow me, and I will make you fishers of men" (ESV Matthew 4:19).
 
-"Enter by the narrow gate. For the gate is wide and the way is easy that leads to destruction, and those who enter by it are many. For the gate is narrow and the way is hard that leads to life, and those who find it are few" (ESV Matthew 7:13-14).
+"Enter by the narrow gate. For the gate is wide and the way is easy that leads to destruction, and those who enter by it are many. For the gate is narrow and the way is hard that leads to life, and those who find it are few" (ESV Matthew 7:13-14).
 
-"Come to me, all who labor and are heavy laden, and I will give you rest. Take my yoke upon you, and learn from me, for I am gentle and lowly in heart, and you will find rest for your souls" (ESV Matthew 11:28-29).
+"Come to me, all who labor and are heavy laden, and I will give you rest. Take my yoke upon you, and learn from me, for I am gentle and lowly in heart, and you will find rest for your souls" (ESV Matthew 11:28-29).
 
 >"The reason that the way is hard, is because it is a struggle to believe that it's easy. If we trusted Him fully, it would be easy. But faith is a fight. Paul says, "I have fought the good fight, I have kept the faith, I have finished my course. (2 Timothy 4:7) What's he fighting? He's not fighting to perform for God, that's works. He's fighting to trust Him." ~ John Piper.
 
@@ -249,15 +249,15 @@ Approaching our seats for the final camp service Gabe Philpot slapped my leg. St
 
 # Testimony Scriptures
 
-"The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance" (ESV 2 Peter 3:9).
+"The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance" (ESV 2 Peter 3:9).
 
 "For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord" (ESV Romans 6:23).
 
-"but God shows his love for us in that while we were still sinners, Christ died for us" (ESV Romans 5:8).
+"but God shows his love for us in that while we were still sinners, Christ died for us" (ESV Romans 5:8).
 
 "for whenever our heart condemns us, God is greater than our heart, and he knows everything" (ESV 1 John 3:20).
 
-"Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come" (ESV 2 Corinthians 5:17).
+"Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come" (ESV 2 Corinthians 5:17).
 
 # Never fabricate the gospel to make it sound appealing
 
@@ -267,13 +267,13 @@ Multiplying Christianity isn't selling a product. It's putting to death those wh
 
 **Doctrine Of The Testimony:** Not our words, but only God's Spirit will save
 
-"No one can come to me unless the Father who sent me draws him. And I will raise him up on the last day" (ESV John 6:44).
+"No one can come to me unless the Father who sent me draws him. And I will raise him up on the last day" (ESV John 6:44).
 
-"I planted, Apollos watered, but God gave the growth. So neither he who plants nor he who waters is anything, but only God who gives the growth" (ESV 1 Corinthians 3:6-7).
+"I planted, Apollos watered, but God gave the growth. So neither he who plants nor he who waters is anything, but only God who gives the growth" (ESV 1 Corinthians 3:6-7).
 
-"Settle it therefore in your minds not to meditate beforehand how to answer, for I will give you a mouth and wisdom, which none of your adversaries will be able to withstand or contradict" (ESV Luke 21:14-15).
+"Settle it therefore in your minds not to meditate beforehand how to answer, for I will give you a mouth and wisdom, which none of your adversaries will be able to withstand or contradict" (ESV Luke 21:14-15).
 
-"in your hearts honor Christ the Lord as holy, always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you; yet do it with gentleness and respect, having a good conscience, so that, when you are slandered, those who revile your good behavior in Christ may be put to shame" (ESV 1 Peter 3:15-16).
+"in your hearts honor Christ the Lord as holy, always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you; yet do it with gentleness and respect, having a good conscience, so that, when you are slandered, those who revile your good behavior in Christ may be put to shame" (ESV 1 Peter 3:15-16).
 
 # 5 Ways To Describe the Gospel
 >"Let me outline five ways that to describe the gospel:
@@ -288,11 +288,11 @@ Multiplying Christianity isn't selling a product. It's putting to death those wh
 
 **Doctrine Of Servitude:** Serve as though you are serving the Lord
 
-"whoever speaks, as one who speaks oracles of God; whoever serves, as one who serves by the strength that God supplies—in order that in everything God may be glorified through Jesus Christ. To him belong glory and dominion forever and ever. Amen" (ESV 1 Peter 4:11).
+"whoever speaks, as one who speaks oracles of God; whoever serves, as one who serves by the strength that God supplies—in order that in everything God may be glorified through Jesus Christ. To him belong glory and dominion forever and ever. Amen" (ESV 1 Peter 4:11).
 
-"not by the way of eye-service, as people-pleasers, but as bondservants of Christ, doing the will of God from the heart, rendering service with a good will as to the Lord and not to man, knowing that whatever good anyone does, this he will receive back from the Lord, whether he is a bondservant or is free" (ESV Ephesians 6:6-8).
+"not by the way of eye-service, as people-pleasers, but as bondservants of Christ, doing the will of God from the heart, rendering service with a good will as to the Lord and not to man, knowing that whatever good anyone does, this he will receive back from the Lord, whether he is a bondservant or is free" (ESV Ephesians 6:6-8).
 
-"Whatever you do, work heartily, as for the Lord and not for men, knowing that from the Lord you will receive the inheritance as your reward. You are serving the Lord Christ" (ESV Colossians 3:23-24).
+"Whatever you do, work heartily, as for the Lord and not for men, knowing that from the Lord you will receive the inheritance as your reward. You are serving the Lord Christ" (ESV Colossians 3:23-24).
 
 >Serving God isn't determined by how much work you get done, but by the smile you're serving with.
 
@@ -300,9 +300,9 @@ Multiplying Christianity isn't selling a product. It's putting to death those wh
 
 On the other hand, if God does exist, we have hope, meaning, and identity. We have hope that when our lives inevitably end, we will not cease to live:
 
-"When the perishable puts on the imperishable, and the mortal puts on immortality, then shall come to pass the saying that is written: 'Death is swallowed up in victory. O death, where is your victory? O death, where is your sting?' The sting of death is sin, and the power of sin is the law. But thanks be to God, who gives us the victory through our Lord Jesus Christ" (ESV 1 Corinthians 15:54-57).
+"When the perishable puts on the imperishable, and the mortal puts on immortality, then shall come to pass the saying that is written: 'Death is swallowed up in victory. O death, where is your victory? O death, where is your sting?' The sting of death is sin, and the power of sin is the law. But thanks be to God, who gives us the victory through our Lord Jesus Christ" (ESV 1 Corinthians 15:54-57).
 
-We have meaning in that we are fearfully and wonderfully made for the glory of God; "bring my sons from afar and my daughters from the end of the earth, everyone who is called by my name, whom I created for my glory, whom I formed and made" (ESV Isaiah 43:6-7). Our purpose and duties are made clear in the scriptures: "Fear God and keep his commandments, for this is the whole duty of man. For God will bring every deed into judgment, with every secret thing, whether good or evil" (ESV Ecclesiastes 12:13-14). We have identity in Christ, as Paul writes, "if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come" (ESV 2 Corinthians 5:17), "[b]ut to all who did receive him, who believed in his name, he gave the right to become children of God" (ESV John 1:12).
+We have meaning in that we are fearfully and wonderfully made for the glory of God; "bring my sons from afar and my daughters from the end of the earth, everyone who is called by my name, whom I created for my glory, whom I formed and made" (ESV Isaiah 43:6-7). Our purpose and duties are made clear in the scriptures: "Fear God and keep his commandments, for this is the whole duty of man. For God will bring every deed into judgment, with every secret thing, whether good or evil" (ESV Ecclesiastes 12:13-14). We have identity in Christ, as Paul writes, "if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come" (ESV 2 Corinthians 5:17), "[b]ut to all who did receive him, who believed in his name, he gave the right to become children of God" (ESV John 1:12).
 
 Therefore, it makes a life-changing difference whether or not God exists. Even if the evidence for and against the existence of God were absolutely equal, the rational thing to do, I think, is to believe in Him. That is to say, it seems to me positively irrational when the evidence is equal to prefer death, futility, and despair over hope, meaningfulness and happiness.
 
@@ -312,13 +312,13 @@ The road of euphoria leads to the pit of depression. Many take the route because
 
 # False Dichotomy Of Salvation By Faith Or Works
 
-We do a lot to make sure everyone knows our salvation is by faith and not works. We create this simple dichotomy to make the Lord's salvation easy for the layman to understand. Yet, when we talk about salvation by faith or salvation by works, are they not the same thing? I don't mean in the sense that when you have faith, works will come. Isn't faith itself the work of God? Yes, my salvation comes by works, yet faith is the work by which it comes. "For this commandment that I command you today is not too hard for you," says the Lord, "neither is it far off." Salvation is by works; the works of God. It's a vile mistake to misrepresent the gospel in order to simplify it for those who hear it, that they might receive it. "I planted," Paul says, "And Apollos watered, but God made it grow." The gospel cannot be received by means of human effort, but only by the Holy Spirit who empowers one to plant, another to water, and finally the seed to grow. "not having a righteousness of my own that comes from the law, but that which comes through faith in Christ, the righteousness from God that depends on faith" (Philippians 3:9, ESV).
+We do a lot to make sure everyone knows our salvation is by faith and not works. We create this simple dichotomy to make the Lord's salvation easy for the layman to understand. Yet, when we talk about salvation by faith or salvation by works, are they not the same thing? I don't mean in the sense that when you have faith, works will come. Isn't faith itself the work of God? Yes, my salvation comes by works, yet faith is the work by which it comes. "For this commandment that I command you today is not too hard for you," says the Lord, "neither is it far off." Salvation is by works; the works of God. It's a vile mistake to misrepresent the gospel in order to simplify it for those who hear it, that they might receive it. "I planted," Paul says, "And Apollos watered, but God made it grow." The gospel cannot be received by means of human effort, but only by the Holy Spirit who empowers one to plant, another to water, and finally the seed to grow. "not having a righteousness of my own that comes from the law, but that which comes through faith in Christ, the righteousness from God that depends on faith" (Philippians 3:9, ESV).
 
 >"Faith begins with our acknowledgement that God is sovereign over us." ~ John Carl
 
 >"Better to lose your life than to waste it." ~ John Piper (Risk Is Right)
 
->"I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else." – [C.S. Lewis](http://www.goodreads.com/author/show/1069006.C_S_Lewis)
+>"I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else." – [C.S. Lewis](http://www.goodreads.com/author/show/1069006.C_S_Lewis)
 
 * If you died today and stood before God, and He asked you why he should let you into heaven, what would you say? #imyours
 
@@ -336,17 +336,17 @@ We do a lot to make sure everyone knows our salvation is by faith and not works.
 
 # Luke 15
 
-Now the tax collectors and sinners were all drawing near to hear him. And the Pharisees and the scribes grumbled, saying, “This man receives sinners and eats with them.”
+Now the tax collectors and sinners were all drawing near to hear him. And the Pharisees and the scribes grumbled, saying, “This man receives sinners and eats with them.”
 
-So he told them this parable: “What man of you, having a hundred sheep, if he has lost one of them, does not leave the ninety-nine in the open country, and go after the one that is lost, until he finds it? And when he has found it, he lays it on his shoulders, rejoicing. And when he comes home, he calls together his friends and his neighbors, saying to them, ‘Rejoice with me, for I have found my sheep that was lost.’ Just so, I tell you, there will be more joy in heaven over one sinner who repents than over ninety-nine righteous persons who need no repentance.
+So he told them this parable: “What man of you, having a hundred sheep, if he has lost one of them, does not leave the ninety-nine in the open country, and go after the one that is lost, until he finds it? And when he has found it, he lays it on his shoulders, rejoicing. And when he comes home, he calls together his friends and his neighbors, saying to them, ‘Rejoice with me, for I have found my sheep that was lost.’ Just so, I tell you, there will be more joy in heaven over one sinner who repents than over ninety-nine righteous persons who need no repentance.
 
-“Or what woman, having ten silver coins, if she loses one coin, does not light a lamp and sweep the house and seek diligently until she finds it? And when she has found it, she calls together her friends and neighbors, saying, ‘Rejoice with me, for I have found the coin that I had lost.’ Just so, I tell you, there is joy before the angels of God over one sinner who repents.”
+“Or what woman, having ten silver coins, if she loses one coin, does not light a lamp and sweep the house and seek diligently until she finds it? And when she has found it, she calls together her friends and neighbors, saying, ‘Rejoice with me, for I have found the coin that I had lost.’ Just so, I tell you, there is joy before the angels of God over one sinner who repents.”
 
-And he said, “There was a man who had two sons. And the younger of them said to his father, ‘Father, give me the share of property that is coming to me.’ And he divided his property between them. Not many days later, the younger son gathered all he had and took a journey into a far country, and there he squandered his property in reckless living. And when he had spent everything, a severe famine arose in that country, and he began to be in need. So he went and hired himself out to one of the citizens of that country, who sent him into his fields to feed pigs. And he was longing to be fed with the pods that the pigs ate, and no one gave him anything.
+And he said, “There was a man who had two sons. And the younger of them said to his father, ‘Father, give me the share of property that is coming to me.’ And he divided his property between them. Not many days later, the younger son gathered all he had and took a journey into a far country, and there he squandered his property in reckless living. And when he had spent everything, a severe famine arose in that country, and he began to be in need. So he went and hired himself out to one of the citizens of that country, who sent him into his fields to feed pigs. And he was longing to be fed with the pods that the pigs ate, and no one gave him anything.
 
-“But when he came to himself, he said, ‘How many of my father's hired servants have more than enough bread, but I perish here with hunger! I will arise and go to my father, and I will say to him, “Father, I have sinned against heaven and before you. I am no longer worthy to be called your son. Treat me as one of your hired servants.”’ And he arose and came to his father. But while he was still a long way off, his father saw him and felt compassion, and ran and embraced him and kissed him. And the son said to him, ‘Father, I have sinned against heaven and before you. I am no longer worthy to be called your son.’ But the father said to his servants, ‘Bring quickly the best robe, and put it on him, and put a ring on his hand, and shoes on his feet. And bring the fattened calf and kill it, and let us eat and celebrate. For this my son was dead, and is alive again; he was lost, and is found.’ And they began to celebrate.
+“But when he came to himself, he said, ‘How many of my father's hired servants have more than enough bread, but I perish here with hunger! I will arise and go to my father, and I will say to him, “Father, I have sinned against heaven and before you. I am no longer worthy to be called your son. Treat me as one of your hired servants.”’ And he arose and came to his father. But while he was still a long way off, his father saw him and felt compassion, and ran and embraced him and kissed him. And the son said to him, ‘Father, I have sinned against heaven and before you. I am no longer worthy to be called your son.’ But the father said to his servants, ‘Bring quickly the best robe, and put it on him, and put a ring on his hand, and shoes on his feet. And bring the fattened calf and kill it, and let us eat and celebrate. For this my son was dead, and is alive again; he was lost, and is found.’ And they began to celebrate.
 
-“Now his older son was in the field, and as he came and drew near to the house, he heard music and dancing. And he called one of the servants and asked what these things meant. And he said to him, ‘Your brother has come, and your father has killed the fattened calf, because he has received him back safe and sound.’ But he was angry and refused to go in. His father came out and entreated him, but he answered his father, ‘Look, these many years I have served you, and I never disobeyed your command, yet you never gave me a young goat, that I might celebrate with my friends. But when this son of yours came, who has devoured your property with prostitutes, you killed the fattened calf for him!’ And he said to him, ‘Son, you are always with me, and all that is mine is yours. It was fitting to celebrate and be glad, for this your brother was dead, and is alive; he was lost, and is found.’”
+“Now his older son was in the field, and as he came and drew near to the house, he heard music and dancing. And he called one of the servants and asked what these things meant. And he said to him, ‘Your brother has come, and your father has killed the fattened calf, because he has received him back safe and sound.’ But he was angry and refused to go in. His father came out and entreated him, but he answered his father, ‘Look, these many years I have served you, and I never disobeyed your command, yet you never gave me a young goat, that I might celebrate with my friends. But when this son of yours came, who has devoured your property with prostitutes, you killed the fattened calf for him!’ And he said to him, ‘Son, you are always with me, and all that is mine is yours. It was fitting to celebrate and be glad, for this your brother was dead, and is alive; he was lost, and is found.’”
 
 # Engaging The World
 

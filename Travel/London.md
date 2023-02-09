@@ -48,11 +48,11 @@ The majority of Londoners now simply use their contactless debit/credit cards ra
 
 ![](https://www.ianvisits.co.uk/articles/wp-content/uploads/2022/03/ContactlessPayment-9.jpg)
 
-For central London (zone 1) it costs **£2.50** per journey with a contactless debit or credit card.
+For central London (zone 1) it costs **£2.50** per journey with a contactless debit or credit card.
 
-Read more about [London’s zones](https://www.toptiplondon.com/transport/tickets/contactless-cards).
+Read more about [London’s zones](https://www.toptiplondon.com/transport/tickets/contactless-cards).
 
-If you want to use your contactless card to pay for travel for the whole day, there’s a ‘daily cap’. This is the maximum you pay for unlimited travel in one day. For central London, it’s **£7.40**.
+If you want to use your contactless card to pay for travel for the whole day, there’s a ‘daily cap’. This is the maximum you pay for unlimited travel in one day. For central London, it’s **£7.40**.
 
 Download the [Bus Times](https://apps.apple.com/us/app/london-live-bus-countdown/id475360935) app.
 

@@ -13,7 +13,7 @@ As a Christian, I believe some of God's laws existed before he revealed them to 
 
 One who believes in the Son cannot adhere to the documentary theory. McDowell notes abundant references from the Pentateuch, the books of the prophets and the writings, and from the New Testament that credits Moses as the author of the Pentateuch.
 
- But to an agnostic, that's absolutely no help because such references are not held to be authoritative. So [[Response to More Evidence That Demands A Verdict (Josh McDowell)#Comment 1|to the Christian, there can be no alternative to the Mosaic authorship of the books of the law]] ; either it's true that Moses wrote them, or their faith is based on a book filled with errors, lies, or bottom line, Jesus, Paul, David, and the bible overall was wrong, and therefore cannot be a cornerstone for Christian religion.
+ But to an agnostic, that's absolutely no help because such references are not held to be authoritative. So [[Response to More Evidence That Demands A Verdict (Josh McDowell)#Comment 1|to the Christian, there can be no alternative to the Mosaic authorship of the books of the law]] ; either it's true that Moses wrote them, or their faith is based on a book filled with errors, lies, or bottom line, Jesus, Paul, David, and the bible overall was wrong, and therefore cannot be a cornerstone for Christian religion.
 
 But McDowell gives external evidence for the Mosaic authorship as well, yet the agnostic can argue that his arguments seem to be from other sources and writings who have accepted the Bible as true. (......duh. You're not going to find anyone claiming Mosaic authorship of the Pentateuch that don't believe in the Mosaic authorship of the Pentateuch.) McDowell basically points out that it has been widely accepted that Moses wrote the Pentateuch, and that Wellhausen's Documentary Theory was the first to claim otherwise, [[Response to More Evidence That Demands A Verdict (Josh McDowell)#Comment 2|but he doesn't actually provide any evidence to satisfy historical investigation]]. He provides neither written testimony, because the writings he cites weren't actually there to testify, they have no basis or qualifications for their testimony, the same applying to the oral testimony that he cites, and to my knowledge there was no physical evidence. So to the agnostic, I feel this is a weak argument to refute the Documentary Theory.
 
@@ -41,12 +41,12 @@ McDowell admits that the copies of the Bible we have today are not inherent. He 
 
 ## Comment 1
 
- As a Christian, because I believe in the accurate historicity of the four Gospels, and the letters of Paul among the other apostles, since they and Jesus affirmed that the Pentateuch was written by Moses, and I believe in the authority of their word (that is to say, his Word), the books of the law had to have been written by Moses. If I don't believe in the Mosaic authorship of the Pentateuch than I denigrate the authority of those who have asserted so.
+ As a Christian, because I believe in the accurate historicity of the four Gospels, and the letters of Paul among the other apostles, since they and Jesus affirmed that the Pentateuch was written by Moses, and I believe in the authority of their word (that is to say, his Word), the books of the law had to have been written by Moses. If I don't believe in the Mosaic authorship of the Pentateuch than I denigrate the authority of those who have asserted so.
 
 ## Comment 2
 
- However, this is controversial because the only evidence  of the Mosaic authorship of the Pentateuch is the Pentateuch itself.  Every other piece of historical evidence would rely on the basis of common belief.
+ However, this is controversial because the only evidence  of the Mosaic authorship of the Pentateuch is the Pentateuch itself.  Every other piece of historical evidence would rely on the basis of common belief.
 
 ## Comment 3
 
- Understanding that there is no "version" of God's Word in all of its glory written on paper in the world today, leads me to disregard if there ever was an inherent copy of God's Word in written form. I've always held that the Bible in itself is not the Word of God, but rather proclaims the Word of God, although not in its entirety. God promises to preserve his word, and if our copies today contain even one mistake, that makes God out to be a liar if we hold that the Bible is in itself God's Word.
+ Understanding that there is no "version" of God's Word in all of its glory written on paper in the world today, leads me to disregard if there ever was an inherent copy of God's Word in written form. I've always held that the Bible in itself is not the Word of God, but rather proclaims the Word of God, although not in its entirety. God promises to preserve his word, and if our copies today contain even one mistake, that makes God out to be a liar if we hold that the Bible is in itself God's Word.

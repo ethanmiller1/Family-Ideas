@@ -116,8 +116,8 @@ There can be a workshop for each one of these, that link to clips of sermons con
 7. Justification
 8. Adoption
 9. Sanctification
-10. Perseverance
-11. Glorification
+10. Perseverance
+11. Glorification
 
 It may be important to note that perseverance of the saints means different things to a Calvinist as opposed to a traditionalist. These definition assume Calvinist presuppositions.
 

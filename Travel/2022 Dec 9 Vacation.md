@@ -21,7 +21,7 @@ There are 3 destinations we are thinking about traveling to:
 
 $80 for 30 minute Uber from airport to hotel plaza
 
-Take bus S2. They go both directions so make sure to get on the right one. 
+Take bus S2. They go both directions so make sure to get on the right one. 
 
 ## Where to stay
 

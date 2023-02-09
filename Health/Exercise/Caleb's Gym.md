@@ -4,7 +4,7 @@
 
 ### Incline dumbbell bench press
 
-Why: While the bench press is the chest-bulking staple, dumbbell presses offer different variants to help you build a bigger chest. By using two separate weights, you have a greater range of motion, while activating more stabilising muscles too.
+Why: While the bench press is the chest-bulking staple, dumbbell presses offer different variants to help you build a bigger chest. By using two separate weights, you have a greater range of motion, while activating more stabilising muscles too.
 
 To make it harder, Take the weight all the way to the top of the movement before lowering the opposite side to keep your chest under tension.
 
@@ -26,7 +26,7 @@ How:
 
 ### Cable fly
 
-Why: Give your pectorals and deltoids a new stimulus instead of pressing. Add the cable fly to your chest day to provide constant tension throughout the full movement.
+Why: Give your pectorals and deltoids a new stimulus instead of pressing. Add the cable fly to your chest day to provide constant tension throughout the full movement.
 
 How:
 
@@ -60,7 +60,7 @@ How:
 
 ### Staggered press-up
 
-Why: If you've already mastered press-ups, then this is an ideal stepping-stone into mastering the one-handed press-up.
+Why: If you've already mastered press-ups, then this is an ideal stepping-stone into mastering the one-handed press-up.
 
 How:
 
@@ -74,7 +74,7 @@ How:
 
 ### Clap press-up
 
-Why: Scorch your fast-twitch muscle fibres and prime them for growth with this plyometric take on the bodyweight classic
+Why: Scorch your fast-twitch muscle fibres and prime them for growth with this plyometric take on the bodyweight classic
 
 How:
 

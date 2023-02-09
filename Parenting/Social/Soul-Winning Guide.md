@@ -10,11 +10,11 @@ Engaging The World
 
 For a lost person to be saved they MUST believe:
 
-1.  That they are a sinner (Romans 3:23)
-2.  That the punishment for their sin is hell (Romans 6:23a & Revelation 21:8)
-3.  That salvation was paid for in full by Jesus Christ (Romans 5:8)
-4.  That eternal life is a free gift (Romans 6:23b, Ephesians 2:8-9, Titus 1:2)
-5.  In eternal security of the believer (1 John 5:10-11)
+1.  That they are a sinner (Romans 3:23)
+2.  That the punishment for their sin is hell (Romans 6:23a & Revelation 21:8)
+3.  That salvation was paid for in full by Jesus Christ (Romans 5:8)
+4.  That eternal life is a free gift (Romans 6:23b, Ephesians 2:8-9, Titus 1:2)
+5.  In eternal security of the believer (1 John 5:10-11)
 
 # Script
 
@@ -176,7 +176,7 @@ So you can’t lose it. So let me ask you this, Dave, do you believe you’ve si
 
 Alright, you meant that right? That’s all in the world the Bible says you have to do to be saved. Believe on the Lord Jesus Christ. Now let me ask you this. Do you have a Bible?
 
-1.)  In eternal security of the believer (1 John 5:10-11)
+1.)  In eternal security of the believer (1 John 5:10-11)
 
 # Script: Diamante
 
@@ -206,7 +206,7 @@ That says all liars are going to the lake of fire. Now have you ever lied before
 
 But God commendeth [or expresses] his love toward us, in that, while we were yet sinners, Christ died for us.
 
-So Jesus Christ came down from heaven; God became man. Jesus Christ was God. Do you believe that? He lived a sinless life, never sinned once, he died on the cross for our sins, for the sins of the whole world, he was buried and then 3 days later he rose again from the dead. Now Jesus Christ died for everyone, but do you think that everyone’s going to heaven? No, because there’s something that we must do. The Bible is very clear what we must do. In Acts 16:30 is says,
+So Jesus Christ came down from heaven; God became man. Jesus Christ was God. Do you believe that? He lived a sinless life, never sinned once, he died on the cross for our sins, for the sins of the whole world, he was buried and then 3 days later he rose again from the dead. Now Jesus Christ died for everyone, but do you think that everyone’s going to heaven? No, because there’s something that we must do. The Bible is very clear what we must do. In Acts 16:30 is says,
 
 And brought them out, and said, Sirs, what must I do to be saved?
 
