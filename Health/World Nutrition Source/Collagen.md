@@ -78,7 +78,7 @@ Next
 
 **The Top 14 Benefits of Collagen Supplements**
 
-![[robert-von-3.jpg]]
+ ![robert-von-3](https://i.imgur.com/uXm9tWl.jpg)
 
 Collagen is becoming the most popular anti-aging supplement of 2016.  Everyone from TV doctors to “mommy bloggers” are raving about the benefits of collagen supplements.
 
@@ -104,13 +104,13 @@ While most people are aware of one or two collagen supplement benefits, after th
 
 **1. Hydrolyzed collagen helps reduce wrinkles and improve skin conditions**
 
-![[robert-von-4.jpg]]
+ ![robert-von-4](https://i.imgur.com/LSp1ScO.jpg)
 
 Yep, you read that right! Taking a hydrolyzed collagen powder supplement actually helps reduce fine lines and wrinkles due to the skin collagen regeneration it promotes.
 
 **2. Hydrolyzed collagen supports the re-growth of joint tissue and can help relieve joint pain**
 
-![[robert-von-5.jpg]]
+ ![robert-von-5](https://i.imgur.com/Q1DwLgn.jpg)
 
 Have you ever noticed how many elderly people appear when they walk?  It looks like it must be painful to even move.  On top of dehydration and a lack of stretching, this is due to a lack of collagen which results in joint pain, inflammation and deterioration.
 
@@ -120,7 +120,7 @@ A Tufts Medical Center 2012 study using high tech magnetic resonant imaging comp
 
 **3. Collagen helps prevent bone loss (osteoporosis)**
 
-![[robert-von-6.jpg]]
+ ![robert-von-6](https://i.imgur.com/5vVpqB6.jpg)
 
 [Multiple studies](http://collagencomplete.com/studies/#collagen-bone-density) have found that you can prevent and relieve osteoporosis by supplementing with hydrolyzed collagen because of its ability to stimulate bone-creating cells (osteoblasts).  Studies show that bone loss is less common in women who use hydrolyzed collagen supplements.
 
@@ -128,7 +128,7 @@ Throughout our lives, there’s a constant cycle of bone collagen destruction an
 
 **4. Collagen can help reduce cellulite and prevent stretch marks**
 
-![[robert-von-7.jpg]]
+ ![robert-von-7](https://i.imgur.com/MCP2QAq.jpg)
 
 Cellulite is]s the fat in place”.  Essentially, the combination of too much fat and too little collagen is the recipe for cellulite.
 
@@ -138,7 +138,7 @@ If you want to reduce that annoying dimpling, then a hydrolyzed collagen supplem
 
 **5. Collagen can help you lose weight**
 
-![[robert-von-8.jpg]]
+ ![robert-von-8](https://i.imgur.com/CaFs6wn.jpg)
 
 Studies are showing that taking collagen boosts our metabolism while also reducing appetite. One such study cited a 20% reduction of food intake after breakfast when collagen peptides were eaten at this time. The same study showed these peptides to be 40% more satiating than other protein powder supplements such as whey, soy, and casein. There’s also a metabolism boost due to an amino acid in collagen called glycine which brings blood sugar to tissue and in turn boosts energy.
 
@@ -146,7 +146,7 @@ While there may not be many studies directly researching collagen and weight los
 
 **6. Detoxify your liver with a collagen broth**
 
-![[robert-von-9.jpg]]
+ ![robert-von-9](https://i.imgur.com/C8iLNrV.jpg)
 
 We are exposed to so many toxins these days, and it’s hard to know how to reverse the unhealthy effects that they place on our bodies. We need to detox to some extent each day, and taking a collagen supplement with breakfast is an easy way to do just that.
 
@@ -154,7 +154,7 @@ The amino acid “glycine” in collagen helps reduce liver damage, one reason m
 
 **7. Collagen helps repair leaky gut syndrome**
 
-![[robert-von-10.jpg]]
+ ![robert-von-10](https://i.imgur.com/joeM5Yj.jpg)
 
 With digestive health issues running rampant these days, many are experiencing leaky gut syndrome, a terrible condition where toxins are able to pass through the intestinal wall and into our bloodstream.
 
@@ -162,7 +162,7 @@ This is caused by the weakening of our intestinal walls, part of which are the t
 
 **8. Collagen is an important part of healthy hair growth**
 
-![[robert-von-11.jpg]]
+ ![robert-von-11](https://i.imgur.com/2Iv1hkQ.jpg)
 
 There are three things needed for healthy hair to grow:  keratin, minerals and collagen!  Many of the amino acids needed to make keratin are also found in hydrolyzed collagen.  One of these amino acids is Lysine, which has also been found to reduce 5-alpha reductase, a major factor in male pattern baldness.
 
@@ -170,7 +170,7 @@ This explains why there are so many people see improvements in their hair qualit
 
 **9. Collagen helps you grow stronger nails**
 
-![[robert-von-12.jpg]]
+ ![robert-von-12](https://i.imgur.com/thOACCr.jpg)
 
 Collagen is what actually builds strong nails. If you have fingernails that tend towards splitting, this is a good sign you need to boost your collagen intake.
 
@@ -178,7 +178,7 @@ Just like your hair, your nails are mainly made of keratin, collagen and mineral
 
 **10. Collagen supports healthy teeth and gums**
 
-![[robert-von-13.jpg]]
+ ![robert-von-13](https://i.imgur.com/N012rEP.jpg)
 
 Our oral health is paramount to overall health, and collagen forms the structure of the teeth as well as the supporting tissue around it (the gums and jaw).
 
@@ -188,7 +188,7 @@ In the early 1900’s, a famous dentist, Weston A Price, went around the world r
 
 **11. Collagen can help balance your hormones**
 
-![[robert-von-14.jpg]]
+ ![robert-von-14](https://i.imgur.com/lquTYAX.jpg)
 
 Our hormones are responsible for so many mechanisms within the body. They need to be balanced and functioning optimally if we’re going to have long, healthy lives. Collagen helps to balance insulin, cortisol, estrogen, testosterone, DHEA, melatonin, progesterone, and even the human growth hormone. Each hormone has an essential function, and when out of whack, they wreak havoc on our health.
 
@@ -196,7 +196,7 @@ Balancing these hormones is vital not just for women, but for men, too. If you h
 
 **12. Collagen could help alleviate anxiety**
 
-![[robert-von-15.jpg]]
+ ![robert-von-15](https://i.imgur.com/cUxwxuD.jpg)
 
 Modern life is stressful. We all know that. We also know what a detriment stress and anxiety can be to our lives. Thankfully, collagen helps reduce anxiety, leaving one feeling more relaxed and able to cope with life’s ups and downs with greater ease.
 
@@ -204,7 +204,7 @@ The anti-anxiety properties of collagen lie in its high concentration of glycine
 
 **13. Collagen promotes restful sleep**
 
-![[robert-von-16.jpg]]
+ ![robert-von-16](https://i.imgur.com/kDffQpk.jpg)
 
 Who doesn’t need a better night of rest? Good sleep is necessary for a good life, and collagen is super-helpful on this front. Again, glycine is to thank here, because it works to improve the quality of our sleep while also helping to eliminate daytime drowsiness.
 
@@ -212,7 +212,7 @@ If you need support in the sleep department, consider taking hydrolyzed collagen
 
 **14. Collagen can prevent hardening of the arteries**
 
-![[robert-von-17.jpg]]
+ ![robert-von-17](https://i.imgur.com/PEwTTma.jpg)
 
 The walls of your arteries are mostly composed of collagen.  So having healthy collagen is one of the best ways to prevent hardening of the arteries.
 

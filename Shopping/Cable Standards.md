@@ -49,10 +49,10 @@
 * [DataPro's Thunderbolt Guide](https://www.datapro.net/techinfo/thunderbolt_info.html)
 
 
-![[Pasted image 20221123171719.png]]
+ ![Pasted image 20221123171719](https://i.imgur.com/8A8wjeF.png)
 
 [What’s the Difference Between Thunderbolt 3, Thunderbolt 4, and USB4](https://plugable.com/blogs/news/what-s-the-difference-between-thunderbolt-3-thunderbolt-4-and-usb4)
-![[timeline-usb-tbt-max.webp]]
+ ![timeline-usb-tbt-max](https://cdn.shopify.com/s/files/1/0006/9045/4575/files/timeline-usb-tbt-max.jpg)
 
 # Power Delivery
 

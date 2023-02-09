@@ -2,7 +2,7 @@
 
 ## Buy vs. Upgrade Program
 
-![[IMG_0028.png]]
+ ![IMG_0028](https://i.imgur.com/5pImCeV.png)
 
 `$62.41/mo * 24mo = $1,497.84`. The only catch is that every time I upgrade, it locks me into another 12 months which equals **$748.92**. I get apple care included, which is $12 a month, which is **$144** a year.
 

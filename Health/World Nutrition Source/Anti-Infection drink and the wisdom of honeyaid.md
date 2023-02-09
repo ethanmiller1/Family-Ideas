@@ -284,7 +284,7 @@ Winkie Pratney Juice
 
 ### Master Tonic - bye bye colds!
 
-![[master-tonic.jpg]]
+ ![master-tonic](https://i.imgur.com/k1YJecR.jpg)
 
   
 I have just completed my first batch of "Master Tonic" (also known as Winkie Juice to Ywamers). It is one of the greatest natural remedies for colds, ailments, infections and illnesses. It is known as a modern day plague tonic. You can of course use it as a preventative and I intend to test it this winter to keep colds at bay.  
@@ -328,7 +328,7 @@ It can cure most chronic conditions and diseases. Encourages maximum blood circu
 
 So to summarize, this tonic is effective in the treatment of all diseases, successfully strengthens the immune system, acts as an antiviral, antibacterial, antifungal and antiparasitic drug. It helps in the most severe infections.
 
-![[robert-von-1.jpg]]
+ ![robert-von-1](https://i.imgur.com/6Lw3cMI.jpg)
 
 **Mediaeval Tonic – Recipe**
 

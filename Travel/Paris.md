@@ -18,22 +18,22 @@
 Paris is 7 hours ahead of Dallas. Monday 9AM-5PM in Dallas is Monday 4PM - 12AM in Paris. That is our working day.
 
 There is one flight to CDG per day that is 9h long. If we leave Sunday at 5:12PM we will arrive in Paris at 9:15AM. We will have 8 hours until our work day.
-![[Pasted image 20230205184148.png]]
+ ![Pasted image 20230205184148](https://i.imgur.com/1BOIr8i.png)
 
 We will work Monday, see the sites on Tuesday, and take a train to Italy on Wednesday.
 
 ## Airport to Hotel
 
-![[476CA6FD-3EDA-427B-82C8-EAF6F6E01DD7.jpeg]]
+ ![476CA6FD-3EDA-427B-82C8-EAF6F6E01DD7](https://i.imgur.com/FdzwuV1.jpg)
 
 ### Metro
 
-![[DA8BD9D7-F9EE-4B69-9FC5-79FF33032012.jpeg]]
+ ![DA8BD9D7-F9EE-4B69-9FC5-79FF33032012](https://i.imgur.com/qPm7zGf.jpg)
 
 ### Uber
 
 An Uber to the hotel will be about $35.
-![[748CBD82-2AAC-41A2-9E0D-0E4ADC53736C.jpeg]]
+ ![748CBD82-2AAC-41A2-9E0D-0E4ADC53736C](https://i.imgur.com/hPo0IuW.jpg)
 
 # Where to Stay
 
@@ -49,7 +49,7 @@ An Uber to the hotel will be about $35.
 Paris Hotels · Ethan
 https://maps.app.goo.gl/fLtkVqaewgcViB2Z8?g_st=ic
 
-![[Pasted image 20230205180045.png]]
+ ![Pasted image 20230205180045](https://i.imgur.com/wdoLug8.png)
 
 # Things to do
 

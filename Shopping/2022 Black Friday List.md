@@ -36,7 +36,7 @@ Serial: `0ECHHCST900791`
 Model: `LC49G97TSSNXDC`
 SKU: `6425569`
 
-![[Pasted image 20221123131608.png]]
+ ![Pasted image 20221123131608](https://i.imgur.com/eeTz8ma.png)
 
 # Surround Sound
 
@@ -59,7 +59,7 @@ Serial: -
 Model: `HW-Q750B/ZA`
 SKU: `6505885`
 
-![[Pasted image 20221123131917.png]]
+ ![Pasted image 20221123131917](https://i.imgur.com/7rDzvFx.png)
 
 # Office Chair
 
@@ -136,9 +136,9 @@ Ethan Miller
 
 I'm really excited to see my new chair! We have these at my office and they are fantastic. I searched high and low to find one, and Medison Seating offered the cheapest price for open box condition. I'm a little bit nervous how the condition will be, but based on reviews on Reddit I'm optimistic. It would have been nice to have actual photos of the product instead of a product image from Humanscale. That would make me more confident in buying the chair, considering there is a 30% restocking fee for returning it.
 
-![[Pasted image 20221208174423.png]]
+ ![Pasted image 20221208174423](https://i.imgur.com/oGPsMGG.png)
 
-![[3E344B3D-C3EE-45A8-9D4C-4F1AC8E73D94.jpeg]]
+ ![3E344B3D-C3EE-45A8-9D4C-4F1AC8E73D94](https://i.imgur.com/xc4NudQ.jpg)
 
 # 65+" TV
 
@@ -191,7 +191,7 @@ List Price: $1,882.50
 Usual Price: $1,500
 Sale: $1,299.99
 
-![[Mcinerney+6+-+Drawer+Dresser.webp]]
+ ![Mcinerney+6+-+Drawer+Dresser](https://secure.img1-cg.wfcdn.com/im/11891008/resize-h1600-w1600%5Ecompr-r85/1811/181178074/Mcinerney+6+-+Drawer+Dresser.jpg)
 
 
 # Nightstand
@@ -200,13 +200,13 @@ Sale: $1,299.99
 List Price: $527.50
 Sale: $399.99
 
-![[Mcinerney+Solid+++Manufactured+Wood+Nightstand.webp]]
+ ![Mcinerney+Solid+++Manufactured+Wood+Nightstand](https://secure.img1-cg.wfcdn.com/im/14691370/resize-h600-w600%5Ecompr-r85/1842/184250122/Mcinerney+Solid+%2B+Manufactured+Wood+Nightstand.jpg)
 
 [Manningtree Manufactured Wood Nightstand](https://www.wayfair.com/furniture/pdp/wade-logan-manningtree-2-drawer-nightstand-w000404703.html)
 List Price: $210.00
 Sale: $139.99
 
-![[Manningtree+Manufactured+Wood+Nightstand.webp]]
+ ![Manningtree+Manufactured+Wood+Nightstand](https://secure.img1-cg.wfcdn.com/im/67546131/resize-h600-w600%5Ecompr-r85/2161/216138218/Manningtree+Manufactured+Wood+Nightstand.jpg)
 
 # Gym Shoes
 

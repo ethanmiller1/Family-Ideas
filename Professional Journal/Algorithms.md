@@ -109,7 +109,7 @@ Check out this awesome [visualizer](https://www.hackerearth.com/practice/algorit
 
 [Neatcode](https://neetcode.io/practice) | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Github](https://github.com/ethanimproving/CodeWars/blob/master/src/main/java/com/leetcode/tree)
 
-![[Maximum Depth of Binary Tree.png]]
+ ![Maximum Depth of Binary Tree](https://i.imgur.com/zOTQUHd.png)
 
 ``` java
 public int maxDepth(TreeNode root) {  
@@ -120,9 +120,9 @@ public int maxDepth(TreeNode root) {
 
 ## [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)
 
-![[Pasted image 20221005221241.png]]
+ ![Pasted image 20221005221241](Pasted image 20221005221241.png)
 
-![[Diameter of Binary Tree 1.jpg]]
+ ![Diameter of Binary Tree 1](Diameter of Binary Tree 1.jpg)
 
 ``` java
 int result = -1;  
@@ -146,7 +146,7 @@ private int dfs(TreeNode current) {
 ### [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)
 [Neatcode](https://neetcode.io/practice) | [Github](https://github.com/ethanimproving/CodeWars/blob/master/src/main/java/com/leetcode/tree)
 
-![[Balanced Binary Tree.png]]
+ ![Balanced Binary Tree](Balanced Binary Tree.png)
 
 ``` java
 public static boolean isBalanced(TreeNode root) {  
@@ -175,7 +175,7 @@ private static SimpleEntry<Boolean, Integer> dfs(TreeNode root) {
 
 ## [Same Tree](https://leetcode.com/problems/same-tree/)
 
-![[Same Tree.png]]
+ ![Same Tree](https://i.imgur.com/2GMZsWk.png)
 
 ``` java
 public boolean isSameTree(TreeNode p, TreeNode q) {  
@@ -197,7 +197,7 @@ Stack-based. Children are visited before the siblings.
 
 ### [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
-![[Pasted image 20221026191525.png]]
+ ![Pasted image 20221026191525](Pasted image 20221026191525.png)
 
 ``` java
 public int iterativeDfs(TreeNode root) {  
@@ -233,7 +233,7 @@ public int iterativeDfs(TreeNode root) {
 
 Queue-based, level by level. Siblings are visited before the children.
 
-![[Pasted image 20221026190308.png]]
+ ![Pasted image 20221026190308](Pasted image 20221026190308.png)
 
 ``` java
 public int iterativeBfs(TreeNode root) {  
@@ -510,7 +510,7 @@ private int[] bfs( char[][] grid, int[] coordinate )
 
 ## [Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 
-![[Pasted image 20221026194615.png]]
+ ![Pasted image 20221026194615](Pasted image 20221026194615.png)
 
 ``` java
 public int[] twoSum(int[] numbers, int target) {
@@ -539,7 +539,7 @@ public int[] twoSum(int[] numbers, int target) {
 
 ## [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 
-![[Pasted image 20221027105058.png]]
+ ![Pasted image 20221027105058](Pasted image 20221027105058.png)
 ``` java
 public int trap(int[] heights) {
 	int left[] = new int[heights.length], right[] = new int[heights.length], max =
@@ -566,7 +566,7 @@ public int trap(int[] heights) {
 
 ## [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
-![[Pasted image 20221026200111.png]]
+ ![Pasted image 20221026200111](Pasted image 20221026200111.png)
 ``` java
 public int lengthOfLongestSubstring(String input) {  
     HashSet<Character> set = new HashSet<>();  
@@ -586,7 +586,7 @@ public int lengthOfLongestSubstring(String input) {
 
 ## [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 
-![[Pasted image 20221026214609.png]]
+ ![Pasted image 20221026214609](Pasted image 20221026214609.png)
 
 ``` java
 public String minWindow(String s, String t) {
@@ -627,7 +627,7 @@ public String minWindow(String s, String t) {
 
 ## [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
-![[Pasted image 20221010212804.png]]
+ ![Pasted image 20221010212804](Pasted image 20221010212804.png)
 
 ``` java
 private Queue<Integer> smallHeap = new PriorityQueue<>(Collections.reverseOrder());  
@@ -683,7 +683,7 @@ A further observation is that the two scenarios take turns when adding numbers, 
 # Math & Geometry
 
 ## [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
-![[Pasted image 20221027102710.png]]
+ ![Pasted image 20221027102710](Pasted image 20221027102710.png)
 
 ``` java
 public String convert(String s, int numRows) {
@@ -733,11 +733,11 @@ public String convert(String s, int numRows) {
 ## [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 
 Different Sizes Edge Case
-![[Pasted image 20221027103441.png]]
+ ![Pasted image 20221027103441](Pasted image 20221027103441.png)
 
 
 Put the 1 in the result even if there aren't any input nodes.
-![[Pasted image 20221027103610.png]]
+ ![Pasted image 20221027103610](Pasted image 20221027103610.png)
 
 ``` java
 public ListNode addTwoNumbers(ListNode first, ListNode second) {

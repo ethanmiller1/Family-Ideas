@@ -1,6 +1,6 @@
 Check credit score on [Experian](https://usa.experian.com/member/dashboard).
 
-![[Pasted image 20221221203211.png]]
+ ![Pasted image 20221221203211](https://i.imgur.com/6bkEqsi.png)
 
 | Date      | Credit Score | Rating    |
 | --------- | ------------ | --------- |
@@ -11,7 +11,7 @@ Check credit score on [Experian](https://usa.experian.com/member/dashboard).
 | 1/21/2023 | 770          | Very Good |
 
 
-![[Pasted image 20221221204045.png]]
+ ![Pasted image 20221221204045](https://i.imgur.com/iF6r1iL.png)
 # Credit Tips
 
 * Credit Usage is the percentage of available credit that you use. Low Credit Usage may have a positive impact on your Credit Score.

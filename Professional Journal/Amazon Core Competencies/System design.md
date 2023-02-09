@@ -47,25 +47,25 @@ https://refactoring.guru/design-patterns/prototype
 
 # Interview Video
 
-![[Pasted image 20221026213338.png]]
+ ![Pasted image 20221026213338](Pasted image 20221026213338.png)
 
 [Amazon System Design Preparation (SIP)](https://www.youtube.com/watch?v=gNQ9-kgyHfo)
 
 ## Database
 
-![[Pasted image 20221026164033.png]]
+ ![Pasted image 20221026164033](Pasted image 20221026164033.png)
 
 ## API
 
-![[Pasted image 20221026164257.png]]
+ ![Pasted image 20221026164257](Pasted image 20221026164257.png)
 
 ## Architecture
 
-![[Pasted image 20221026164457.png]]
+ ![Pasted image 20221026164457](Pasted image 20221026164457.png)
 
 ## User Experience
 
-![[Pasted image 20221026164729.png]]
+ ![Pasted image 20221026164729](Pasted image 20221026164729.png)
 
 # Clarifying questions:
 

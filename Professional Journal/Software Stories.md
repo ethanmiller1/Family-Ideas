@@ -237,7 +237,7 @@ There were so many unforeseen issues I think I worked like 160 hours during thos
 
 Logstash Pods are still filling up the [var/lib/kubelet/pods](https://apm.aa.com/e/daa15b35-f63b-46fe-8465-781f95df871a/#newhosts/hostdetails;id=HOST-27834CE5A136F1AE;dd=DISK;tab=USAGE;gtf=-2h) directory and getting evicted
 
-![[Pasted image 20221023174756.png]]
+ ![Pasted image 20221023174756](Pasted image 20221023174756.png)
 
 Logstash has 3 components in the `pipeline.conf`:
 1. Input (where all the logs from the pods that Filebeat is scanning gets dumped)
@@ -407,9 +407,9 @@ We did have an issue where the app was shutting down before Kuberenetes stopped 
 -   [DETTBP](https://dummydataexplorer.azure.com/clusters/private-orionadxp.eastus/databases/p-ticket-tktrcpts-applogs-adxdb?query=H4sIAAAAAAAAA12NPQvCMBCG9/6Ko1MKhYJ7HUQ3FdHu4ZocMdo24S4ogj/eIFXB9Xnejx71EJxofxUdOdiiaeAJ9zMxgU5+JEk4RlgCuqAWtiq+kskEtttgMAWGtoVyvem61aHMkSyIoX9ACpLYT07piCxkj+9SBSgmx/LhhUyCnMkr6vdXQwmgyho0xrjHkTKoZmJwGMieiG/e0J9jkhgmoc5/8LyxIxF0VL0ApT4lfO8AAAA=)
 -   SessionManager.designatePrinter: HttpClientErrorException$NotFound: 404
 -   applicationn.yaml: sessionManager: `http://sessionManager-ms/api/v1`
-![[Pasted image 20221024161400.png]]
+ ![Pasted image 20221024161400](Pasted image 20221024161400.png)
 -   IKS: `sessionmanager-ms`
-![[Pasted image 20221024161512.png]]
+ ![Pasted image 20221024161512](Pasted image 20221024161512.png)
 -   Every single call to session manager in AOL is failing.
 -   Solution: use lowercase in service discover.
 
@@ -417,7 +417,7 @@ We did have an issue where the app was shutting down before Kuberenetes stopped 
 
 We have an `OrderFulfillmentRequest.java` that contains a list of OrderItems, and depending on the product, it may contain 1 of 20 or so subtypes that inherit from OrderItem. The problem is that the way we were generating the Client Stubs from our YAML contract, we had a List of POJOs, so our ObjectMappers didn't know how to serialize it.
 
-![[Pasted image 20221024161849.png]]
+ ![Pasted image 20221024161849](Pasted image 20221024161849.png)
 
 
 Because of that, we had to turn the JSON into a HashMap, get the ItemType from that map, and then maintain a functional map that looks at the ItemType and maps it to the corresponding OrderItem. Now that was a bad design because it violates the open/close principle. Any new products we introduce, now we have to modify the functional map.
@@ -463,7 +463,7 @@ private AncillaryOrderItem getAncillaryOrderItemFromObject( Object orderItemObj 
 
 Rather than doing it that way, there's an annotation that exists called `@JsonSubTypes` that will automatically do that mapping during serialization. 
 
-![[Pasted image 20221024161817.png]]
+ ![Pasted image 20221024161817](Pasted image 20221024161817.png)
 
 The way to get the `openapi-generator-maven-plugin` to automatically generate those annotations is by providing a discriminator with a list of mappings, and [add the `jersey2` library to the configuration](https://stackoverflow.com/questions/59087711/swagger-generate-subtypes-based-on-enum-value).
 
@@ -580,7 +580,7 @@ Set Load Generator to select from PHX.
 > ETDs_API.c(29): Continuing after Error -26611: HTTP Status-Code=501 (Not Implemented) for "[http://load-airextra-sws-ms.ticketing-non-prod-clus-cf493f47c69a8f9ee98e3c77c3874da6-0000.us-south.containers.appdomain.cloud/api/v1/createAirExtra"](http://load-airextra-sws-ms.ticketing-non-prod-clus-cf493f47c69a8f9ee98e3c77c3874da6-0000.us-south.containers.appdomain.cloud/api/v1/createAirExtra%22 "http://load-airextra-sws-ms.ticketing-non-prod-clus-cf493f47c69a8f9ee98e3c77c3874da6-0000.us-south.containers.appdomain.cloud/api/v1/createairextra%22") [MsgId: MERR-26611] [Time:2021-01-25 09:57:23]
 
 Ensure capacity for Virtualized Services in DevTest is set higher than the load it's receiving
-![[5357c81d-70f9-43cd-8caa-be9491068044.png]]
+ ![5357c81d-70f9-43cd-8caa-be9491068044](5357c81d-70f9-43cd-8caa-be9491068044.png)
 
 > ETDs_API.c(31): Continuing after Error -26631: HTTP Status-Code=400 (Bad Request) for "http://load-emdmanager-ms.ticketing-non-prod-clus-cf493f47c69a8f9ee98e3c77c3874da6-0000.us-south.containers.appdomain.cloud/api/v1/exchange"   [MsgId: MERR-26631] [Time:2021-01-28 17:35:37]
 
@@ -646,7 +646,7 @@ _Threads_:
 -   The number of tasks being handled in parallel.
 
 Example of [Full Garbage Collection (FGC) cycles](https://apm.aa.com/e/cff28573-f815-4847-935f-ba99fd7e336f/#processdetails;id=PROCESS_GROUP_INSTANCE-E8B7F01BA802302E;gtf=2020-10-13T09:14:00-05:00%20to%202020-10-13T17:30:00-05:00;gf=-8112610223964939191 "https://apm.aa.com/e/cff28573-f815-4847-935f-ba99fd7e336f/#processdetails;id=process_group_instance-e8b7f01ba802302e;gtf=2020-10-13t09:14:00-05:00%20to%202020-10-13t17:30:00-05:00;gf=-8112610223964939191").
-![[337cde8e-af73-43f6-b05e-6a0ccafb22c9.png]]
+ ![337cde8e-af73-43f6-b05e-6a0ccafb22c9](337cde8e-af73-43f6-b05e-6a0ccafb22c9.png)
 ```
 A Full GC will be triggered whenever the heap fills up. In such a case the
 young generation is collected first followed by the old generation. If the
@@ -676,24 +676,24 @@ Breakpoints:
 -   If any problems
 
 #### Example of [Memory Kill](https://apm.aa.com/e/cff28573-f815-4847-935f-ba99fd7e336f/#customdevicegroupdetails/entity;id=CONTAINER_GROUP_INSTANCE-1F818407470F2B00;gtf=2020-10-22T00:00:00-05:00%20to%202020-10-22T01:00:00-05:00;gf=-8112610223964939191 "https://apm.aa.com/e/cff28573-f815-4847-935f-ba99fd7e336f/#customdevicegroupdetails/entity;id=container_group_instance-1f818407470f2b00;gtf=2020-10-22t00:00:00-05:00%20to%202020-10-22t01:00:00-05:00;gf=-8112610223964939191").
-![[5dcb62e2-d805-4330-b280-92331f41ae98.png]]
+ ![5dcb62e2-d805-4330-b280-92331f41ae98](5dcb62e2-d805-4330-b280-92331f41ae98.png)
 Solution: decrease max memory heap in Java args (-Xmx).
 
 #### Example of [High Suspension](https://apm.aa.com/e/cff28573-f815-4847-935f-ba99fd7e336f/#smgd;sci=SERVICE-2613010FFF24D00C;tab=RT;servicefilter=0%1E10%11SERVICE_METHOD_GROUP-6170ED52864DF885;gtf=2020-10-22T10:00:00-05:00%20to%202020-10-22T11:28:00-05:00;gf=-8112610223964939191;timeframe=custom1603383780000to1603384080000 "https://apm.aa.com/e/cff28573-f815-4847-935f-ba99fd7e336f/#smgd;sci=service-2613010fff24d00c;tab=rt;servicefilter=0%1e10%11service_method_group-6170ed52864df885;gtf=2020-10-22t10:00:00-05:00%20to%202020-10-22t11:28:00-05:00;gf=-8112610223964939191;timeframe=custom1603383780000to1603384080000").
-![[ab2dc409-b692-46af-a1d8-dc788c67e221.png]]
-![[fa62db7a-ebd6-4932-9f2b-11347fcbbec7.png]]
+ ![ab2dc409-b692-46af-a1d8-dc788c67e221](ab2dc409-b692-46af-a1d8-dc788c67e221.png)
+ ![fa62db7a-ebd6-4932-9f2b-11347fcbbec7](fa62db7a-ebd6-4932-9f2b-11347fcbbec7.png)
 
 Solution: increase max memory heap in Java args (-Xmx) or simply reduce load.
 
 #### Example of [High Garbage Collection time per thread](https://apm.aa.com/e/cff28573-f815-4847-935f-ba99fd7e336f/#processdetails;id=PROCESS_GROUP_INSTANCE-36FE36710A7D4AF6;gtf=2020-10-22T10:00:00-05:00%20to%202020-10-22T11:28:00-05:00;gf=-8112610223964939191 "https://apm.aa.com/e/cff28573-f815-4847-935f-ba99fd7e336f/#processdetails;id=process_group_instance-36fe36710a7d4af6;gtf=2020-10-22t10:00:00-05:00%20to%202020-10-22t11:28:00-05:00;gf=-8112610223964939191").
 
-![[5a4d9b5f-3b0b-4801-bb3b-fc8a9aba1e9d.png]]
+ ![5a4d9b5f-3b0b-4801-bb3b-fc8a9aba1e9d](5a4d9b5f-3b0b-4801-bb3b-fc8a9aba1e9d.png)
 
 Solution: reduce number of objects being created per thread in your code. 
 
 #### Example of Running Vusers during Failures.
 
-![[353a747d-1fa0-4438-8916-52ff26468344.png]]
+ ![353a747d-1fa0-4438-8916-52ff26468344](353a747d-1fa0-4438-8916-52ff26468344.png)
 From Performance Center Results:
 1.  Click `+ Add` by `Merged Graphs`.
 2.  Add `Running Vusers`
@@ -702,7 +702,7 @@ From Performance Center Results:
     2.  And `Trans/Sec (Failed)`
 4.  Select `Show only me`, `Show`, and `Show` respectively.
 
-![[52001e00-1dfe-497c-b888-67ea10da29c7.png]]
+ ![52001e00-1dfe-497c-b888-67ea10da29c7](52001e00-1dfe-497c-b888-67ea10da29c7.png)
 
 
 ### Java Profiling
@@ -743,7 +743,7 @@ Cucumber is a testing Framework written in Java that allows you to create Englis
 
 * Reflect
 * Template Injection
-![[Pasted image 20221024212012.png]]
+ ![Pasted image 20221024212012](Pasted image 20221024212012.png)
 Whenever we are working on a User Story, we’re writing code that’s delivering some business feature, and so we want to record all of those business requirements somewhere so that after we’re finished, we have a giant document that outlines all of the expected behavior of AOL. Cucumber allows us to write out all those feature requirements with the business, and then those business sentences double at automated tests.
 
 - Gherkin is the language that cucumber understands, it is a business Readable, domain specific language that lets you describe software behavior without detailing its implementation.
@@ -788,7 +788,7 @@ We have about 20 products that we provision as Ancillaries in Ticketing and Rece
 
 The complexity came in when our Product Owner said, "Hey, we want to allow our cannels to send multiple products in the same request." Well to that, we have to dynamically determine the routing slip based on the combinations of products. And we want to avoid redundancy. Seats and Miliage Multiplier both collect money. Let's only call our payment service once. So we're not merely taking the routing slips and appending them together. What we want to do is compare the routing slips for each product and smartly and dynamically create the optimal routing slip. And order matters, so we need to look through the DNA strand as it were, and see if there are any genome sequences that we can use. We check the route, and the neighor of that route. If `populateAESequenceNumber` needs to come before `createMSDRoute` in one slip, it needs to come before it in the final aggregate slip.
 
-![[Pasted image 20221026150409.png]]
+ ![Pasted image 20221026150409](Pasted image 20221026150409.png)
 
 A neighbor is a route that already exists in the accumulated routing slip, and next to the route in question. A neighbor serves as the reference for where an unmatched route should be injected.
 

@@ -30,7 +30,7 @@ Want proof – do a quick muscle test and everyone is the same – all energy di
 
 I ALWAYS use the cheapest and best – but ONLY if those two conditions are simultaneous… I have NOOOOOOOO trouble with making a ton of money selling a $79 (for say $179) unit instead of a $500 unit (same amt of profit)  - and easier on pocket book – IFFFF it works… but in 15 yrs not one single happy person to say something good about it except for those few poor suckers that had ONLY used the machine temporarily (as in just bought it or hardly ever used it)!  This is my own personal experience…
 
-![[robert-von-2.jpg]]
+ ![robert-von-2](https://i.imgur.com/XpYc5YZ.jpg)
 
 List of Professionals Using The Chi Machine & HotHouse
 

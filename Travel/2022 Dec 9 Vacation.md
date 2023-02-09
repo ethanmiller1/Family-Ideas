@@ -4,7 +4,7 @@ There are 3 destinations we are thinking about traveling to:
 2. New York
 3. Disney World!
 
-![[Pasted image 20221208104659.jpg]]
+ ![Pasted image 20221208104659](https://i.imgur.com/YjX64EM.jpg)
 
 [2022 Dec 9 Vacation Flights.xlsx](https://mysite.aa.com/:x:/g/personal/242924_corpaa_aa_com/EUBC189TDo1Mpli5SEb2H6IB2R5SVCt8eB0QP0asLFaINQ?e=tJXWqj)
 
@@ -42,20 +42,20 @@ Take bus S2. They go both directions so make sure to get on the right one.
 ## Stuff we were too late for
 
 Cable Car tour.
-![[06F0AEC3-EB76-4012-B5CD-11650C3B5C73.jpeg]]
+ ![06F0AEC3-EB76-4012-B5CD-11650C3B5C73](https://i.imgur.com/QMLJgZM.jpg)
 
 Fondue at the national museum with the Yuki Show.
-![[8C622A3B-F1EC-46F0-9E7A-F44B8E784669.png]]
+ ![8C622A3B-F1EC-46F0-9E7A-F44B8E784669](https://i.imgur.com/fN3gZAv.png)
 
 ## Itinerary
 
 ### Dec 12
 #### Airport to Hotel
 
-![[B3E5BAAE-0999-4A2E-87B7-0F0F806917ED.jpeg]]
-![[C5A27963-9F47-4156-B113-BD450A04B541.jpeg]]
+ ![B3E5BAAE-0999-4A2E-87B7-0F0F806917ED](https://i.imgur.com/qpZ3vtb.jpg)
+ ![C5A27963-9F47-4156-B113-BD450A04B541](https://i.imgur.com/3jiVafK.jpg)
 
-![[9B53E5BD-B767-45B2-8E06-B1AB89533F9D.png]]
+ ![9B53E5BD-B767-45B2-8E06-B1AB89533F9D](https://i.imgur.com/BpvWUEt.png)
 
 Nap
 #### Hotel to Oh My Greek
@@ -66,24 +66,24 @@ Nap
 #### Hotel to breakfast
 #### Breakfast to Chocolate Factory
 
-![[C6715112-7C2C-4BA7-AE75-7AA8DEF8184E.jpeg]]
+ ![C6715112-7C2C-4BA7-AE75-7AA8DEF8184E](https://i.imgur.com/irPMj8F.jpg)
 
-![[D14E7823-C96D-43EA-94E7-6118FB3D83A5.png]]
+ ![D14E7823-C96D-43EA-94E7-6118FB3D83A5](https://i.imgur.com/vwZVynY.png)
 
-![[DA883CC8-B351-4935-ABB9-E793198433B0.png]]
+ ![DA883CC8-B351-4935-ABB9-E793198433B0](https://i.imgur.com/nfCVMgG.png)
 
 #### Chocolate Factory to Hotel
 #### Hotel to Christmas market
 #### Christmas market to fondue
 
-![[CD9255D6-BE3D-4C72-AB0C-663CFEEAA441.png]]
+ ![CD9255D6-BE3D-4C72-AB0C-663CFEEAA441](https://i.imgur.com/AZMnsw9.png)
 
 #### Fondue to hotel
 
-![[78103F90-3289-4150-A5E3-E2A83491A94E.jpeg]]
+ ![78103F90-3289-4150-A5E3-E2A83491A94E](https://i.imgur.com/7D8Naxo.jpg)
 
 ### Dec 14
 
 #### Hotel to airport
 
-![[18B83947-0B40-4540-BE72-7EBD88DA7E65.jpeg]]
+ ![18B83947-0B40-4540-BE72-7EBD88DA7E65](https://i.imgur.com/4HHhZX3.jpg)

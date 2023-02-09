@@ -46,7 +46,7 @@ City Clerk: [allcityclerks@elsegundo.org](mailto:allcityclerks@elsegundo.org&amp
 
 ## Product Page
 
-![[Pasted image 20221207200115.jpg]]
+ ![Pasted image 20221207200115](https://i.imgur.com/l8s0jyN.jpg)
 
 # Bait-and-Switch Advertising
 
@@ -62,7 +62,7 @@ Don't be fooled. As you will see in a moment, this is a bait-and switch.
 
 >I am sorry for the misunderstanding, Ethan. However, <mark class="hltr-yellow">when you place the order on our website there's a statement on the check out that discusses about the subscription</mark>. As much as I want to process the refund, I just couldn't since it's already beyond the moneyback guarantee. Here's what I'll do instead. I'll request one of my supervisors to review your account and check if we can still give considerations in processing the refund. An email will be sent to you within 24-48 hours as a confirmation for the return and refund policies. Thank you. ~ Ingrid
 
-![[IMG_3545.jpg]]
+ ![IMG_3545](https://i.imgur.com/2GxLk6X.jpg)
 
 # Negative options
 
@@ -137,4 +137,4 @@ At the state level, California Automatic Renewal Laws (ARLs) state businesses of
 
 I tried to leave a review on your site, but my review was taken out by an internal process.
 
-![[Pasted image 20221207211139.jpg]]
+ ![Pasted image 20221207211139](https://i.imgur.com/zN7ssIh.jpg)

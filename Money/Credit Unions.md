@@ -8,7 +8,7 @@ Low APY.
 
 Earn 4.05% APY On Your Savings No Fees Or Minimums.
 
-![[Pasted image 20230203214712.png]]
+ ![Pasted image 20230203214712](https://i.imgur.com/vEstPbL.png)
 
 # Vio Bank
 

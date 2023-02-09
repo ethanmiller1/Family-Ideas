@@ -46,10 +46,10 @@ int main()
 
 ### Diagrams
 Usually applied to Binary Search ([Neatcode](https://youtu.be/BgLTDT03QtU?t=648)). Any algorithm where you can eliminate half of the elements from consideration each time the statement executes.
-![[Pasted image 20221026132917.png]]
+ ![Pasted image 20221026132917](Pasted image 20221026132917.png)
 
 This is common in Binary Tree solutions.
-![[Pasted image 20221026133150.png]]
+ ![Pasted image 20221026133150](Pasted image 20221026133150.png)
 
 
 

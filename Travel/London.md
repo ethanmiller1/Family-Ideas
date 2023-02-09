@@ -19,9 +19,9 @@
 * Harry Potter Museum (24 min North of LHR)
 * [Bus tour](https://www.gttickets.com/en/london/hop-on-hop-off-london-bus-tour?r=tudorcourthotel.gttickets.com) (bring headphones) | [Download map](https://d1wgio6yfhqlw1.cloudfront.net/UserFiles/file/london-hop-on-hop-off-map.pdf)
 
-![[BD449333-85F3-4A11-BC14-A0527881B73F.jpeg]]
+ ![BD449333-85F3-4A11-BC14-A0527881B73F](https://i.imgur.com/f6QTcxB.jpg)
 
-![[CC9C31C2-C9BA-4260-978A-A586CF38B179.jpeg]]
+ ![CC9C31C2-C9BA-4260-978A-A586CF38B179](https://i.imgur.com/DuwbNXN.jpg)
 
 # Where to Eat
 
@@ -58,9 +58,9 @@ Download the [Bus Times](https://apps.apple.com/us/app/london-live-bus-countdown
 
 Look for the Stop Letters.
 
-![[53E2740C-D851-4D54-8CA7-836DAC59F391.jpeg]]
+ ![53E2740C-D851-4D54-8CA7-836DAC59F391](https://i.imgur.com/hbXFuMk.jpg)
 
-![[83771574-83D5-47B0-9A66-8377994BB1DE.jpeg]]
+ ![83771574-83D5-47B0-9A66-8377994BB1DE](https://i.imgur.com/2v1a7gw.jpg)
 
 # Forecast
 

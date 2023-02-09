@@ -6,7 +6,7 @@
 
 NRT is about 2 hours from Tokyo. HND is a better airport if going to Tokyo.
 
-![[CE2BA774-DADA-4929-B5EB-0CEC78B05F96.jpeg]]
+ ![CE2BA774-DADA-4929-B5EB-0CEC78B05F96](https://i.imgur.com/V4WvA9Y.jpg)
 
 # Getting Around
 

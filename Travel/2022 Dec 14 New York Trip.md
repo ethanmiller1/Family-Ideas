@@ -4,13 +4,13 @@ Metro card is $33 for 7 days and works for 2 people. You can load your card into
 
 # Where to Stay
 
-![[B21E1B27-8891-44F0-B7FB-46884376EF4F.jpeg]]
+ ![B21E1B27-8891-44F0-B7FB-46884376EF4F](https://i.imgur.com/OYIffVV.jpg)
 
 * [Club Quarters Hotel](https://maps.app.goo.gl/gUJpq5Rx7jg42u7L8?g_st=ic) - 4.3 4-star, $270
 * [EVEN Hotel New York](https://maps.app.goo.gl/AbYkizdC2eCQD7X5A?g_st=ic)- 4.3 4-star, $216
 * [Paramount Hotel Times Square](https://maps.app.goo.gl/habUMMN6X1NuJ7AH7?g_st=ic) - 3.5 4-star, $225
 
-![[D7BA0C8F-71A0-4745-A0DE-F34DAB91E0F1.png]]
+ ![D7BA0C8F-71A0-4745-A0DE-F34DAB91E0F1](https://i.imgur.com/Tny9kMV.png)
 
 # What to Do
 
@@ -32,13 +32,13 @@ Metro card is $33 for 7 days and works for 2 people. You can load your card into
 
 ### Airport to Hotel
 
-![[391B486A-F1A5-46F8-9F49-7E090D159B60.jpeg]]
+ ![391B486A-F1A5-46F8-9F49-7E090D159B60](https://i.imgur.com/rJWqMWV.jpg)
 
 ## Dec 15
 
 ### Hotel to Lunch
 
-![[0E840010-AEAF-4776-8FAB-28C8334E613A.jpeg]]
+ ![0E840010-AEAF-4776-8FAB-28C8334E613A](https://i.imgur.com/qD3dcnf.jpg)
 
 ### Lunch to Starbucks
 
@@ -66,15 +66,15 @@ To get out of the rain
 
 ### Starbucks to park walk
 
-![[DC5EE692-00E7-486F-B850-B7296BD0AB95.png]]
+ ![DC5EE692-00E7-486F-B850-B7296BD0AB95](https://i.imgur.com/ygNAU6T.png)
 
 # Boarding Passes
 
 Immigration Receipt:
-![[759DF353-C5B9-4AB0-B630-BB4C645B96ED.jpeg]]
+ ![759DF353-C5B9-4AB0-B630-BB4C645B96ED](https://i.imgur.com/pDiKBYf.jpg)
 
 Boarding pass:
-![[D99D3A8F-9DB2-4540-8769-2131134684F9.jpeg]]
+ ![D99D3A8F-9DB2-4540-8769-2131134684F9](https://i.imgur.com/KVw9Ncf.jpg)
 
-![[025A9AB2-A389-492C-ABA1-BA0CDEA42E3D.jpeg]]
+ ![025A9AB2-A389-492C-ABA1-BA0CDEA42E3D](https://i.imgur.com/wdwTXOx.jpg)
 

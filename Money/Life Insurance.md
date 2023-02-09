@@ -11,7 +11,7 @@ Permanent -
 * Average 4% growth per year
 * Take out loan with interest that equals `growth rate / 2`.
 
-![[Pasted image 20221229132535.png]]
+ ![Pasted image 20221229132535](https://i.imgur.com/qbMQRr8.png)
 
 [Visual Presentation with Daniel](https://www.youtube.com/watch?v=bhTfWN6Rm5o)
 

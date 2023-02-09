@@ -22,7 +22,7 @@ You can either [buy the phone](https://www.ebay.com/sch/i.html?_dcat=9355&_fsrp=
 
 You will have to sign in with your Google account, but the emulator should save the state when you turn it off.
 
-![[Pasted image 20221217115018.png]]
+ ![Pasted image 20221217115018](https://i.imgur.com/Bk1pPZg.png)
 
 1. Drag and drop files to your emulator
 2. Click Device Folders to discover photos under Downloads
@@ -33,7 +33,7 @@ You will have to sign in with your Google account, but the emulator should save 
 
 https://thomas.vanhoutte.be/miniblog/google-photos-upload-error/
 
-![[Pasted image 20221217185134.png]]
+ ![Pasted image 20221217185134](https://i.imgur.com/QcWui3S.png)
 
 ## Online
 

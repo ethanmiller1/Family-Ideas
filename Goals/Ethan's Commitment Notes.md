@@ -73,4 +73,4 @@ Praise the Lord!
 
 # I Follow The Example Of Great Men
 
-![[748A43B1-402F-44AE-AF3D-621D085EF578.jpeg]]
+ ![748A43B1-402F-44AE-AF3D-621D085EF578](https://i.imgur.com/OPVEVha.jpg)
