@@ -59,7 +59,7 @@ Living by these principles means you’re living an honest and authentic life wh
 
 It’s easy to believe people in [the No Action] group aren’t expending energy and other resources, but this is not so. Every action group is busy channeling their time, money, and potential into something. The No Action group is the habit of devoting themselves into things that won’t matter in the long run.
 ​
-There’s no such thing as unrealistic goals for the extraordinary person — there only exist goals that require massive amounts of action compared to others. (Cardone, 2011)f
+There’s no such thing as unrealistic goals for the extraordinary person — there only exist goals that require massive amounts of action compared to others. (Cardone, 2011)
 
 ---
 Cardone, Grant. **_The 10x Rule**: The Only Difference between Success and Failure_. Wiley, 2011, [_Headway_](https://web.get-headway.com/book/the-10x-rule)
