@@ -82,3 +82,12 @@ The [Paris Metro](https://www.introducingparis.com/metro) has a [Paris Visite](h
 | 5 Days   | € 38.35 (US$ 42.20)                                  | € 65.80 (US$ 72.40) |
 
 Download the [Paris Metro Map and Routes app](https://apps.apple.com/us/app/paris-metro-map-and-routes/id527534137).
+
+# Forecast
+
+| Date      | Low | High |
+|-----------|-----|------|
+| 2/13/2023 | 33  | 51   |
+| 2/14/2023 | 35  | 54   |
+| 2/15/2023 | 36  | 55   |
+| 2/16/2023 | 37  | 55   |
